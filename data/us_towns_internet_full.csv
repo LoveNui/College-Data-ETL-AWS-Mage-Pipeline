@@ -1,0 +1,3666 @@
+state_name,town_name,median_download_speed,median_upload_speed,median_latency
+Alabama,Alabaster,239.37,22.14,16
+Alabama,Albertville,196.19,21.8,22
+Alabama,Andalusia,156.48,29.92,28
+Alabama,Anniston,162.66,30.97,10
+Alabama,Athens,196.78,22.03,22
+Alabama,Auburn,192.82,22.16,16
+Alabama,Bessemer,177.78,11.82,16
+Alabama,Birmingham,140.61,16.87,16
+Alabama,Center Point,233.4,21.12,23
+Alabama,Chelsea,257.21,35.48,16
+Alabama,Cullman,190.62,21.08,12
+Alabama,Daphne,194.48,39.39,23
+Alabama,Decatur,224.9,20.29,22
+Alabama,Dothan,188.6,18.42,23
+Alabama,Enterprise,233.2,17.5,19
+Alabama,Fairhope,127.76,47,24
+Alabama,Florence,171.23,15.56,27
+Alabama,Foley,90.48,24.97,15
+Alabama,Fort Payne,150.74,22.65,26
+Alabama,Gadsden,236.5,23.51,26
+Alabama,Gardendale,271.57,20.28,24
+Alabama,Gulf Shores,113.61,34.11,20
+Alabama,Guntersville,188.26,11.62,24
+Alabama,Helena,231.51,22.94,15
+Alabama,Homewood,144.47,22.19,17
+Alabama,Hoover,224.34,21.45,17
+Alabama,Huntsville,238.98,105.61,11
+Alabama,Irondale,220.09,29.94,13
+Alabama,Jasper,189.42,19.51,20
+Alabama,Leeds,253.62,11.55,19
+Alabama,Madison,196.48,37.76,22
+Alabama,Meadowbrook,198.77,16.13,19
+Alabama,Meridianville,256.48,179.48,19
+Alabama,Millbrook,246.91,19.83,10
+Alabama,Mobile,201.17,23.83,17
+Alabama,Montgomery,183.62,21.79,22
+Alabama,Moody,188.72,20.58,23
+Alabama,Mountain Brook,180.13,22.19,16
+Alabama,Muscle Shoals,198.23,23.4,27
+Alabama,Northport,236.24,22.92,23
+Alabama,Odenville,53.7,12.78,24
+Alabama,Oneonta,101.57,16.73,11
+Alabama,Opelika,197.11,58.68,10
+Alabama,Orange Beach,121.72,83.83,13
+Alabama,Pelham,224.09,21.03,17
+Alabama,Pell City,104.8,13.01,24
+Alabama,Phenix City,138.09,27.11,16
+Alabama,Prattville,200.46,23.25,22
+Alabama,Saraland,178.48,22.71,17
+Alabama,Scottsboro,95.42,67.54,4
+Alabama,Tillmans Corner,226.21,40.9,19
+Alabama,Troy,109.46,85.82,4
+Alabama,Trussville,219.06,18.5,24
+Alabama,Tuscaloosa,177.51,23.48,23
+Alabama,Vestavia Hills,180.99,21.36,17
+Alaska,Anchorage,154.53,28.54,10
+Alaska,College,41.06,19.45,19
+Alaska,Fairbanks,189.31,38.48,15
+Alaska,Juneau,142.03,28.16,26
+Alaska,Knik-Fairview,45.18,10.1,9
+Alaska,Meadow Lakes,37.31,8.22,9
+Alaska,Wasilla,73.94,19.68,9
+Arizona,Apache Junction,115.69,25.94,12
+Arizona,Arizona City,65.09,41.81,11
+Arizona,Avondale,180.86,22.58,11
+Arizona,Buckeye,258.72,36.57,10
+Arizona,Bullhead City,108.16,20.57,21
+Arizona,Camp Verde,28.56,4.92,34
+Arizona,Casa Grande,158.89,10.62,13
+Arizona,Casas Adobes,232.17,14.43,11
+Arizona,Catalina Foothills,212.3,12,12
+Arizona,Cave Creek,52.4,17.77,12
+Arizona,Chandler,209.45,11.15,10
+Arizona,Chino Valley,73.32,16.43,13
+Arizona,Cottonwood,106.7,20.03,17
+Arizona,Cottonwood-Verde Village,63.47,7.8,18
+Arizona,Drexel Heights,277.15,15.33,12
+Arizona,El Mirage,234.11,26.33,11
+Arizona,Flagstaff,169.1,28.31,17
+Arizona,Florence,167.15,31.17,11
+Arizona,Fort Mohave,80.88,16.9,24
+Arizona,Fortuna Foothills,193.63,11.37,20
+Arizona,Fountain Hills,173.45,10.44,13
+Arizona,Gilbert,225.35,17.58,10
+Arizona,Glendale,207.93,23.59,12
+Arizona,Gold Canyon,109.34,21.51,13
+Arizona,Goodyear,253.32,31.83,11
+Arizona,Green Valley,159.38,10.19,15
+Arizona,Kingman,196.53,22.96,19
+Arizona,Lake Havasu City,169.05,21.43,19
+Arizona,Marana,237.41,17.44,11
+Arizona,Maricopa,164.22,23.22,11
+Arizona,Mesa,185.49,11.5,11
+Arizona,New River,70.83,18.6,13
+Arizona,Nogales,94.7,26.02,17
+Arizona,Oro Valley,209.93,12.61,12
+Arizona,Page,47.28,17.36,18
+Arizona,Paradise Valley,114.4,10.94,13
+Arizona,Payson,85.12,7.27,21
+Arizona,Peoria,239.04,33.76,11
+Arizona,Phoenix,163.26,19.07,11
+Arizona,Picture Rocks,115.39,11.58,11
+Arizona,Prescott,177.75,20.93,11
+Arizona,Prescott Valley,173.29,20.87,11
+Arizona,Queen Creek,251.11,34.95,11
+Arizona,Sahuarita,190.36,10.79,14
+Arizona,San Luis,115,11.47,20
+Arizona,San Tan Valley,257.67,27.41,11
+Arizona,Scottsdale,171.26,13.03,11
+Arizona,Sedona,80.03,7.4,17
+Arizona,Show Low,100,20.06,21
+Arizona,Sierra Vista,168.29,10.27,16
+Arizona,Sierra Vista Southeast,119.37,10.01,16
+Arizona,Sun City,200.6,10.89,11
+Arizona,Sun City West,182.33,10.75,11
+Arizona,Sun Lakes,100.63,12.9,11
+Arizona,Surprise,277.19,37.21,9
+Arizona,Tanque Verde,178,11.39,13
+Arizona,Tempe,174.46,11.6,10
+Arizona,Tolleson,227.37,26.25,10
+Arizona,Tortolita,220.69,13.52,11
+Arizona,Tucson,166.84,10.76,13
+Arizona,Valencia West,238.43,21.46,13
+Arizona,Yuma,199.53,11.53,19
+Arkansas,Bella Vista,167.02,10.46,22
+Arkansas,Benton,192.56,52.06,11
+Arkansas,Bentonville,218.13,24.73,20
+Arkansas,Bryant,202.34,36.22,13
+Arkansas,Cabot,106.64,7.96,11
+Arkansas,Centerton,250.83,36.48,17
+Arkansas,Conway,97.98,30.51,10
+Arkansas,El Dorado,186.66,26.74,17
+Arkansas,Fayetteville,167.15,40.9,15
+Arkansas,Fort Smith,192.52,21.14,16
+Arkansas,Gibson,77.93,14.08,23
+Arkansas,Greenbrier,89.21,38.41,9
+Arkansas,Harrison,97.06,24.75,16
+Arkansas,Hot Springs,93.68,16.55,37
+Arkansas,Hot Springs Village,104.68,21.13,20
+Arkansas,Jacksonville,145.5,20.63,13
+Arkansas,Jonesboro,219.7,50.83,9
+Arkansas,Little Rock,176.07,23.83,13
+Arkansas,Maumelle,196.78,53.33,14
+Arkansas,Mountain Home,145.67,37.48,12
+Arkansas,North Little Rock,200.71,24.1,13
+Arkansas,Paragould,92.07,19.42,3
+Arkansas,Pine Bluff,147.55,9.59,11
+Arkansas,Rogers,233.33,36.54,20
+Arkansas,Russellville,206.21,30.82,11
+Arkansas,Searcy,94.02,40.62,14
+Arkansas,Sherwood,215.15,23.5,15
+Arkansas,Siloam Springs,229.45,10.79,18
+Arkansas,Springdale,205.43,36.74,14
+Arkansas,Texarkana,230.22,31.41,14
+Arkansas,Van Buren,150.68,32.01,15
+Arkansas,West Memphis,149.14,19.87,15
+California,Adelanto,284.73,47.93,11
+California,Agoura Hills,193.43,17.76,15
+California,Alameda,221.04,30.85,11
+California,Alamo,212.63,23.05,14
+California,Albany,223.13,124.08,6
+California,Alhambra,196.56,17.01,10
+California,Aliso Viejo,187.73,10.8,12
+California,Alpine,207.18,10.59,11
+California,Altadena,237.03,52.58,8
+California,Alum Rock,282.13,28.94,11
+California,Anaheim,197.7,20.12,13
+California,Anderson,157.31,11.14,32
+California,Antelope,235.12,21.32,10
+California,Antioch,244.24,23.52,14
+California,Apple Valley,229.35,92.91,9
+California,Aptos,172.45,21.77,14
+California,Arcadia,219.58,21.72,14
+California,Arcata,114.92,21.23,10
+California,Arden-Arcade,221.25,71.38,7
+California,Arroyo Grande,114.8,11.2,11
+California,Artesia,197.38,90.05,7
+California,Ashland,182.05,17.82,12
+California,Atascadero,128.21,11.3,12
+California,Atherton,207.43,23.94,13
+California,Atwater,221.66,17.4,17
+California,Auburn,57.43,10.52,16
+California,Azusa,234.32,22.11,10
+California,Bakersfield,224.03,20.75,15
+California,Baldwin Park,246.57,55.53,8
+California,Banning,239.14,22.48,15
+California,Barstow,256.86,16.31,16
+California,Baywood-Los Osos,195.92,11.1,12
+California,Beaumont,247.26,105.14,9
+California,Bell,330,31.99,12
+California,Bell Gardens,258.37,21.93,12
+California,Bellflower,272.69,23.62,10
+California,Belmont,305.21,44.24,10
+California,Belvedere Tiburon,233.76,21.38,16
+California,Benicia,192.27,21.57,15
+California,Berkeley,211.33,89.25,7
+California,Bermuda Dunes,232.09,69.52,10
+California,Beverly Hills,220.78,20.8,14
+California,Big Bear Lake,213.33,11.14,15
+California,Blackhawk,184.54,22.78,15
+California,Blythe,181.15,19.86,16
+California,Bonita,223.63,11.05,11
+California,Bostonia,220.51,10.8,10
+California,Brawley,224.57,11.48,18
+California,Brea,187.88,19.81,14
+California,Brentwood,263.44,41.8,11
+California,Buena Park,231.31,21.3,12
+California,Burbank,222.25,20.18,12
+California,Burlingame,238.74,35.01,11
+California,Calabasas,246.68,19.77,13
+California,Calexico,177.98,11.36,20
+California,Calimesa,271.3,23.1,14
+California,Camarillo,219.26,39.77,11
+California,Cameron Park,231.04,20.31,14
+California,Campbell,214.03,21.1,13
+California,Capitola,218.89,21.16,13
+California,Carlsbad,201.13,18.48,17
+California,Carmichael,215.86,23.79,9
+California,Carson,222.45,19.88,13
+California,Casa de Oro-Mount Helix,193.03,11.1,11
+California,Castaic,127.78,11.86,15
+California,Castro Valley,223.35,23.27,13
+California,Cathedral City,256.99,19.06,19
+California,Ceres,165.11,14.47,23
+California,Cerritos,244.1,93.57,7
+California,Chico,225.51,20.56,15
+California,Chino,223.33,70.63,8
+California,Chino Hills,231.72,35.88,10
+California,Chula Vista,226.8,34.79,9
+California,Citrus Heights,207.58,16.7,11
+California,City of Industry,245.12,96.63,7
+California,Claremont,219.88,22.54,14
+California,Clovis,245.89,23.43,17
+California,Coachella,260.45,17.14,19
+California,Colma,241.39,23.29,13
+California,Colton,211.76,19.37,16
+California,Commerce,212.96,21.56,11
+California,Compton,228.99,20.42,13
+California,Concord,228.63,17.76,13
+California,Corona,209.06,17.86,17
+California,Coronado,165.88,19.64,17
+California,Corte Madera,207.42,23.22,16
+California,Costa Mesa,218.38,21.44,13
+California,Coto de Caza,186.83,19.64,12
+California,Covina,235.02,23.16,13
+California,Cudahy,283.96,20.33,13
+California,Culver City,258.84,23.03,10
+California,Cupertino,235.78,23.14,11
+California,Cypress,223.27,17.09,13
+California,Daly City,239.07,23.2,12
+California,Dana Point,207.37,11,12
+California,Danville,223.27,21.89,15
+California,Davis,178.26,13.7,14
+California,Delano,216.92,12.87,15
+California,Desert Hot Springs,256.75,13.5,19
+California,Diamond Bar,203.75,20.7,13
+California,Dixon,155.89,17.48,13
+California,Downey,269.23,23.04,11
+California,Duarte,263.98,34.33,9
+California,Dublin,239.84,23.75,12
+California,East Foothills,271.31,21.53,13
+California,East Hemet,181.47,23.45,14
+California,East Los Angeles,262.7,22.2,13
+California,East Palo Alto,214.81,23.6,12
+California,East Whittier,260.29,48.09,10
+California,Eastvale,231.56,23.15,13
+California,El Cajon,195.74,10.79,10
+California,El Centro,199.11,11.5,19
+California,El Cerrito,212.82,23.64,12
+California,El Dorado Hills,216.19,22.12,14
+California,El Monte,243.94,18.05,14
+California,El Segundo,184.71,22.14,12
+California,Elk Grove,221.68,22.78,11
+California,Emeryville,186.4,30.33,9
+California,Encinitas,175.67,19.46,16
+California,Escondido,177.12,11.55,12
+California,Eureka,126.02,21.16,11
+California,Fair Oaks,180.69,18.52,12
+California,Fairfield,235.86,23,15
+California,Fallbrook,70.23,11.68,19
+California,Florence-Graham,185.64,18.15,15
+California,Florin,251.65,23.46,12
+California,Folsom,219.66,20.52,11
+California,Fontana,229.78,21.18,15
+California,Foothill Farms,208.18,23.5,10
+California,Foster City,237.44,23.64,13
+California,Fountain Valley,194.32,16.38,13
+California,Fremont,181.48,21.85,14
+California,Fresno,225.11,22.46,16
+California,Fullerton,223.95,21.43,13
+California,Galt,98.77,14.94,15
+California,Garden Grove,225.7,21.09,12
+California,Gardena,257.25,19.58,12
+California,Gilroy,212.08,18.89,16
+California,Glendale,216.47,15.9,12
+California,Glendora,232.48,22.51,13
+California,Gold River,226.93,17.63,11
+California,Goleta,175.99,10.7,17
+California,Granite Bay,129.58,10.66,18
+California,Hacienda Heights,204.87,22.68,13
+California,Half Moon Bay,207.2,18.9,15
+California,Hanford,274.7,20.45,19
+California,Hawthorne,231.97,19.46,13
+California,Hayward,143.48,18.43,13
+California,Hemet,235.45,23.06,15
+California,Hercules,216.29,22.71,14
+California,Hermosa Beach,216.4,40.94,10
+California,Hesperia,250.63,33.38,11
+California,Highland,238.97,18.37,17
+California,Hillsborough,222.46,26.91,13
+California,Hollister,156.26,19.99,15
+California,Huntington Beach,231.21,22.9,12
+California,Huntington Park,235.69,21.91,11
+California,Imperial Beach,177.49,20.55,11
+California,Indio,245.71,23,17
+California,Inglewood,224.51,19.5,13
+California,Irvine,255.63,41.07,8
+California,Irwindale,245.68,94.67,6
+California,Jurupa Valley,212.58,20.4,13
+California,Kentfield,245.2,23.62,16
+California,La Cañada Flintridge,207.09,12.94,13
+California,La Crescenta-Montrose,271.91,39.38,9
+California,La Habra,238.36,18.07,14
+California,La Mesa,201.65,16.56,10
+California,La Mirada,254.92,22.65,12
+California,La Palma,224.68,18.58,13
+California,La Presa,188.72,20.24,10
+California,La Puente,260.74,73.5,7
+California,La Quinta,198.6,22.37,18
+California,La Verne,226.27,86.96,8
+California,Ladera Ranch,260.8,35.68,10
+California,Lafayette,233.71,23.17,14
+California,Laguna Beach,225.75,10.96,11
+California,Laguna Hills,166.25,11.03,12
+California,Laguna Niguel,172.9,10.72,12
+California,Laguna Woods,75.48,15.31,14
+California,Lake Arrowhead,247.76,11.18,15
+California,Lake Elsinore,210.15,23.91,14
+California,Lake Forest,196.57,22.2,10
+California,Lake San Marcos,216.8,19.51,16
+California,Lakeside,211.9,10.88,11
+California,Lakewood,222.83,22.64,12
+California,Lancaster,251.26,18.53,14
+California,Larkspur,226.27,23.4,15
+California,Lathrop,266.09,28.98,14
+California,Lawndale,235.48,19.96,12
+California,Lemon Grove,212.58,13.3,10
+California,Lemoore,333.97,22.48,20
+California,Lennox,258.93,17.11,13
+California,Lincoln,138.55,20.94,14
+California,Live Oak,236.56,18.68,13
+California,Livermore,237.44,23,13
+California,Lodi,220.34,17.57,14
+California,Loma Linda,266.49,22.26,14
+California,Lomita,284.37,20.31,14
+California,Lompoc,242.35,19.69,24
+California,Long Beach,210.33,36.74,9
+California,Loomis,184.13,11.2,15
+California,Los Alamitos,228.49,22.44,12
+California,Los Altos,222.59,23.63,12
+California,Los Altos Hills,165.3,19.27,13
+California,Los Angeles,193.19,18.87,13
+California,Los Banos,218.73,18.38,19
+California,Los Gatos,202.53,17.84,14
+California,Lucas Valley-Marinwood,148.26,22.2,16
+California,Lynwood,250.57,15.67,13
+California,Madera,198.44,19.39,18
+California,Malibu,158.13,47.51,11
+California,Mammoth Lakes,97.19,18,23
+California,Manhattan Beach,215.12,51.54,9
+California,Manteca,250.62,23.1,16
+California,Marina,185.43,19.04,15
+California,Marina del Rey,213.19,21.81,13
+California,Martinez,209.96,20.07,14
+California,McKinleyville,200.38,23.02,10
+California,Menifee,245.58,60.8,12
+California,Menlo Park,237.9,27.55,11
+California,Merced,250.2,22.41,16
+California,Mill Valley,219.39,23.99,15
+California,Millbrae,224.08,26.24,12
+California,Milpitas,191.17,22.91,12
+California,Mission Viejo,192.85,12.11,11
+California,Modesto,217.46,21.19,16
+California,Monrovia,260.98,23.53,14
+California,Montclair,247.98,23.72,10
+California,Montebello,239.72,20.86,10
+California,Montecito,211.96,10.86,19
+California,Monterey,172.74,23.48,13
+California,Monterey Park,209.26,16.12,10
+California,Moorpark,206.74,18.83,15
+California,Moraga,197.22,20.71,15
+California,Moreno Valley,258.89,23.16,13
+California,Morgan Hill,266.77,21.89,15
+California,Mountain House,301.93,84.41,13
+California,Mountain View,227.86,23.29,11
+California,Murrieta,236.73,45.38,13
+California,Napa,178.5,21.64,15
+California,National City,248.78,22.18,9
+California,Newark,164.09,20.9,13
+California,Newport Beach,206.38,22.21,12
+California,Nipomo,187.7,11.23,11
+California,Norco,210.44,22.74,12
+California,North Highlands,214.53,23.15,9
+California,North Tustin,170.04,18.6,13
+California,Norwalk,245.74,36.04,10
+California,Novato,232.65,19.8,16
+California,Oakdale,120.21,17.01,18
+California,Oakland,224.47,59.62,9
+California,Oakley,238.77,23.92,15
+California,Oceanside,186.18,11.57,12
+California,Oildale,228.29,17.55,14
+California,Ojai,94.23,11.49,15
+California,Ontario,230.75,40.32,10
+California,Orange,208.71,19.84,14
+California,Orangevale,216.2,17.44,12
+California,Orcutt,237.55,17.96,23
+California,Orinda,241.86,30.63,13
+California,Oroville East,116,11.73,17
+California,Oxnard,222.67,22.52,13
+California,Pacific Grove,234.59,23.45,14
+California,Pacifica,255.77,22.22,12
+California,Palm Desert,226.03,19.48,17
+California,Palm Springs,226.69,11.98,19
+California,Palmdale,242.64,18.85,14
+California,Palo Alto,205.24,22.68,12
+California,Palos Verdes Estates,200.66,46.98,11
+California,Paramount,219.87,19.81,13
+California,Pasadena,186.14,17.41,12
+California,Paso Robles,144.32,11.16,13
+California,Perris,240.14,40.15,12
+California,Petaluma,200.63,23.75,15
+California,Phelan,286.51,184.8,6
+California,Phoenix Lake-Cedar Ridge,115.51,11.91,15
+California,Pico Rivera,259.49,21.99,12
+California,Piedmont,228.73,41.54,10
+California,Pinole,214.17,19.79,15
+California,Pittsburg,243.94,23.51,14
+California,Placentia,195.23,17,15
+California,Placerville,33.06,10.89,28
+California,Pleasant Hill,235.09,19.77,14
+California,Pleasanton,221.54,22.26,13
+California,Pomona,236.84,31.02,12
+California,Port Hueneme,257.62,20.38,14
+California,Porterville,212.3,11.83,17
+California,Poway,194,10.92,12
+California,Ramona,132.83,11.16,14
+California,Rancho Cordova,227.48,21.4,11
+California,Rancho Cucamonga,216.67,19.47,12
+California,Rancho Mirage,244.35,13.94,18
+California,Rancho Mission Viejo,293.35,117.86,7
+California,Rancho Palos Verdes,222.35,23.53,12
+California,Rancho San Diego,197.32,10.71,10
+California,Rancho Santa Fe,158.59,112.58,7
+California,Rancho Santa Margarita,177.68,11.36,11
+California,Redding,189.08,11.25,32
+California,Redlands,220.67,61.1,10
+California,Redondo Beach,219.18,44.92,10
+California,Redwood City,276.73,40.36,11
+California,Reedley,174.35,15.28,18
+California,Rialto,215.6,18.6,17
+California,Richmond,208.79,22.57,13
+California,Ridgecrest,235.6,39.24,25
+California,Rio del Mar,192.95,17.51,14
+California,Riverbank,185.74,14.56,22
+California,Riverside,211.9,20.95,13
+California,Rocklin,178.06,15.78,14
+California,Rohnert Park,230.99,21.73,15
+California,Rolling Hills,175.14,10.91,12
+California,Rolling Hills Estates,200.73,34.55,10
+California,Rosamond,214.63,11.05,15
+California,Rosemead,202.29,16.58,11
+California,Rosemont,223.38,23.52,12
+California,Roseville,198.34,23.1,11
+California,Rossmoor,163.21,104.88,7
+California,Rowland Heights,207.86,14.63,13
+California,Sacramento,178.16,23.16,11
+California,Salinas,164.03,17.76,15
+California,San Anselmo,240.01,23.69,15
+California,San Bernardino,230.39,21.45,14
+California,San Bruno,182.21,59.83,8
+California,San Carlos,268.56,35.93,11
+California,San Clemente,226.46,10.85,11
+California,San Diego,199.18,20.32,15
+California,San Dimas,239.04,23.3,13
+California,San Fernando,294.78,32.06,11
+California,San Francisco,191.29,32.18,11
+California,San Gabriel,149.77,12.01,11
+California,San Jacinto,259.89,40.48,12
+California,San Jose,228.91,23.23,12
+California,San Juan Capistrano,201.89,16,11
+California,San Leandro,226.36,23.76,11
+California,San Lorenzo,210.25,23.65,12
+California,San Luis Obispo,174.8,11.33,11
+California,San Marcos,192.36,20.01,12
+California,San Marino,190.42,11.87,15
+California,San Martin,106.32,17.95,16
+California,San Mateo,244.56,31.36,11
+California,San Pablo,224.34,20.64,13
+California,San Rafael,167.86,22.61,16
+California,San Ramon,233,23.72,13
+California,Santa Ana,231.09,20.92,13
+California,Santa Barbara,179.96,10.69,17
+California,Santa Clara,218.85,22.5,11
+California,Santa Clarita,232.02,19.9,13
+California,Santa Cruz,192.26,23.05,13
+California,Santa Fe Springs,206.26,38.27,10
+California,Santa Maria,200.52,20.92,23
+California,Santa Monica,201.5,22.19,13
+California,Santa Paula,187.06,15.16,15
+California,Santa Rosa,205.27,22.99,15
+California,Santee,203.64,11.68,10
+California,Saratoga,198.85,20.26,13
+California,Scotts Valley,204.02,17.67,14
+California,Seal Beach,218.29,22.43,11
+California,Seaside,218.19,19.97,14
+California,Sierra Madre,259.59,21.63,13
+California,Signal Hill,227.67,21.37,11
+California,Simi Valley,224.62,16.97,14
+California,Solana Beach,219.91,38.37,9
+California,Sonoma,126.65,17.77,17
+California,South Gate,285.3,28.13,11
+California,South Lake Tahoe,183.12,11.24,11
+California,South Pasadena,186.49,11.73,16
+California,South San Francisco,217.09,23.72,12
+California,South Whittier,275.18,107.61,7
+California,Spring Valley,220.34,14.08,10
+California,Stanford,192.04,20.87,12
+California,Stanton,240.8,12.08,13
+California,Stevenson Ranch,225.38,16.61,15
+California,Stockton,200.65,20.18,15
+California,Suisun City,205.68,21.71,15
+California,Sunnyvale,230.58,21.88,11
+California,Tamalpais-Homestead Valley,235.46,35.34,15
+California,Tehachapi,265.48,27.88,13
+California,Temecula,218.94,40.38,13
+California,Temple City,213.39,11.75,11
+California,Thousand Oaks,206.37,25.1,12
+California,Torrance,210.29,21.55,12
+California,Tracy,230.04,21.02,19
+California,Truckee,126.34,21.17,21
+California,Tulare,227.01,23.03,18
+California,Turlock,198.72,16.48,22
+California,Tustin,204.97,19.33,13
+California,Twentynine Palms,252.49,11.6,19
+California,Twin Lakes,146.72,19.51,12
+California,Ukiah,117.49,11.74,18
+California,Union City,195.38,21.39,13
+California,Upland,240.3,22.68,12
+California,Vacaville,227.79,22.47,15
+California,Valinda,272.11,38.29,10
+California,Vallejo,215.38,22.15,15
+California,Valley Center,48.88,14.57,26
+California,Ventura,215.77,16.11,14
+California,Victorville,245.37,22.37,12
+California,View Park-Windsor Hills,213.14,21.95,12
+California,Villa Park,211.99,15.7,15
+California,Vineyard,229.33,17.51,12
+California,Visalia,209.12,21.01,17
+California,Vista,178.89,11.49,13
+California,Walnut,221.58,71.13,7
+California,Walnut Creek,228.55,17.7,14
+California,Watsonville,162.01,19.61,16
+California,West Carson,202.38,13.49,13
+California,West Covina,229.54,21.96,11
+California,West Hollywood,200.47,18.56,15
+California,West Puente Valley,258.24,21.86,13
+California,West Sacramento,155.6,16.76,14
+California,West Whittier-Los Nietos,215.31,38.76,9
+California,Westlake Village,199.22,23.61,13
+California,Westminster,216.99,23.26,11
+California,Whittier,219.64,39.12,10
+California,Wildomar,183.79,38.01,13
+California,Willowbrook,274.3,20.72,12
+California,Windsor,152.25,16.81,17
+California,Winter Gardens,217.42,13.19,11
+California,Woodcrest,233.12,19.96,15
+California,Woodland,137.3,12,14
+California,Woodside,161.81,23.48,12
+California,Yorba Linda,186.2,16.1,15
+California,Yuba City,232.66,18.83,15
+California,Yucaipa,247.18,22.94,14
+California,Yucca Valley,205.01,11.54,19
+Colorado,Arvada,211.5,17.33,12
+Colorado,Aspen,170.9,17.06,18
+Colorado,Aurora,238.34,22.11,11
+Colorado,Avon,207.9,12.02,14
+Colorado,Bailey,45.09,8.39,19
+Colorado,Berkley,145.37,39.77,8
+Colorado,Berthoud,162.59,17,14
+Colorado,Black Forest,178.63,23.82,14
+Colorado,Boulder,218.01,19.36,12
+Colorado,Breckenridge,227.31,11.55,14
+Colorado,Brighton,264.65,21.93,13
+Colorado,Broomfield,224,22.23,12
+Colorado,Castle Pines,259.04,23.17,12
+Colorado,Castle Rock,264.68,23.09,12
+Colorado,Cañon City,199.69,11.14,16
+Colorado,Centennial,241.58,24.02,10
+Colorado,Cherry Hills Village,195.57,19.53,12
+Colorado,Cimarron Hills,242.75,21.28,14
+Colorado,Colorado Springs,228.62,22.03,13
+Colorado,Columbine,235.67,20.49,12
+Colorado,Commerce City,251.74,22.43,13
+Colorado,Denver,123.69,17.16,12
+Colorado,Durango,98.19,11.04,66
+Colorado,Edwards,232.33,17.2,14
+Colorado,Englewood,219.19,21.33,11
+Colorado,Erie,241.74,22.87,12
+Colorado,Estes Park,233.14,120.84,4
+Colorado,Evergreen,92.9,15.36,13
+Colorado,Firestone,240.78,20.42,13
+Colorado,Fort Carson,196.96,15.6,13
+Colorado,Fort Collins,262.85,40.99,10
+Colorado,Fort Morgan,102.09,18.9,15
+Colorado,Fountain,240.24,17.29,15
+Colorado,Frederick,221.06,23.93,13
+Colorado,Fruitvale,272.61,11.4,16
+Colorado,Golden,141.15,21.45,11
+Colorado,Grand Junction,222.47,11.4,16
+Colorado,Greeley,244.65,23,13
+Colorado,Greenwood Village,210.45,23.58,12
+Colorado,Highlands Ranch,246.41,21.76,12
+Colorado,Johnstown,169.32,17.86,13
+Colorado,Ken Caryl,211.44,16.33,12
+Colorado,Lafayette,197.78,21.77,12
+Colorado,Lakewood,188.47,20.12,11
+Colorado,Littleton,225.35,17.64,11
+Colorado,Lone Tree,246.12,24.56,12
+Colorado,Longmont,248.97,164.19,4
+Colorado,Louisville,217.72,17.94,12
+Colorado,Loveland,256.52,39.12,9
+Colorado,Montrose,143.99,122.49,4
+Colorado,Monument,212.36,19.22,13
+Colorado,North Washington,93.72,62.18,6
+Colorado,Northglenn,241.64,18.98,12
+Colorado,Parker,268.2,21.79,12
+Colorado,Pueblo,237.69,16.65,16
+Colorado,Pueblo West,46.79,12.48,22
+Colorado,Security-Widefield,241.15,22.86,14
+Colorado,Sherrelwood,253.21,19.91,11
+Colorado,Steamboat Springs,157.39,11.21,18
+Colorado,Sterling,184.75,17.7,14
+Colorado,Stonegate,251.96,17.91,12
+Colorado,Superior,215.13,17.96,13
+Colorado,Thornton,250.74,21.53,12
+Colorado,Westminster,209.78,20.6,12
+Colorado,Wheat Ridge,192.46,26.36,11
+Colorado,Windsor,218.44,20.76,14
+Colorado,Woodland Park,100.43,14.3,17
+Colorado,Woodmoor,242.78,17.9,13
+Connecticut,Ansonia,270.4,33.51,14
+Connecticut,Avon,215.52,22.96,16
+Connecticut,Berlin,267.88,35.32,13
+Connecticut,Bethel,247.95,23.56,20
+Connecticut,Bloomfield,219.47,23.6,16
+Connecticut,Branford,243.42,23.53,15
+Connecticut,Bridgeport,232.8,36.49,11
+Connecticut,Bristol,268.45,38.4,14
+Connecticut,Brookfield,255.6,16.05,22
+Connecticut,Burlington,271.66,23.49,16
+Connecticut,Cheshire,264.33,37.28,11
+Connecticut,Clinton,229.37,22.12,15
+Connecticut,Colchester,257.94,23.76,17
+Connecticut,Coventry,222.82,20.22,12
+Connecticut,Cromwell,306.2,54.21,11
+Connecticut,Danbury,236.59,22.97,21
+Connecticut,Darien,222.72,61.13,9
+Connecticut,East Hampton,317.2,94.5,11
+Connecticut,East Hartford,254.02,23.67,16
+Connecticut,East Haven,304.03,29.58,15
+Connecticut,East Lyme,229.76,28.3,16
+Connecticut,Easton,308.42,228.74,9
+Connecticut,Ellington,239.35,23,19
+Connecticut,Enfield,242.66,25.83,12
+Connecticut,Fairfield,223.45,40.85,11
+Connecticut,Farmington,238.02,23.96,15
+Connecticut,Glastonbury,247.01,36.93,10
+Connecticut,Granby,190.05,11.08,13
+Connecticut,Greenwich,222.46,41.85,9
+Connecticut,Griswold,115.08,29.35,17
+Connecticut,Groton,197.03,21.66,18
+Connecticut,Guilford,266.42,23.41,15
+Connecticut,Hamden,266.79,40.1,14
+Connecticut,Hartford,236.24,23.45,15
+Connecticut,Killingly,146.16,26.71,16
+Connecticut,Ledyard,237.11,23.23,20
+Connecticut,Litchfield,200.78,32.28,13
+Connecticut,Madison,264.02,23.27,16
+Connecticut,Manchester,260.57,33.85,11
+Connecticut,Mansfield,161.08,11.39,11
+Connecticut,Meriden,250.73,31.05,11
+Connecticut,Middletown,246.11,24,14
+Connecticut,Milford,239.03,36.64,11
+Connecticut,Monroe,258.81,19.5,21
+Connecticut,Montville,186.05,27.37,15
+Connecticut,Naugatuck,283.06,23.4,15
+Connecticut,New Britain,254.75,29.04,15
+Connecticut,New Canaan,218.82,36.03,11
+Connecticut,New Hartford,212.75,11.86,12
+Connecticut,New Haven,223.58,23.4,15
+Connecticut,New London,203.33,23.13,16
+Connecticut,New Milford,213.11,11.4,13
+Connecticut,Newington,248.52,36.77,11
+Connecticut,Newtown,229.1,18.44,22
+Connecticut,North Haven,303.91,40.95,13
+Connecticut,Norwalk,215.81,35.75,11
+Connecticut,Norwich,203.74,23.06,17
+Connecticut,Orange,227.22,36.14,12
+Connecticut,Oxford,265.4,23.9,15
+Connecticut,Plainfield,218,38.69,16
+Connecticut,Plainville,289.2,128.42,10
+Connecticut,Portland,325.97,147.36,10
+Connecticut,Redding,214.64,34.63,13
+Connecticut,Ridgefield,234.2,23.41,21
+Connecticut,Rocky Hill,252.6,31.58,11
+Connecticut,Seymour,250.66,23.65,15
+Connecticut,Shelton,269.05,35.81,14
+Connecticut,Simsbury,281.63,23.69,15
+Connecticut,South Windsor,236.69,15.74,11
+Connecticut,Southbury,212.94,11.64,14
+Connecticut,Southington,263.08,57.26,10
+Connecticut,Stamford,214.61,35.49,11
+Connecticut,Stonington,240.93,23.05,21
+Connecticut,Stratford,244.92,44.26,11
+Connecticut,Suffield,261.77,18.27,12
+Connecticut,Tolland,270.39,23.69,17
+Connecticut,Torrington,216.69,36.47,12
+Connecticut,Trumbull,308.47,102.08,10
+Connecticut,Vernon,288.96,23.62,17
+Connecticut,Wallingford,265.24,23.72,14
+Connecticut,Waterbury,267.84,31.02,16
+Connecticut,Waterford,262.99,23.84,17
+Connecticut,Watertown,252.86,36.57,12
+Connecticut,West Hartford,218.56,41.29,13
+Connecticut,West Haven,268.74,23.37,15
+Connecticut,Weston,229.24,36.68,11
+Connecticut,Westport,226.04,36.42,11
+Connecticut,Wethersfield,229.38,56.29,10
+Connecticut,Wilton,200.97,33.25,12
+Connecticut,Windham,229.28,11.46,11
+Connecticut,Windsor,266.67,23.46,16
+Connecticut,Wolcott,288.72,29.98,14
+Delaware,Bear,225.97,89.15,8
+Delaware,Brookside,190.85,38.63,9
+Delaware,Dover,236.89,28.94,14
+Delaware,Glasgow,280.53,41.94,9
+Delaware,Hockessin,249.31,127.13,7
+Delaware,Middletown,264.46,157.34,7
+Delaware,Milford,240.81,21.88,16
+Delaware,Newark,229.14,96.98,8
+Delaware,Pike Creek,214.22,41.08,10
+Delaware,Wilmington,168.37,22.89,12
+District of Columbia,Washington,174.54,28.7,10
+Florida,Altamonte Springs,255.52,18.44,15
+Florida,Apollo Beach,284.49,66.09,12
+Florida,Apopka,253.35,16.51,14
+Florida,Atlantic Beach,213.62,23.61,11
+Florida,Auburndale,252.54,19.99,14
+Florida,Aventura,199.37,23.38,9
+Florida,Azalea Park,162.37,18.78,15
+Florida,Bal Harbour,160.23,33.01,8
+Florida,Bartow,236.18,23.36,18
+Florida,Bay Harbor Islands,196.16,22.03,10
+Florida,Bay Hill,250.7,18.64,17
+Florida,Bay Lake,28.4,23.73,4
+Florida,Bayonet Point,267.83,22.78,11
+Florida,Bayshore Gardens,227.57,22.45,13
+Florida,Bee Ridge,235.4,41.03,15
+Florida,Belle Isle,275.66,22.43,16
+Florida,Bellview,255.01,13.81,15
+Florida,Bithlo,335.17,40.2,14
+Florida,Bloomingdale,270.95,22.82,12
+Florida,Boca Del Mar,223.14,17.05,14
+Florida,Boca Raton,199.36,23.99,14
+Florida,Bonita Springs,166.69,23.81,13
+Florida,Boynton Beach,213.93,23.12,12
+Florida,Bradenton,270.6,22.28,13
+Florida,Brandon,269.42,38.61,11
+Florida,Brent,177.28,10.69,15
+Florida,Buckingham,114.4,11.91,16
+Florida,Buena Ventura Lakes,244.18,16.35,17
+Florida,Butler Beach,147.46,11.98,14
+Florida,Callaway,206.93,23.76,23
+Florida,Cape Coral,222.47,22.17,14
+Florida,Casselberry,269.04,12.1,14
+Florida,Celebration,189.88,112.35,4
+Florida,Centerville,30.76,3.94,26
+Florida,Cheval,276.87,39.18,11
+Florida,Citrus Park,245.08,22.88,11
+Florida,Clearwater,221.73,22.51,12
+Florida,Clermont,249,20.51,15
+Florida,Cocoa,226,18.5,18
+Florida,Cocoa Beach,197.63,11.8,17
+Florida,Coconut Creek,251.14,23.36,11
+Florida,Conway,232.27,21.35,14
+Florida,Cooper City,253.56,31.43,10
+Florida,Coral Gables,232.63,38.57,11
+Florida,Coral Springs,187.73,23.55,11
+Florida,Coral Terrace,242.02,118.87,7
+Florida,Country Club,225.29,23.17,11
+Florida,Country Walk,298.71,40.94,10
+Florida,Crestview,253.95,11.15,17
+Florida,The Crossings,235.57,23.58,12
+Florida,Cutler Bay,279.08,38.05,11
+Florida,Cypress Gardens,247.85,21.77,13
+Florida,Cypress Lake,214.04,21.31,16
+Florida,Dania Beach,163.16,18.85,12
+Florida,Davie,238.5,23.64,11
+Florida,Daytona Beach,254.59,19.38,17
+Florida,Daytona Beach Shores,165.4,11.54,17
+Florida,DeBary,284.78,40.62,18
+Florida,Deerfield Beach,203.49,19.8,11
+Florida,DeLand,263.55,17.92,16
+Florida,Delray Beach,206.98,20.5,14
+Florida,Deltona,276.18,19.93,16
+Florida,Destin,171.95,10.57,17
+Florida,Doctor Phillips,276.88,22.91,16
+Florida,Doral,228.54,35.74,10
+Florida,Dunedin,258.6,21.19,12
+Florida,East Lake,263.14,22.53,11
+Florida,Edgewater,257.54,18.18,16
+Florida,Edgewood,206.75,13.41,17
+Florida,Egypt Lake-Leto,225.22,21.42,11
+Florida,Elfers,232.7,21.87,11
+Florida,Englewood,212.79,22.84,15
+Florida,Ensley,255.68,36.75,16
+Florida,Estero,224.96,58.59,13
+Florida,Eustis,199.19,20.51,28
+Florida,Fernandina Beach,200.32,21.44,13
+Florida,Ferry Pass,213.25,19.92,17
+Florida,Fleming Island,292.22,35.75,13
+Florida,Florida Ridge,222.74,23.15,18
+Florida,Fontainebleau,226.49,23.33,12
+Florida,Fort Lauderdale,173.49,23.63,11
+Florida,Fort Myers,189.3,23.42,15
+Florida,Fort Pierce,162.1,20.25,16
+Florida,Fort Walton Beach,190.52,10.74,16
+Florida,Four Corners,233.86,22.11,16
+Florida,Fruit Cove,276.86,23.87,13
+Florida,Fruitville,225.49,86.2,14
+Florida,Gainesville,182.58,11.08,12
+Florida,Gibsonton,291.71,76.3,12
+Florida,Gifford,208.14,21.76,20
+Florida,Glencoe,244.57,21.3,16
+Florida,Glenvar Heights,248.53,40.97,11
+Florida,Golden Gate,233.07,15.5,16
+Florida,Golden Glades,177.91,22.76,11
+Florida,Goldenrod,272.42,18.52,13
+Florida,Grant-Valkaria,245.32,11.78,17
+Florida,Greater Carrollwood,252.89,94.82,11
+Florida,Greater Northdale,262.58,90.1,11
+Florida,Greenacres,228.24,24.14,13
+Florida,Groveland,289.74,20.3,16
+Florida,Gulf Gate Estates,172.39,23.61,14
+Florida,Gulfport,235.17,19.27,12
+Florida,Haines City,307.34,20.76,14
+Florida,Hallandale Beach,193.74,22.86,12
+Florida,The Hammocks,264.49,34.32,10
+Florida,Hamptons at Boca Raton,203.36,31.18,9
+Florida,Hialeah,219.23,23.57,11
+Florida,Hialeah Gardens,213.56,23.16,11
+Florida,High Springs,42.69,10.65,25
+Florida,Holiday,275.77,23.34,12
+Florida,Hollywood,179.92,23.55,11
+Florida,Homestead,240.73,40.6,9
+Florida,Homosassa Springs,241.23,11.61,11
+Florida,Horizon West,256.23,20.85,17
+Florida,Hudson,285.5,23.08,11
+Florida,Hunters Creek,315.52,22.7,15
+Florida,Indian Harbour Beach,191.85,14.92,17
+Florida,Inverness,257.24,11.64,11
+Florida,Iona,225.14,22.58,16
+Florida,Ives Estates,255.26,27.4,11
+Florida,Jacksonville,230.51,23.9,13
+Florida,Jacksonville Beach,202.52,23.15,13
+Florida,Jasmine Estates,257.38,22.18,11
+Florida,Jensen Beach,196.63,21.04,14
+Florida,Jupiter,216.67,24.8,14
+Florida,Kendale Lakes,250.18,23.59,12
+Florida,Kendall,223.33,40.14,11
+Florida,Kendall West,263.68,35.35,11
+Florida,Key Biscayne,229.62,37.89,11
+Florida,Key Largo,99.93,11.96,16
+Florida,Key West,106.45,20.12,17
+Florida,Keystone,254.97,94.02,11
+Florida,Kissimmee,250.96,16.43,17
+Florida,Lady Lake,175.87,23.06,26
+Florida,Lake Buena Vista,28.5,24.14,4
+Florida,Lake Butler,231.74,22.46,16
+Florida,Lake Magdalene,234.62,22.7,11
+Florida,Lake Mary,230.82,21.13,14
+Florida,Lake Wales,235.15,15.9,16
+Florida,Lake Worth,162.9,23.84,13
+Florida,Lake Worth Corridor,233.34,23.61,13
+Florida,Lakeland,267.73,22.53,13
+Florida,Lakeland Highlands,256.57,23.44,12
+Florida,Lakeside,291.52,23.74,13
+Florida,Lakewood Ranch,283.01,22.65,15
+Florida,Largo,235.94,21.91,11
+Florida,Lauderhill,110.8,16.37,12
+Florida,Lealman,275.36,34.19,12
+Florida,Leesburg,171.36,23.98,25
+Florida,Lehigh Acres,166.12,11.93,16
+Florida,Leisure City,237.26,23.84,11
+Florida,Lely Resort,227.17,20.55,16
+Florida,Lithia,248.1,94.82,13
+Florida,Little Gables,207.73,40.97,10
+Florida,Lockhart,267.87,20.51,13
+Florida,Longboat Key,146.95,14.43,16
+Florida,Longwood,244.72,12.18,14
+Florida,Loxahatchee Groves,269.77,101.58,8
+Florida,Lutz,273.45,108.01,12
+Florida,Lynn Haven,218.95,23.69,27
+Florida,Maitland,253.34,17.18,13
+Florida,Mango,305.36,21.65,14
+Florida,Marco Island,128.88,22.75,16
+Florida,Margate,208.81,21.78,12
+Florida,Meadow Woods,326.17,39.89,14
+Florida,Medulla,286.57,23.27,12
+Florida,Melbourne,262.46,20.76,17
+Florida,Memphis,238.74,22.64,13
+Florida,Merritt Island,214.64,14.99,17
+Florida,Miami,155.76,29.63,10
+Florida,Miami Beach,131.48,26.9,10
+Florida,Miami Gardens,200.46,29.31,11
+Florida,Miami Lakes,288.43,142.56,7
+Florida,Miami Springs,158,27.78,8
+Florida,Minneola,224.37,19.14,16
+Florida,Miramar,254.56,23.43,11
+Florida,Miramar Beach,153.34,10.44,17
+Florida,Mount Dora,202.43,23.59,26
+Florida,Myrtle Grove,189.79,10.8,15
+Florida,Naples,184.22,23.14,16
+Florida,Navarre,323.89,52.12,19
+Florida,Neptune Beach,196.58,21.39,12
+Florida,New Port Richey,287.31,71.97,11
+Florida,New Port Richey East,274.17,66.45,11
+Florida,New Smyrna Beach,248.82,17.39,16
+Florida,Niceville,179.16,10.55,17
+Florida,North Bay Village,195.04,44.01,10
+Florida,North Fort Myers,125.55,12.19,15
+Florida,North Lauderdale,145.62,21.51,13
+Florida,North Miami,207.13,23.55,11
+Florida,North Miami Beach,204.63,23.31,10
+Florida,North Naples,178.98,28.55,13
+Florida,North Port,244.17,23.4,14
+Florida,North Sarasota,192.52,28.19,15
+Florida,Oak Ridge,299.93,21.31,17
+Florida,Oakland Park,196.34,22.84,11
+Florida,Ocala,165.27,11.46,12
+Florida,Ocoee,248.25,19.82,14
+Florida,Ojus,259.71,23.42,11
+Florida,Oldsmar,256.4,36.53,12
+Florida,Olympia Heights,224.25,23.94,11
+Florida,Orange City,249.68,11.8,15
+Florida,Orlando,212.72,22.28,14
+Florida,Ormond Beach,229.01,19.68,17
+Florida,Oviedo,296.06,23.42,13
+Florida,Palatka,118.69,20.02,13
+Florida,Palm Bay,275.81,19.95,17
+Florida,Palm Beach,161.33,19.41,16
+Florida,Palm Beach Gardens,247.93,23.46,13
+Florida,Palm City,237.16,23.44,14
+Florida,Palm Coast,275.18,21.62,18
+Florida,Palm Harbor,228.22,23.17,12
+Florida,Palm River-Clair Mel,225.42,36.68,13
+Florida,Palm Springs,213.64,23.5,14
+Florida,Palm Valley,226.65,23.48,13
+Florida,Palmetto Bay,206.82,23.49,12
+Florida,Palmetto Estates,259.31,39.15,10
+Florida,Panama City,211.92,25.01,23
+Florida,Panama City Beach,131.64,38.96,21
+Florida,Parkland,282.06,57.26,8
+Florida,Pebble Creek,292.17,28.92,11
+Florida,Pembroke Pines,252.82,25.58,10
+Florida,Pensacola,189.62,20.36,16
+Florida,Pensacola Beach,161.24,27.91,21
+Florida,Pine Castle,229,17.81,17
+Florida,Pine Hills,237.33,22.57,14
+Florida,Pine Ridge,269.96,11.65,11
+Florida,Pinecrest,217.17,40.16,12
+Florida,Pinellas Park,240.92,21.34,10
+Florida,Plant City,258.43,23.14,13
+Florida,Plantation,196.87,22.66,11
+Florida,Poinciana,296.13,22.22,16
+Florida,Pompano Beach,207.07,23.13,11
+Florida,Port Charlotte,220.66,19.23,15
+Florida,Port Orange,260.56,20.25,16
+Florida,Port Saint John,250.18,13,17
+Florida,Port Saint Lucie,240.86,23.84,14
+Florida,Port Salerno,198.5,17.63,16
+Florida,Princeton,311.64,144.06,8
+Florida,Progress Village,313.51,83.51,11
+Florida,Punta Gorda,203.54,11.88,15
+Florida,Richmond West,317.76,38.47,10
+Florida,Riverview,297.86,67.76,12
+Florida,Riviera Beach,173.36,19.78,14
+Florida,Rockledge,275.58,22.48,17
+Florida,Rotonda West,226,11.89,15
+Florida,Royal Palm Beach,292.6,23.88,14
+Florida,Ruskin,266.81,23.55,12
+Florida,Safety Harbor,247.98,22.92,11
+Florida,Saint Augustine Beach,167.96,14.9,13
+Florida,Saint Cloud,296.73,20.03,17
+Florida,Saint Johns,323.42,46.78,14
+Florida,Saint Pete Beach,244.75,18.83,12
+Florida,Saint Petersburg,217.61,21.41,12
+Florida,Samsula-Spruce Creek,248.87,12.53,17
+Florida,San Carlos Park,212.44,20.44,16
+Florida,Sandalfoot Cove,269.54,21.17,13
+Florida,Sanford,263.06,22.95,13
+Florida,Sanibel,172.32,12.97,15
+Florida,Sarasota,191.72,24.21,15
+Florida,Satellite Beach,242.8,20.97,17
+Florida,Sebastian,219.44,20.51,21
+Florida,Sebring,144.36,13.22,17
+Florida,Seminole,226.33,21.15,13
+Florida,South Bradenton,249.52,20.47,13
+Florida,South Gate Ridge,184.95,35.13,14
+Florida,South Miami,223.54,52.94,8
+Florida,South Miami Heights,292.79,39.7,10
+Florida,Southwest Ranches,204.99,23.96,11
+Florida,Spring Hill,258.81,19.61,11
+Florida,St. Augustine,118.62,19.6,13
+Florida,Stuart,140.96,23.8,13
+Florida,Sugarmill Woods,287.24,11.59,12
+Florida,Summerfield,115.27,19.39,25
+Florida,Sun City Center,270.65,22.44,12
+Florida,Sunny Isles Beach,191.57,40.3,7
+Florida,Sunrise,222.94,22.68,11
+Florida,Sunset,207.65,39.18,11
+Florida,Surfside,179.8,26.76,11
+Florida,Sweetwater,135,19.95,12
+Florida,Tallahassee,194.28,23.67,9
+Florida,Tamarac,177.57,17.28,12
+Florida,Tamiami,254,41.88,10
+Florida,Tampa,214.25,23.15,11
+Florida,Tarpon Springs,238.84,27.94,11
+Florida,Tavares,149.18,23.05,26
+Florida,Temple Terrace,228.53,23.21,11
+Florida,Three Lakes,294.13,36.85,11
+Florida,Titusville,241.88,19.42,17
+Florida,Trinity,260.87,105.56,12
+Florida,Union Park,234.82,21.19,14
+Florida,University,248.04,19.93,11
+Florida,University Park,263.37,65.5,10
+Florida,Upper Grand Lagoon,212.77,23.91,15
+Florida,Valrico,298.19,27.09,12
+Florida,Venice,189.59,23.32,14
+Florida,Vero Beach,182.75,19.23,20
+Florida,Vero Beach South,260.73,23.57,18
+Florida,The Villages,203.83,11.97,26
+Florida,Villas,209.52,22.97,16
+Florida,Warrington,190.81,10.57,17
+Florida,Wekiva Springs,235.58,11.74,14
+Florida,Wellington,245.09,23.98,13
+Florida,Wesley Chapel,279.64,98.13,12
+Florida,West Little River,260.92,58.12,8
+Florida,West Melbourne,274.11,22.83,15
+Florida,West Palm Beach,191.68,22.75,14
+Florida,West Pensacola,223.85,10.73,15
+Florida,West Perrine,284.45,167.1,6
+Florida,Westchase,269.13,89.93,11
+Florida,Westchester,223.05,29.99,11
+Florida,Weston,221.57,34.33,11
+Florida,Westwood Lakes,235.69,29.88,10
+Florida,Wildwood,263.77,11.98,23
+Florida,Williamsburg,264.33,21.04,16
+Florida,Wilton Manors,212,22.07,12
+Florida,Windermere,186.59,19.7,17
+Florida,Winter Garden,234.29,20.08,14
+Florida,Winter Haven,286.76,21.52,13
+Florida,Winter Park,225.35,13.84,14
+Florida,Winter Springs,253.94,15.8,14
+Florida,Wright,211.29,10.66,16
+Florida,Yulee,243.46,36.67,14
+Florida,Zephyrhills,232.3,35.57,12
+Georgia,Acworth,269.22,40.66,10
+Georgia,Albany,145.56,32.79,22
+Georgia,Alpharetta,217.71,43.36,9
+Georgia,Americus,107.18,27.62,20
+Georgia,Athens,214.48,19.75,12
+Georgia,Atlanta,88.95,11.98,25
+Georgia,Augusta,163.8,23.62,12
+Georgia,Belvedere Park,209.91,29.52,9
+Georgia,Braselton,250.67,38.43,12
+Georgia,Brookhaven,237.77,37.28,10
+Georgia,Buford,243.73,121.34,6
+Georgia,Canton,228.54,23.67,12
+Georgia,Carrollton,152.07,12.78,13
+Georgia,Cartersville,237.35,23.71,11
+Georgia,Chamblee,214.64,41.29,9
+Georgia,Cleveland,81.37,25.29,19
+Georgia,College Park,91.37,34.65,5
+Georgia,Columbus,190.57,29.78,16
+Georgia,Cumming,230.59,49.6,10
+Georgia,Dacula,239.22,24.09,11
+Georgia,Dahlonega,75.28,21.82,18
+Georgia,Dallas,239.69,23.8,12
+Georgia,Dalton,100.33,77.5,6
+Georgia,Decatur,191.51,24.08,10
+Georgia,Douglas,136.13,41.14,22
+Georgia,Douglasville,189.51,24.29,10
+Georgia,Duluth,277.31,134.32,7
+Georgia,Dunwoody,252.72,43.63,8
+Georgia,East Cobb,210.37,36.23,11
+Georgia,East Point,111.38,23.63,10
+Georgia,Evans,232.99,36.98,13
+Georgia,Fairburn,180.37,24.46,11
+Georgia,Fayetteville,282.48,30.76,10
+Georgia,Flowery Branch,299.26,126.84,8
+Georgia,Forest Park,176.04,23.87,10
+Georgia,Gainesville,228.21,20.84,11
+Georgia,Georgetown,194.66,23.9,26
+Georgia,Glennville,59.23,14.05,19
+Georgia,Grayson,63.37,15.81,20
+Georgia,Griffin,164.87,23.87,10
+Georgia,Grovetown,254.22,46.97,14
+Georgia,Hinesville,250.08,22.32,29
+Georgia,Holly Springs,289.02,23.52,12
+Georgia,Jefferson,157.38,23.87,13
+Georgia,Johns Creek,229,24.04,11
+Georgia,Jonesboro,168.2,23.44,11
+Georgia,Kennesaw,248.2,29.97,10
+Georgia,Kingsland,175.69,94.64,13
+Georgia,LaGrange,173.12,20.84,20
+Georgia,Lawrenceville,253.53,51.14,8
+Georgia,Lilburn,276.98,192.23,7
+Georgia,Mableton,267.46,36.86,10
+Georgia,Macon,178.69,15.98,13
+Georgia,Marietta,183.88,23.94,11
+Georgia,Martinez,197.13,23.53,14
+Georgia,McDonough,228.96,22.58,12
+Georgia,Milledgeville,180.93,22.74,13
+Georgia,Milton,219.64,33.72,11
+Georgia,Moultrie,82.47,27.88,17
+Georgia,Newnan,209.1,28.22,12
+Georgia,Norcross,192.24,41.68,10
+Georgia,North Decatur,188.74,23.76,11
+Georgia,North Druid Hills,208.91,26.75,9
+Georgia,Peachtree City,201.56,23.65,11
+Georgia,Peachtree Corners,229.42,60.49,10
+Georgia,Perry,177.45,40.54,15
+Georgia,Pine Lake,174.61,23.58,11
+Georgia,Pooler,211,39.09,26
+Georgia,Powder Springs,224.4,31.94,10
+Georgia,Redan,226.73,23.27,11
+Georgia,Rincon,162.92,22.45,29
+Georgia,Rome,207.12,23.47,14
+Georgia,Roswell,213.93,22.68,11
+Georgia,Saint Marys,214.53,23.74,13
+Georgia,Saint Simons Island,187.21,14.48,15
+Georgia,Sandy Springs,219.52,29.12,11
+Georgia,Savannah,162.79,22.9,28
+Georgia,Skidaway Island,213.63,12.02,29
+Georgia,Smyrna,232.06,23.17,10
+Georgia,Snellville,234.07,91.56,7
+Georgia,South Fulton,175.22,35.33,11
+Georgia,Statesboro,131.69,39.96,19
+Georgia,Stockbridge,272.75,26.45,11
+Georgia,Stonecrest,206.53,35.67,10
+Georgia,Sugar Hill,257.6,56.73,7
+Georgia,Suwanee,212,21.56,10
+Georgia,Tifton,138.14,27.32,21
+Georgia,Toccoa,46.85,10.07,16
+Georgia,Tucker,199.3,34.92,9
+Georgia,Union City,106.8,23.4,13
+Georgia,Valdosta,188.46,39.54,22
+Georgia,Vidalia,106.26,42.21,22
+Georgia,Villa Rica,219.29,38.37,10
+Georgia,Vinings,209.45,23.73,10
+Georgia,Warner Robins,230.9,32.58,13
+Georgia,Winder,200.59,23.55,13
+Georgia,Woodstock,286.3,164.78,6
+Hawaii,Ewa Beach,255.77,23.03,11
+Hawaii,Halawa,234.72,27.62,8
+Hawaii,Heeia,222.53,21.93,11
+Hawaii,Hilo,174.3,17.15,17
+Hawaii,Honolulu,219.68,22.68,10
+Hawaii,Joint Base Pearl Harbor-Hickam,281.86,21.79,11
+Hawaii,Kaanapali,171.7,20.34,15
+Hawaii,Kahului,189.31,12.07,16
+Hawaii,Kailua,237.31,23.47,9
+Hawaii,Kailua-Kona,183.82,16.41,16
+Hawaii,Kaneohe,230.12,22.93,10
+Hawaii,Kapaa,200.29,23.13,14
+Hawaii,Kapolei,276.57,22.8,11
+Hawaii,Kihei,183.3,18.56,15
+Hawaii,Koloa,158.5,12.82,13
+Hawaii,Makakilo,257.49,23.2,10
+Hawaii,Mililani,245.81,21.38,11
+Hawaii,Napili-Honokowai,214.54,14.1,16
+Hawaii,Pearl City,224.96,20.89,11
+Hawaii,Wahiawa,233.2,22.92,10
+Hawaii,Wailea-Makena,204.43,18.47,16
+Hawaii,Wailuku,233.28,22.27,15
+Hawaii,Waimalu,216.87,20.14,10
+Hawaii,Waipahu,267.53,19.47,11
+Idaho,Ammon,144.88,60.02,6
+Idaho,Boise,162.22,30.55,11
+Idaho,Caldwell,218.21,27.2,15
+Idaho,Chubbuck,172.98,97.34,4
+Idaho,Dalton Gardens,254.41,23.44,21
+Idaho,Eagle,220.98,30.03,17
+Idaho,Garden City,194.49,30.57,10
+Idaho,Hayden,224.73,23.1,23
+Idaho,Idaho Falls,180.3,51.81,7
+Idaho,Meridian,203.53,29.67,15
+Idaho,Moscow,172.86,22.59,23
+Idaho,Mountain Home,165.62,11.52,52
+Idaho,Nampa,206.91,29.48,17
+Idaho,Pocatello,183.28,31.43,12
+Idaho,Post Falls,263.89,23.25,22
+Idaho,Rexburg,71.84,57.4,8
+Idaho,Sandpoint,157.89,44.39,11
+Idaho,Twin Falls,167.75,25.11,15
+Illinois,Addison,200.42,21.88,13
+Illinois,Algonquin,234.56,23.06,14
+Illinois,Alsip,173.21,20.48,15
+Illinois,Alton,266.61,18.16,12
+Illinois,Arlington Heights,197.52,23.22,13
+Illinois,Aurora,234.31,23.25,14
+Illinois,Barrington,174.55,19.83,14
+Illinois,Barrington Hills,208.03,23.24,15
+Illinois,Bartlett,205.24,21.08,14
+Illinois,Batavia,233.6,23.76,12
+Illinois,Belleville,208,19.88,12
+Illinois,Belvidere,268.18,23.82,14
+Illinois,Berwyn,235.62,28.25,10
+Illinois,Bloomingdale,206.63,22.54,13
+Illinois,Bloomington,178.85,57.07,7
+Illinois,Bolingbrook,227.72,22.65,13
+Illinois,Bourbonnais,214.67,23.01,14
+Illinois,Bridgeview,217.91,21.03,13
+Illinois,Brookfield,265.18,23.82,10
+Illinois,Buffalo Grove,205.65,20.7,13
+Illinois,Burbank,232.07,21.65,13
+Illinois,Burr Ridge,112.06,17.16,14
+Illinois,Campton Hills,217.76,21.41,15
+Illinois,Carbondale,106.47,28.16,17
+Illinois,Carol Stream,202.67,20.24,12
+Illinois,Carpentersville,212.64,23.02,15
+Illinois,Cary,236.14,19.59,15
+Illinois,Champaign,186.57,65.68,10
+Illinois,Channahon,289.1,23.1,13
+Illinois,Charleston,181,38.91,14
+Illinois,Chicago,144.08,20.56,12
+Illinois,Cicero,213.08,21.84,13
+Illinois,Clarendon Hills,193.95,22.6,12
+Illinois,Collinsville,114.62,11.64,13
+Illinois,Crystal Lake,218.89,21.24,14
+Illinois,Danville,174.83,22.86,17
+Illinois,Darien,161.91,17.83,13
+Illinois,Decatur,159.08,20.48,22
+Illinois,Deerfield,199.67,22.3,14
+Illinois,DeKalb,204.57,37.58,10
+Illinois,Des Plaines,235.34,23.77,12
+Illinois,Downers Grove,189.95,21.58,13
+Illinois,East Moline,253.01,41.92,21
+Illinois,East Peoria,193.2,44.83,8
+Illinois,Edwardsville,213.93,17.13,11
+Illinois,Effingham,110.52,33.96,18
+Illinois,Elgin,224.09,23.54,13
+Illinois,Elk Grove Village,190.97,19.89,13
+Illinois,Elmhurst,237.07,23.82,11
+Illinois,Elmwood Park,201.86,21.55,13
+Illinois,Evanston,203.59,21.93,12
+Illinois,Fairview Heights,239.85,17.95,11
+Illinois,Forest Park,171.92,23.56,12
+Illinois,Fox Lake,226.12,20.51,14
+Illinois,Frankfort,195.34,21.22,15
+Illinois,Franklin Park,164.82,20.65,11
+Illinois,Freeport,171.59,19.84,15
+Illinois,Galesburg,185.73,22.87,18
+Illinois,Geneva,243.17,104.45,6
+Illinois,Gilberts,219.4,28.36,15
+Illinois,Glen Carbon,230.22,11.82,12
+Illinois,Glen Ellyn,183.93,20.01,15
+Illinois,Glencoe,214.07,22.62,14
+Illinois,Glendale Heights,208.12,21.93,13
+Illinois,Glenview,208.3,22.1,13
+Illinois,Granite City,217.14,11.37,11
+Illinois,Grayslake,229.15,22.97,14
+Illinois,Gurnee,245.07,22.94,13
+Illinois,Hanover Park,200.95,19.61,14
+Illinois,Hawthorn Woods,246.81,22.88,13
+Illinois,Herrin,140.03,36.94,16
+Illinois,Hickory Hills,195.78,18.83,14
+Illinois,Highland Park,204.72,22.74,14
+Illinois,Hinsdale,203.38,22.97,12
+Illinois,Hoffman Estates,211.35,20.37,13
+Illinois,Homer Glen,181.56,20.19,14
+Illinois,Homewood,214.76,23,14
+Illinois,Huntley,241.17,23.06,14
+Illinois,Itasca,173.87,23.51,12
+Illinois,Jacksonville,154.92,60.65,12
+Illinois,Joliet,207.69,22.5,14
+Illinois,Kankakee,227.51,23.08,13
+Illinois,Kildeer,194.97,18.69,13
+Illinois,La Grange,198.28,23.66,11
+Illinois,Lake Forest,238.24,23.43,14
+Illinois,Lake in the Hills,258.8,23.16,14
+Illinois,Lake Zurich,229.33,21.74,13
+Illinois,Lakemoor,184.82,22.65,14
+Illinois,Lansing,259.51,22.1,13
+Illinois,Libertyville,204.21,22.77,13
+Illinois,Lincolnwood,211.55,23.38,14
+Illinois,Lisle,235.74,22.78,13
+Illinois,Lockport,240.85,21.75,14
+Illinois,Lombard,220.34,22.19,12
+Illinois,Macomb,167.03,23.1,17
+Illinois,Marion,94.24,35.75,16
+Illinois,Mattoon,94.41,31.74,15
+Illinois,McHenry,197.5,20.1,15
+Illinois,Melrose Park,206.32,20.28,13
+Illinois,Mokena,210.2,21.04,14
+Illinois,Moline,183.6,27.93,26
+Illinois,Montgomery,266.25,38.65,12
+Illinois,Morton,195.95,73.84,4
+Illinois,Morton Grove,200.9,21.1,15
+Illinois,Mount Prospect,202.31,22.78,12
+Illinois,Mundelein,191.84,20.01,13
+Illinois,Naperville,204.93,22.67,14
+Illinois,New Lenox,240.03,21.32,14
+Illinois,Niles,194.42,22.79,15
+Illinois,Normal,177.42,36.34,12
+Illinois,Norridge,258.09,23.54,12
+Illinois,North Aurora,239.36,32.59,12
+Illinois,Northbrook,222.89,23.3,12
+Illinois,Oak Brook,175.76,20.93,14
+Illinois,Oak Forest,246.57,22.86,14
+Illinois,Oak Lawn,224.68,23.67,11
+Illinois,Oak Park,228.85,38.72,10
+Illinois,Orland Park,210.25,20.26,14
+Illinois,Oswego,236.24,37.9,10
+Illinois,Ottawa,106.91,27.24,15
+Illinois,Palatine,201.64,20.77,13
+Illinois,Palos Heights,139.32,17.91,16
+Illinois,Palos Hills,159.3,19.69,14
+Illinois,Park Forest,245.39,23.32,13
+Illinois,Park Ridge,234.2,23.76,12
+Illinois,Pekin,232.72,32.85,15
+Illinois,Peoria,192,27.25,14
+Illinois,Plainfield,204.61,41.12,9
+Illinois,Prospect Heights,206.84,20.73,13
+Illinois,River Forest,265.65,23.7,12
+Illinois,Riverside,265.03,23.7,11
+Illinois,Rock Island,217.66,36.13,23
+Illinois,Rockford,209.48,21.19,15
+Illinois,Rolling Meadows,183.55,17.37,13
+Illinois,Romeoville,203.07,23.16,13
+Illinois,Roselle,198.43,19.23,13
+Illinois,Round Lake Beach,228.76,21.36,15
+Illinois,Saint Charles,206.15,23.41,12
+Illinois,Schaumburg,195.15,20.5,13
+Illinois,Shiloh,198.35,16.81,12
+Illinois,Skokie,232.31,23.75,11
+Illinois,South Elgin,241.87,38.84,12
+Illinois,Springfield,228.47,22.82,17
+Illinois,Sterling,193.62,23.15,15
+Illinois,Streamwood,234.52,22.33,13
+Illinois,Swansea,228.7,18.32,11
+Illinois,Sycamore,196.92,23.86,12
+Illinois,Tinley Park,192.21,20.36,14
+Illinois,Urbana,187.08,41.71,9
+Illinois,Vernon Hills,229.06,21.63,13
+Illinois,Villa Park,203.75,22.69,12
+Illinois,Washington,139.17,41.48,7
+Illinois,Waukegan,190.6,22.66,13
+Illinois,West Chicago,170.16,20.18,14
+Illinois,Westchester,237.29,22.25,12
+Illinois,Western Springs,187.81,22.48,13
+Illinois,Westmont,183.33,20.2,13
+Illinois,Wheaton,232.91,23.16,13
+Illinois,Wheeling,241.64,22.92,12
+Illinois,Wilmette,237.48,24.13,14
+Illinois,Wood Dale,189.98,23.08,12
+Illinois,Woodridge,233.14,22.39,13
+Illinois,Woodstock,116.19,20.7,16
+Illinois,Yorkville,223.16,91.57,6
+Illinois,Zion,168.92,20.11,14
+Indiana,Anderson,196.2,21.91,20
+Indiana,Auburn,102.36,43.04,21
+Indiana,Avon,236.25,21.29,19
+Indiana,Bloomington,218.92,23.63,19
+Indiana,Brazil,95.78,20.65,18
+Indiana,Brownsburg,245.08,23.59,19
+Indiana,Carmel,223.64,68.42,11
+Indiana,Chesterton,223.1,17.94,13
+Indiana,Clarksville,300.74,20.41,23
+Indiana,Columbia City,79.34,18.08,27
+Indiana,Columbus,142.87,20.45,22
+Indiana,Crawfordsville,105.23,40.52,14
+Indiana,Crown Point,240.3,23.38,12
+Indiana,Dyer,225.84,21.69,13
+Indiana,Elkhart,179.28,22.98,17
+Indiana,Evansville,238.93,23.3,32
+Indiana,Fishers,225.43,40.65,16
+Indiana,Fort Wayne,184.3,41.22,16
+Indiana,Franklin,183.27,83.39,6
+Indiana,Gary,173.54,17.35,12
+Indiana,Goshen,193.8,32.37,15
+Indiana,Granger,231.24,34.27,18
+Indiana,Greenfield,227.33,23.72,19
+Indiana,Greenwood,229.44,41.38,14
+Indiana,Griffith,241.78,22.18,12
+Indiana,Hammond,203.63,22.77,13
+Indiana,Highland,205.6,23.28,12
+Indiana,Indianapolis,203.52,23.34,18
+Indiana,Jeffersonville,268.32,18.28,24
+Indiana,Kokomo,212.56,20.41,20
+Indiana,La Porte,225.95,40.9,13
+Indiana,Lafayette,199.77,91.71,8
+Indiana,Lawrence,186.61,26.84,17
+Indiana,Lebanon,183.71,96.51,5
+Indiana,Marion,169.96,11.76,20
+Indiana,Merrillville,229.06,22.66,12
+Indiana,Michigan City,212.05,22.1,14
+Indiana,Mishawaka,197.24,22.47,17
+Indiana,Muncie,204.96,22.6,21
+Indiana,Munster,244.1,23.61,11
+Indiana,New Albany,242.9,22.19,22
+Indiana,Noblesville,239.87,24.01,19
+Indiana,Plainfield,226.53,23.38,18
+Indiana,Richmond,152.83,18.75,23
+Indiana,Saint John,247.3,29.62,11
+Indiana,Schererville,207.58,21.82,12
+Indiana,Seymour,250.22,41.39,11
+Indiana,Shelbyville,71.37,16.54,23
+Indiana,South Bend,206.98,23.5,17
+Indiana,Speedway,139.11,19.49,20
+Indiana,Terre Haute,227.84,11.82,34
+Indiana,Vincennes,97.18,44.93,13
+Indiana,Warsaw,156.32,22.98,19
+Indiana,West Lafayette,225.11,160.85,7
+Indiana,Westfield,236.73,121.84,6
+Indiana,Zionsville,200.56,31.5,18
+Iowa,Altoona,188.43,37.17,30
+Iowa,Ames,157.04,80.55,8
+Iowa,Ankeny,242,61.67,18
+Iowa,Bettendorf,215.41,87.14,6
+Iowa,Cedar Rapids,116.6,25.31,27
+Iowa,Clive,123.7,42.28,17
+Iowa,Coralville,219.55,46.55,25
+Iowa,Council Bluffs,215.46,10.93,10
+Iowa,Davenport,195.37,89.06,6
+Iowa,Des Moines,139.26,30.82,30
+Iowa,Dubuque,194.42,38.43,33
+Iowa,Fairfield,74.37,43.71,19
+Iowa,Fort Dodge,183.54,27.8,37
+Iowa,Grimes,239.98,60.58,21
+Iowa,Iowa City,170.46,38.98,26
+Iowa,Johnston,245.65,178.27,5
+Iowa,Marion,144.06,36.28,27
+Iowa,Mason City,147.61,28.96,37
+Iowa,Mount Pleasant,79.32,22.57,20
+Iowa,Newton,142.23,38.42,17
+Iowa,North Liberty,115.57,55.23,12
+Iowa,Ottumwa,160.36,34.92,38
+Iowa,Pella,175.12,143.87,12
+Iowa,Saylorville,218.81,75.48,18
+Iowa,Sioux City,167.9,28.74,9
+Iowa,Urbandale,199.79,53.53,22
+Iowa,Waterloo,242.89,28.58,31
+Iowa,Waukee,168.7,39.13,27
+Iowa,West Des Moines,237.92,43.96,25
+Kansas,Derby,246.64,34.02,14
+Kansas,Dodge City,121.44,10.83,14
+Kansas,Hays,101.08,53.53,5
+Kansas,Hutchinson,175.18,20.65,11
+Kansas,Kansas City,234.03,94.51,6
+Kansas,Lawrence,224.43,45.03,10
+Kansas,Leavenworth,302.89,23.03,33
+Kansas,Leawood,259.5,25.92,28
+Kansas,Lenexa,262.22,161.85,5
+Kansas,Liberal,90.86,20.53,23
+Kansas,Manhattan,202.59,26.55,18
+Kansas,McPherson,96.02,10.78,18
+Kansas,Mission,200.86,24.22,27
+Kansas,Olathe,241.81,147.5,5
+Kansas,Ottawa,97.03,20.68,29
+Kansas,Overland Park,249.63,88.46,8
+Kansas,Pittsburg,294.88,94.27,5
+Kansas,Prairie Village,287.91,145.32,6
+Kansas,Salina,184.25,12.03,22
+Kansas,Shawnee,252.84,73.15,9
+Kansas,Topeka,200.96,18.93,21
+Kansas,Wichita,233.12,20.28,12
+Kentucky,Ashland,267.75,23.02,20
+Kentucky,Bardstown,86.53,9.38,23
+Kentucky,Berea,265.39,22.19,29
+Kentucky,Bowling Green,258.01,18.06,47
+Kentucky,Burlington,228.06,39.5,21
+Kentucky,Campbellsville,48.21,11.93,19
+Kentucky,Cold Spring,173.28,22.58,24
+Kentucky,Covington,199.08,76.92,15
+Kentucky,Danville,257.56,17.58,18
+Kentucky,Elizabethtown,201.8,23.64,16
+Kentucky,Elsmere,234.25,39.91,22
+Kentucky,Erlanger,274.11,23.09,22
+Kentucky,Florence,234.63,37.85,21
+Kentucky,Fort Campbell,311.28,23.65,13
+Kentucky,Fort Thomas,197.36,89.44,15
+Kentucky,Frankfort,101.71,10.31,13
+Kentucky,Georgetown,235.65,23.21,21
+Kentucky,Glasgow,78.65,18.63,25
+Kentucky,Henderson,228.13,15.43,38
+Kentucky,Hopkinsville,181.88,22.69,24
+Kentucky,Independence,243.4,89.68,16
+Kentucky,Jeffersontown,258.02,20.61,23
+Kentucky,La Grange,230.86,21.77,24
+Kentucky,Lakeside Park,239.14,37.39,21
+Kentucky,Lawrenceburg,228.42,11.9,37
+Kentucky,Lexington,210.12,35.45,18
+Kentucky,Louisville,246.15,22.84,22
+Kentucky,Lyndon,260.75,22.76,21
+Kentucky,Madisonville,94.12,11.4,43
+Kentucky,Mount Washington,255.66,19.66,24
+Kentucky,Murray,94.28,8.96,20
+Kentucky,Nicholasville,224.62,24.72,14
+Kentucky,Oakbrook,273.54,20.86,26
+Kentucky,Owensboro,194.65,21.23,35
+Kentucky,Paducah,149.85,12.58,15
+Kentucky,Radcliff,231.23,17.73,35
+Kentucky,Richmond,248.38,22.11,25
+Kentucky,Saint Matthews,245.81,23.15,22
+Kentucky,Shelbyville,150.4,11.63,26
+Kentucky,Somerset,213.81,18.91,30
+Kentucky,Union,256.76,116.34,17
+Kentucky,Versailles,232.96,22.7,28
+Kentucky,Winchester,255.48,23.04,34
+Louisiana,Alexandria,159.51,32.32,15
+Louisiana,Barksdale Air Force Base,289.14,36.71,11
+Louisiana,Baton Rouge,175.68,18.89,10
+Louisiana,Bayou Cane,293.95,23.69,35
+Louisiana,Belle Chasse,224.6,128.95,5
+Louisiana,Bossier City,268.61,35.15,11
+Louisiana,Broussard,242.14,87.22,24
+Louisiana,Central,237.29,10.82,10
+Louisiana,Chalmette,149.54,10.72,12
+Louisiana,Claiborne,206.67,23.71,32
+Louisiana,Covington,215.69,54.48,10
+Louisiana,Destrehan,270.04,25.26,9
+Louisiana,Estelle,346.84,138.37,7
+Louisiana,Gonzales,151.62,94.57,4
+Louisiana,Gretna,162.57,13.29,10
+Louisiana,Hammond,219.22,22.19,23
+Louisiana,Harahan,217.24,33.16,8
+Louisiana,Harvey,169.1,10.49,11
+Louisiana,Houma,166.22,23.63,34
+Louisiana,Kenner,209.47,35.93,8
+Louisiana,Lafayette,144.39,37.33,8
+Louisiana,Lake Charles,197.73,38.91,12
+Louisiana,LaPlace,205.61,23.17,14
+Louisiana,Luling,267.58,36.44,8
+Louisiana,Mandeville,263.13,22.08,30
+Louisiana,Marrero,256.72,20.24,9
+Louisiana,Metairie,196.21,32.13,9
+Louisiana,Monroe,129.68,21.71,31
+Louisiana,Natchitoches,120.1,27.16,14
+Louisiana,New Iberia,164.14,10.8,15
+Louisiana,New Orleans,134.52,10.98,11
+Louisiana,Prairieville,216.25,128.52,4
+Louisiana,River Ridge,338.48,135.53,5
+Louisiana,Ruston,148.84,21.85,12
+Louisiana,Shenandoah,220.52,26.8,9
+Louisiana,Shreveport,182.4,23.29,30
+Louisiana,Slidell,211.29,21.26,32
+Louisiana,Sulphur,218.73,32.09,11
+Louisiana,Thibodaux,167.14,16.55,33
+Louisiana,Timberlane,251.23,109,5
+Louisiana,Youngsville,192.75,74.28,28
+Louisiana,Zachary,185.12,10.9,11
+Maine,Auburn,215.92,11.8,18
+Maine,Augusta,266.12,11.84,20
+Maine,Bangor,216.36,18.47,10
+Maine,Belfast,104.19,11.49,22
+Maine,Biddeford,234.48,22.01,18
+Maine,Brunswick,214.67,23.46,15
+Maine,Cape Elizabeth,207.43,12.54,19
+Maine,Ellsworth,240.24,20.34,21
+Maine,Falmouth,242.59,11.73,19
+Maine,Farmington,88.82,19.38,16
+Maine,Gorham,239.66,12.49,18
+Maine,Gray,233.22,99.09,7
+Maine,Lewiston,228.27,11.61,17
+Maine,Old Town,239.22,11.64,21
+Maine,Portland,192.96,17.61,19
+Maine,Rockland,270.74,11.81,21
+Maine,Saco,256.18,20.9,18
+Maine,Sanford,202.52,32.1,14
+Maine,Scarborough,227.85,11.65,19
+Maine,South Portland,193.65,11.62,20
+Maine,Topsham,197.23,22.3,16
+Maine,Waterville,268.48,11.68,20
+Maine,Wells,179,11.85,19
+Maine,Westbrook,239.46,21.44,17
+Maine,Windham,211.92,21.33,17
+Maine,Winslow,238.9,11.7,20
+Maryland,Aberdeen,238.12,41.56,14
+Maryland,Adelphi,253.36,60.56,8
+Maryland,Annapolis,208.91,60.98,11
+Maryland,Arnold,247.86,68.41,11
+Maryland,Aspen Hill,209.71,40.85,9
+Maryland,Baltimore,183.67,21.68,14
+Maryland,Bel Air North,223.94,68.75,13
+Maryland,Bel Air South,269.7,41.98,12
+Maryland,Beltsville,152.15,83.13,8
+Maryland,Bennsville,219.65,41.84,9
+Maryland,Bethesda,233.34,89.84,8
+Maryland,Bowie,187.1,96.98,7
+Maryland,Calverton,212.58,119.55,7
+Maryland,Carney,244.93,83.4,10
+Maryland,Catonsville,256.28,91.27,10
+Maryland,Chevy Chase,231.81,96.05,8
+Maryland,Chillum,169.63,29,10
+Maryland,Clarksburg,241.88,76.66,8
+Maryland,Clinton,212.61,91.01,8
+Maryland,Cockeysville,219.22,60.72,10
+Maryland,Colesville,260.08,108.77,7
+Maryland,College Park,193.54,41.77,9
+Maryland,Columbia,246.52,91.18,9
+Maryland,Crofton,267.04,112.5,9
+Maryland,Damascus,212.93,118.4,7
+Maryland,Dundalk,283.71,40.29,11
+Maryland,Eldersburg,237.25,23,14
+Maryland,Elkridge,271.17,109.28,9
+Maryland,Ellicott City,216.68,94.63,9
+Maryland,Essex,241.3,53.48,12
+Maryland,Fort Washington,148.7,75.39,8
+Maryland,Frederick,246.48,23.09,14
+Maryland,Friendly,208.08,45.58,10
+Maryland,Gaithersburg,233.66,92.57,8
+Maryland,Germantown,265.66,112.74,7
+Maryland,Glen Burnie,250.57,80.58,11
+Maryland,Greater Landover,184.92,79.95,7
+Maryland,Greenbelt,150.91,63.44,8
+Maryland,Hagerstown,175.87,30.37,9
+Maryland,Halethorpe,187.03,41.35,10
+Maryland,Kemp Mill,232.03,113.71,7
+Maryland,Laurel,242.11,92.87,8
+Maryland,Lochearn,163.64,25.9,11
+Maryland,Lutherville-Timonium,211,39.36,11
+Maryland,Middle River,281.89,41.29,12
+Maryland,Montgomery Village,215.92,41.16,10
+Maryland,North Bethesda,247.56,84.06,9
+Maryland,North Laurel,236.65,123.34,7
+Maryland,North Potomac,225.47,93.95,8
+Maryland,Odenton,238.85,37.74,10
+Maryland,Olney,213.93,104.85,7
+Maryland,Owings Mills,227.21,41.33,11
+Maryland,Parkville,228.6,53.68,12
+Maryland,Parole,211.97,78.98,10
+Maryland,Perry Hall,238.66,68,12
+Maryland,Pikesville,240.73,59.21,11
+Maryland,Potomac,208.71,96.13,8
+Maryland,Randallstown,247.87,64.02,11
+Maryland,Redland,286.46,99.08,8
+Maryland,Reisterstown,257.83,88.31,10
+Maryland,Rockville,222.27,46.8,9
+Maryland,Saint Charles,244.62,92.46,7
+Maryland,Seabrook,173.96,44.78,9
+Maryland,Severn,276.38,118.47,9
+Maryland,Severna Park,282.49,112.61,9
+Maryland,Silver Spring,216.96,38.77,9
+Maryland,Towson,250.63,91.7,10
+Maryland,Travilah,206.6,94.71,7
+Maryland,Waldorf,216.13,56.06,9
+Maryland,Westminster,238.88,24.57,12
+Maryland,Wheaton-Glenmont,215.18,71.82,8
+Maryland,White Marsh,223.29,42.3,12
+Massachusetts,Acton,208.96,57.24,9
+Massachusetts,Andover,204.63,41.99,10
+Massachusetts,Arlington,234.09,40.38,9
+Massachusetts,Ashland,211.78,69.62,8
+Massachusetts,Attleboro,278.07,23.51,15
+Massachusetts,Barnstable,163.58,23.03,16
+Massachusetts,Bedford,185.24,81.66,8
+Massachusetts,Belmont,202.18,87.84,7
+Massachusetts,Billerica,269.37,68.9,8
+Massachusetts,Boston,212.61,23.96,11
+Massachusetts,Braintree,233.89,71.92,9
+Massachusetts,Brockton,229.27,23.06,14
+Massachusetts,Brookline,221.42,22.08,13
+Massachusetts,Burlington,223.4,39.79,10
+Massachusetts,Cambridge,191.22,21.71,13
+Massachusetts,Canton,237.68,106.71,8
+Massachusetts,Chelmsford,204.67,52.04,9
+Massachusetts,Chicopee,229.48,21.47,10
+Massachusetts,Concord,189.56,23.9,13
+Massachusetts,Danvers,231.7,77.86,8
+Massachusetts,Dedham,250.8,71.53,7
+Massachusetts,Easton,231.56,41.56,11
+Massachusetts,Everett,236.96,22.92,12
+Massachusetts,Fitchburg,236.49,40.63,15
+Massachusetts,Foxborough,222.86,24.22,12
+Massachusetts,Framingham,217.11,39.6,9
+Massachusetts,Franklin,259.33,67.5,9
+Massachusetts,Grafton,206.21,38.38,7
+Massachusetts,Greenfield,142.04,23.42,13
+Massachusetts,Groton,186.27,37.95,11
+Massachusetts,Haverhill,231.35,23.09,16
+Massachusetts,Hingham,194.91,37.66,11
+Massachusetts,Holliston,279.29,41.92,10
+Massachusetts,Holyoke,190.89,21.64,16
+Massachusetts,Hopkinton,208.73,93.74,8
+Massachusetts,Hudson,202.25,97.75,7
+Massachusetts,Lawrence,257.77,38.84,10
+Massachusetts,Leominster,256,41.16,10
+Massachusetts,Lexington,208.04,79.78,7
+Massachusetts,Littleton,238.08,44.14,9
+Massachusetts,Lowell,210.35,22.62,14
+Massachusetts,Lynn,243.31,41.47,9
+Massachusetts,Malden,232.75,49.58,9
+Massachusetts,Mansfield,180.13,41.68,10
+Massachusetts,Marblehead,203.7,66.1,9
+Massachusetts,Marlborough,231.42,53.28,9
+Massachusetts,Marshfield,192.25,63.27,10
+Massachusetts,Maynard,212.83,37.62,10
+Massachusetts,Medfield,217.92,90.79,8
+Massachusetts,Medford,242.41,39.51,10
+Massachusetts,Medway,231.78,63.92,9
+Massachusetts,Melrose,278.97,41.57,9
+Massachusetts,Methuen,270.47,38.72,10
+Massachusetts,Middleborough,251.33,45.98,10
+Massachusetts,Milford,228.98,40.96,11
+Massachusetts,Milton,252.92,23.2,12
+Massachusetts,Natick,263.04,82.88,7
+Massachusetts,Needham,248.11,40.72,10
+Massachusetts,Newton,213.12,41.48,9
+Massachusetts,North Andover,206.77,41.32,10
+Massachusetts,North Attleborough,230.46,103.7,6
+Massachusetts,North Reading,186.6,102.1,8
+Massachusetts,Northborough,85.96,61.28,9
+Massachusetts,Norwood,203.31,32.2,10
+Massachusetts,Peabody,237.64,23.17,17
+Massachusetts,Pembroke,248.62,23.29,13
+Massachusetts,Plymouth,247.74,41.57,11
+Massachusetts,Quincy,209.17,20.27,13
+Massachusetts,Randolph,230.54,46.2,8
+Massachusetts,Reading,228.44,82.69,8
+Massachusetts,Revere,210.99,22.89,12
+Massachusetts,Salem,222.4,20.79,14
+Massachusetts,Shrewsbury,98.58,14.62,9
+Massachusetts,Somerville,197.99,21.95,13
+Massachusetts,Springfield,213.46,22.07,15
+Massachusetts,Stoneham,296.6,41.9,9
+Massachusetts,Stoughton,261.41,54.06,9
+Massachusetts,Sudbury,196.34,85.51,9
+Massachusetts,Sutton,227.58,22.7,8
+Massachusetts,Swampscott,182.01,23.82,10
+Massachusetts,Taunton,229.4,45.04,10
+Massachusetts,Tewksbury,233.51,40.77,11
+Massachusetts,Wakefield,231.89,41.46,9
+Massachusetts,Walpole,246.79,63.99,9
+Massachusetts,Waltham,211.14,25.04,9
+Massachusetts,Wareham,297.87,41.48,10
+Massachusetts,Watertown,231.18,23.08,11
+Massachusetts,Wayland,224.74,91.39,7
+Massachusetts,Wellesley,213.16,49.02,8
+Massachusetts,Westborough,178.44,98.21,7
+Massachusetts,Westfield,259.2,58.47,12
+Massachusetts,Westford,225.14,75,9
+Massachusetts,Weston,227.94,39.11,10
+Massachusetts,Wilmington,224.96,61.8,8
+Massachusetts,Winchester,228.19,41.77,9
+Massachusetts,Woburn,220.22,40.91,10
+Massachusetts,Worcester,215.08,11.34,11
+Michigan,Adrian,197.53,11.96,13
+Michigan,Allen Park,213.19,26.3,18
+Michigan,Allendale Charter Township,181.05,22.5,7
+Michigan,Ann Arbor,192.14,22.73,12
+Michigan,Auburn Hills,201.73,23.25,13
+Michigan,Battle Creek,246.48,23.04,14
+Michigan,Berkley,280.29,47.55,12
+Michigan,Birmingham,267.37,36.3,11
+Michigan,Bloomfield Hills,204.64,23.2,12
+Michigan,Bloomfield Township,207.48,22.96,13
+Michigan,Brighton,154.99,21.14,13
+Michigan,Brownstown Charter Township,300.55,23.3,12
+Michigan,Burton,239.14,22.19,13
+Michigan,Canton,217.77,23.37,15
+Michigan,Charter Township of Clinton,222.72,23.68,16
+Michigan,Clawson,237.98,23.57,12
+Michigan,Coldwater,182.26,22.45,11
+Michigan,Commerce Charter Township,236.14,22.87,14
+Michigan,Dearborn,212.24,24.85,16
+Michigan,Dearborn Heights,231.28,23.69,15
+Michigan,Delhi charter Township,213.47,22.36,20
+Michigan,Delta charter Township,220.2,24.59,15
+Michigan,Detroit,119.24,20.67,13
+Michigan,East Grand Rapids,214.06,23.06,21
+Michigan,East Lansing,221.28,85.75,7
+Michigan,Eastpointe,221.44,33.36,13
+Michigan,Emmett charter Township,141.94,19.46,15
+Michigan,Farmington,198.06,21.24,20
+Michigan,Farmington Hills,244.24,20.75,20
+Michigan,Fenton,225.04,14.75,18
+Michigan,Ferndale,228.17,37.74,15
+Michigan,Flint,161.65,19.94,14
+Michigan,Flint Township,227.68,22.34,13
+Michigan,Forest Hills,196.77,22.9,19
+Michigan,Garden City,214.14,23.34,16
+Michigan,Georgetown Township,214.77,21.88,22
+Michigan,Grand Blanc,237.93,23,13
+Michigan,Grand Blanc Township,224.79,21.04,14
+Michigan,Grand Rapids,211.88,23.54,20
+Michigan,Grand Rapids charter Township,191.45,22.79,22
+Michigan,Grandville,190.73,22.62,21
+Michigan,Greenville,196.92,11.92,10
+Michigan,Grosse Pointe Farms,214.27,64.11,11
+Michigan,Grosse Pointe Woods,248.54,25.06,13
+Michigan,Harrison charter Township,230.62,23.35,17
+Michigan,Highland Charter Township,155.51,18.41,18
+Michigan,Holland,163.88,19.11,20
+Michigan,Howell,114.7,19.75,15
+Michigan,Hudsonville,253.67,20.26,12
+Michigan,Independence charter Township,219.59,21.89,13
+Michigan,Jackson,202.96,20.85,15
+Michigan,Kalamazoo,217.63,20.06,12
+Michigan,Kalamazoo Township,176.35,19.11,13
+Michigan,Kentwood,227.33,23.18,21
+Michigan,Lansing,203.54,23.48,17
+Michigan,Lincoln Park,234.66,23.68,13
+Michigan,Livonia,222.45,23,19
+Michigan,Lyon Charter Township,177.68,23.61,14
+Michigan,Madison Heights,235.14,23.73,16
+Michigan,Meridian charter Township,196.72,22.81,18
+Michigan,Midland,213.76,17.64,16
+Michigan,Milford Charter Township,200.54,22.51,14
+Michigan,Monitor charter Township,163.14,11.43,17
+Michigan,Monroe Charter Township,231.34,18.66,20
+Michigan,Mount Pleasant,134.81,18.18,14
+Michigan,Muskegon charter Township,144.59,15.89,21
+Michigan,Niles,237.6,23.32,18
+Michigan,Novi,207.49,18.66,22
+Michigan,Oak Park,230.29,23.64,11
+Michigan,Oakland charter Township,236.55,22.69,14
+Michigan,Orion charter Township,226.77,21.92,13
+Michigan,Owosso,189.35,25.63,5
+Michigan,Pittsfield Charter Township,248.26,23.29,12
+Michigan,Plainfield charter Township,250.34,22.42,22
+Michigan,Plymouth,157.49,23.1,15
+Michigan,Plymouth Charter Township,210.21,23.86,16
+Michigan,Pontiac,163.27,23.19,13
+Michigan,Port Huron,273.02,23.47,15
+Michigan,Portage,202.23,19.39,13
+Michigan,Redford Charter Township,236.54,21.72,20
+Michigan,Rochester,238.06,27.77,17
+Michigan,Rochester Hills,201.4,23.37,16
+Michigan,Romulus,96.82,21.97,12
+Michigan,Roosevelt Park,194.49,23.16,21
+Michigan,Roseville,253.51,41.36,15
+Michigan,Royal Oak,228.94,30.83,16
+Michigan,Saginaw,175.09,11.4,13
+Michigan,Saint Clair Shores,251.57,24.53,15
+Michigan,Shelby charter Township,222.38,23.41,17
+Michigan,Shelby Township,222.38,23.41,17
+Michigan,South Lyon,180.78,16.23,18
+Michigan,Southfield,213.34,23.8,12
+Michigan,Southgate,266.78,23.75,14
+Michigan,Springfield Township,185.71,19.9,15
+Michigan,Sterling Heights,207.58,23.18,16
+Michigan,Summit Township,248.97,23.35,15
+Michigan,Taylor,207.41,23.66,16
+Michigan,Texas charter Township,229.48,23.5,21
+Michigan,Trenton,213.7,23.61,18
+Michigan,Troy,188.33,23.14,17
+Michigan,Van Buren Charter Township,229.05,23.46,12
+Michigan,Walker,166.32,20.77,20
+Michigan,Warren,211.08,23.63,16
+Michigan,Waterford Township,261.39,23.56,12
+Michigan,Wayne,180.92,23.73,14
+Michigan,West Bloomfield Township,233.07,21.94,13
+Michigan,Westland,234.06,23.72,16
+Michigan,White Lake charter Township,201.75,21.11,15
+Michigan,Wixom,211.38,23.61,13
+Michigan,Woodhaven,215.88,23.62,15
+Michigan,Wyandotte,116,18.53,13
+Michigan,Wyoming,200.98,23.46,21
+Michigan,Ypsilanti,187.31,23.82,12
+Michigan,Ypsilanti Charter Township,238.93,23.29,12
+Minnesota,Andover,237.3,14,13
+Minnesota,Apple Valley,203.24,11.47,15
+Minnesota,Arden Hills,204.36,18.59,12
+Minnesota,Austin,234.79,19.93,17
+Minnesota,Blaine,221.87,14.17,13
+Minnesota,Bloomington,200.51,14.72,13
+Minnesota,Brooklyn Center,183.48,20.71,12
+Minnesota,Brooklyn Park,228.41,14.98,14
+Minnesota,Burnsville,195.16,13.63,14
+Minnesota,Champlin,207.37,12.27,13
+Minnesota,Chanhassen,175.66,35.21,12
+Minnesota,Chaska,213.3,17.24,14
+Minnesota,Columbia Heights,162.33,20.76,11
+Minnesota,Coon Rapids,231.61,13.7,14
+Minnesota,Corcoran,158.07,17.81,15
+Minnesota,Cottage Grove,239.02,17.54,14
+Minnesota,Crystal,210.91,17.89,13
+Minnesota,Duluth,178.88,11.22,15
+Minnesota,Eagan,229.65,16.86,14
+Minnesota,Eden Prairie,192.44,14.46,14
+Minnesota,Edina,204.28,20.98,13
+Minnesota,Elk River,182.53,11.42,15
+Minnesota,Falcon Heights,136.24,12.16,12
+Minnesota,Faribault,130.72,18.54,17
+Minnesota,Fridley,165.64,17.92,12
+Minnesota,Golden Valley,165.35,17.96,13
+Minnesota,Ham Lake,238.37,18.29,14
+Minnesota,Hastings,230.92,17.68,14
+Minnesota,Hermantown,92.74,16.05,22
+Minnesota,Hopkins,237.9,20.24,13
+Minnesota,Hutchinson,63.47,19.92,11
+Minnesota,Inver Grove Heights,233.95,17.58,14
+Minnesota,Lakeville,236.5,19.96,15
+Minnesota,Lino Lakes,199.9,14.59,13
+Minnesota,Mankato,133.55,16.91,13
+Minnesota,Maple Grove,216.78,14.8,13
+Minnesota,Maplewood,193.54,16.74,13
+Minnesota,Minneapolis,165.2,40.54,9
+Minnesota,Minnetonka,184.49,11.98,14
+Minnesota,Minnetrista,130.14,28.97,14
+Minnesota,Monticello,153.58,57.49,6
+Minnesota,Moorhead,224.37,105.68,11
+Minnesota,New Brighton,211.77,18.15,12
+Minnesota,New Hope,198.95,17.86,13
+Minnesota,New Ulm,65.99,19.22,10
+Minnesota,Oakdale,191.69,17.6,13
+Minnesota,Orono,150.32,28.05,13
+Minnesota,Otsego,221.99,11.48,14
+Minnesota,Owatonna,192.02,47.81,9
+Minnesota,Plymouth,214.79,17.21,14
+Minnesota,Red Wing,147.18,76.18,6
+Minnesota,Richfield,223.26,22.52,12
+Minnesota,Robbinsdale,152,23.06,12
+Minnesota,Rochester,215.93,20.68,17
+Minnesota,Rosemount,248.84,22.66,13
+Minnesota,Roseville,171.7,16,11
+Minnesota,Saint Anthony,209.99,30.7,11
+Minnesota,Saint Cloud,190.81,11.32,10
+Minnesota,Saint Louis Park,210.76,23.89,11
+Minnesota,Saint Michael,212.68,12.32,14
+Minnesota,Saint Paul,179.84,20.46,13
+Minnesota,Savage,195.11,32.13,13
+Minnesota,Shakopee,219.36,17.84,14
+Minnesota,Shoreview,178.29,13.13,13
+Minnesota,Shorewood,253.13,36.85,12
+Minnesota,Victoria,143.02,33.67,12
+Minnesota,West Saint Paul,230.14,17.5,13
+Minnesota,White Bear Lake,234.09,16.62,13
+Minnesota,Winona,128.5,19.04,9
+Minnesota,Woodbury,229.09,17.24,14
+Mississippi,Biloxi,172.2,49.19,12
+Mississippi,Brandon,276.22,90.37,14
+Mississippi,Clinton,214.24,31.36,14
+Mississippi,Columbus,139.22,26.98,20
+Mississippi,Diamondhead,225.12,97.92,9
+Mississippi,Flowood,229.12,41.05,14
+Mississippi,Greenville,107.5,21.32,20
+Mississippi,Greenwood,144.85,25.64,16
+Mississippi,Gulfport,166.89,47.91,12
+Mississippi,Hattiesburg,151.85,23.03,20
+Mississippi,Hernando,207.75,104.22,16
+Mississippi,Horn Lake,211.76,23.07,15
+Mississippi,Jackson,104.28,23.39,15
+Mississippi,Laurel,84.24,12,20
+Mississippi,Long Beach,229.43,51.74,14
+Mississippi,Madison,223.38,111.14,7
+Mississippi,Meridian,120.4,19.78,18
+Mississippi,Natchez,78.65,20.64,38
+Mississippi,Ocean Springs,239.6,52.66,17
+Mississippi,Olive Branch,210.41,24.71,12
+Mississippi,Oxford,122.16,73.61,9
+Mississippi,Pascagoula,130.71,23.2,32
+Mississippi,Pearl,128.52,23.86,18
+Mississippi,Ridgeland,180.72,55.38,10
+Mississippi,Southaven,207.14,29.28,14
+Mississippi,Starkville,115.33,39.59,9
+Mississippi,Tupelo,151.21,40.85,18
+Mississippi,Vicksburg,45.79,12.12,23
+Mississippi,West Hattiesburg,172.16,23.62,21
+Missouri,Affton,264.6,22.18,10
+Missouri,Arnold,271.66,21.73,10
+Missouri,Ballwin,241.84,19.98,11
+Missouri,Belton,251.36,38.42,25
+Missouri,Blue Springs,347.04,40.58,9
+Missouri,Branson,97.94,21.17,17
+Missouri,Carthage,94.04,8.07,17
+Missouri,Chesterfield,208.48,21.43,11
+Missouri,Clayton,216.03,22.42,8
+Missouri,Columbia,95.98,23.08,31
+Missouri,Concord,249.16,19.05,11
+Missouri,Creve Coeur,207.95,20.39,10
+Missouri,Dardenne Prairie,244.7,22.14,9
+Missouri,Dexter,200.04,31.33,10
+Missouri,Ellisville,169.68,18.94,11
+Missouri,Eureka,187.93,19.34,12
+Missouri,Farmington,205.93,11.51,12
+Missouri,Florissant,251.19,21.29,10
+Missouri,Gladstone,277.99,153.77,4
+Missouri,Grain Valley,367.01,41.08,10
+Missouri,Grandview,302.53,115.92,5
+Missouri,Independence,294.2,30.13,10
+Missouri,Jackson,256.84,66.11,9
+Missouri,Jefferson City,132.66,27.24,36
+Missouri,Joplin,177.38,24.58,13
+Missouri,Kansas City,235.04,108.08,5
+Missouri,Kearney,190.4,18.96,34
+Missouri,Kirkwood,263.51,100.16,6
+Missouri,Ladue,262.17,21.39,9
+Missouri,Lake Saint Louis,233.96,17.44,11
+Missouri,Lake Tapawingo,160.81,23.48,10
+Missouri,Lebanon,55.96,12.94,11
+Missouri,Liberty,250.36,32.47,25
+Missouri,Manchester,206.08,18.96,11
+Missouri,Maryland Heights,189.64,22.16,9
+Missouri,Mehlville,275.88,19.82,10
+Missouri,Murphy,134.52,11.67,13
+Missouri,Nixa,191.39,29.83,24
+Missouri,North Kansas City,222.12,92.89,5
+Missouri,Oakville,318.18,99.09,6
+Missouri,Olivette,268.46,21.61,9
+Missouri,Overland,242.68,21.08,9
+Missouri,Ozark,194.93,29.19,18
+Missouri,Parkville,226.74,22.62,31
+Missouri,Poplar Bluff,233.88,37.69,10
+Missouri,Raymore,250.92,113.48,6
+Missouri,Raytown,321.36,207.89,4
+Missouri,Republic,95.87,28.52,27
+Missouri,Saint Charles,246.04,22.02,10
+Missouri,Saint Joseph,205.69,28.56,9
+Missouri,Saint Peters,224.32,16.74,11
+Missouri,Sappington,278.13,27.84,9
+Missouri,Sedalia,204.09,11.4,22
+Missouri,Sikeston,179.02,11.39,12
+Missouri,Springfield,176.55,39.78,24
+Missouri,St. Louis,181.38,22.78,10
+Missouri,University City,238.87,38.49,7
+Missouri,Warrensburg,185.33,11.25,22
+Missouri,Washington,94.15,11.08,14
+Missouri,Webb City,153.72,27.2,15
+Missouri,Webster Groves,238.26,76.65,8
+Missouri,Wentzville,211.03,21.18,11
+Missouri,West Plains,101.87,31.32,11
+Missouri,Wildwood,188.75,12.22,11
+Montana,Billings,220.09,14.92,10
+Montana,Bozeman,165.07,18.64,11
+Montana,Helena,114.04,11.39,16
+Montana,Kalispell,91.24,11.28,31
+Montana,Missoula,178.54,11.34,29
+Nebraska,Bellevue,246.7,24.54,10
+Nebraska,Blair,96.54,74.47,4
+Nebraska,Columbus,286.47,43.72,9
+Nebraska,Fremont,269.43,81.33,6
+Nebraska,Grand Island,264.3,21.71,21
+Nebraska,Hastings,212.46,53.69,7
+Nebraska,Kearney,222.39,22.26,34
+Nebraska,Lincoln,261.39,100.14,6
+Nebraska,Norfolk,224.89,52.93,9
+Nebraska,North Platte,289.99,93.5,11
+Nebraska,Omaha,202.32,26.31,9
+Nebraska,Papillion,226.61,26.02,10
+Nebraska,Scottsbluff,87.87,20.05,12
+Nevada,Carson City,182.7,11.52,11
+Nevada,Elko,165.28,17.04,40
+Nevada,Enterprise,246.3,33.78,9
+Nevada,Fallon,144.5,37.6,14
+Nevada,Fernley,251.37,19.77,11
+Nevada,Henderson,243.79,26.03,10
+Nevada,Incline Village,156.09,11.29,12
+Nevada,Las Vegas,187.42,19.95,10
+Nevada,Mesquite,96.39,69.98,4
+Nevada,North Las Vegas,239.24,25.08,10
+Nevada,Pahrump,80.26,16.23,30
+Nevada,Paradise,154.62,19.28,11
+Nevada,Reno,225.49,20.41,10
+Nevada,Spanish Springs,294.42,20.88,10
+Nevada,Sparks,244.57,21.7,11
+Nevada,Spring Creek,157.28,104.37,12
+Nevada,Spring Valley,206.96,21.03,10
+Nevada,Summerlin South,268.73,36.47,9
+Nevada,Sunrise Manor,165.52,11,11
+Nevada,Unincorporated Las Vegas,217.81,26.26,10
+Nevada,Whitney,176.36,10.77,11
+Nevada,Winchester,95.01,10.64,9
+Nevada,Winnemucca,36.2,8.8,34
+New Hampshire,Amherst,216.1,23.89,16
+New Hampshire,Bedford,258.06,23.6,16
+New Hampshire,Bow,227.6,23.94,15
+New Hampshire,Concord,237.03,23.99,15
+New Hampshire,Conway,249.29,11.69,20
+New Hampshire,Derry,239.3,23.51,16
+New Hampshire,Dover,256.17,23.37,14
+New Hampshire,Exeter,222.44,23.57,14
+New Hampshire,Gilford,169.95,22.59,15
+New Hampshire,Goffstown,241.34,58.84,16
+New Hampshire,Hooksett,265.57,23.67,15
+New Hampshire,Hudson,260.59,23.82,14
+New Hampshire,Keene,214.95,18,35
+New Hampshire,Laconia,214.12,23.03,14
+New Hampshire,Lebanon,203.62,18.21,16
+New Hampshire,Londonderry,266.15,23.54,14
+New Hampshire,Manchester,251.47,23.63,15
+New Hampshire,Merrimack,280.69,24.07,13
+New Hampshire,Milford,265.93,23.91,16
+New Hampshire,Nashua,239.91,23.49,14
+New Hampshire,New Boston,260.37,93.99,17
+New Hampshire,Peterborough,220.53,40.63,14
+New Hampshire,Portsmouth,232.11,23.15,15
+New Hampshire,Rochester,234.78,27.81,13
+New Hampshire,Salem,239.82,23.5,17
+New Hampshire,Weare,200.35,94.46,15
+New Jersey,Andover Township,168.91,30.91,13
+New Jersey,Asbury Park,212.08,73.61,9
+New Jersey,Atlantic City,165.3,22.71,15
+New Jersey,Barnegat Township,239.46,23.15,15
+New Jersey,Bayonne,272.9,52.26,8
+New Jersey,Belleville,286.33,119.12,7
+New Jersey,Bergenfield,208.63,61.78,8
+New Jersey,Berkeley Heights,234.44,79.49,9
+New Jersey,Berkeley Township,274.69,23.53,14
+New Jersey,Bernards,215.72,49.51,9
+New Jersey,Bernardsville,237.34,48.13,10
+New Jersey,Blairstown,114.66,30.5,14
+New Jersey,Boonton,233.46,36.6,10
+New Jersey,Brick,264.13,23.6,14
+New Jersey,Bridgewater,210.96,51.85,8
+New Jersey,Burlington,224.94,22.93,16
+New Jersey,Burlington Township,287.64,22.87,17
+New Jersey,Camden,237.44,30.99,12
+New Jersey,Carteret,238.59,23.13,15
+New Jersey,Cedar Grove,236.08,59.32,9
+New Jersey,Chatham,240.94,82.84,8
+New Jersey,Cherry Hill,287.04,59.04,11
+New Jersey,Clark,233.12,23.55,13
+New Jersey,Cliffside Park,290.13,118.06,7
+New Jersey,Clifton,230.51,40.97,9
+New Jersey,Closter,228.07,129.78,7
+New Jersey,Collingswood,242.92,91.14,10
+New Jersey,Cranbury Township,194.89,19.3,13
+New Jersey,Cranford,238.34,101.74,7
+New Jersey,Cresskill,200.7,37.04,10
+New Jersey,Delran,307.64,22.49,18
+New Jersey,Denville,248.87,108.62,7
+New Jersey,Deptford Township,329.21,24.86,15
+New Jersey,Dover,258.8,58.72,9
+New Jersey,Dumont,211.48,88.64,8
+New Jersey,East Brunswick,202.08,21.58,14
+New Jersey,East Hanover,227.4,83.7,8
+New Jersey,East Orange,242.58,37.72,10
+New Jersey,East Rutherford,281.97,131.76,7
+New Jersey,East Windsor,250.4,93.8,11
+New Jersey,Eatontown,265.26,41.98,10
+New Jersey,Edgewater,264.67,38.39,10
+New Jersey,Edison,201.71,30.04,12
+New Jersey,Egg Harbor Township,234.86,22.94,15
+New Jersey,Elizabeth,237.82,45.07,9
+New Jersey,Elmwood Park,305.35,159.91,7
+New Jersey,Englewood,138.03,606.32,4
+New Jersey,Evesham Township,260.21,94.57,9
+New Jersey,Ewing Township,225.23,47.97,10
+New Jersey,Fair Lawn,224.99,53.48,9
+New Jersey,Florham Park,211.68,48.35,9
+New Jersey,Fort Lee,275.5,35.75,10
+New Jersey,Franklin Lakes,226.9,37.26,11
+New Jersey,Franklin Township,254.51,75.27,8
+New Jersey,Freehold Township,232.55,93.68,8
+New Jersey,Galloway,233.94,20.56,16
+New Jersey,Garfield,280.84,147.01,7
+New Jersey,Glassboro,295.74,78.32,11
+New Jersey,Hackensack,231.48,46,9
+New Jersey,Hackettstown,226.28,23.59,13
+New Jersey,Haddonfield,290.38,52.15,11
+New Jersey,Hamilton Township,240.88,37.62,11
+New Jersey,Hamilton Township,240.88,37.62,11
+New Jersey,Hampton Township,135.69,31.78,13
+New Jersey,Hanover,217.39,47.8,8
+New Jersey,Hardyston Township,184.59,32,14
+New Jersey,Harrison,245.32,75.92,7
+New Jersey,Hawthorne,232.75,143.77,7
+New Jersey,Hazlet,298.36,141.76,7
+New Jersey,Highland Park,202.79,35.97,11
+New Jersey,Hightstown,267.66,108.07,10
+New Jersey,Hillsdale,255.88,78.11,8
+New Jersey,Hoboken,227.58,66.21,8
+New Jersey,Holmdel,209.99,110.46,8
+New Jersey,Hopatcong,230.48,36.3,11
+New Jersey,Hopewell Township,225.02,91.08,10
+New Jersey,Howell,216.26,36.55,12
+New Jersey,Irvington,257.57,40.47,8
+New Jersey,Jackson,213.7,34.6,13
+New Jersey,Jefferson,208.59,34.69,11
+New Jersey,Jersey City,249.94,93.51,7
+New Jersey,Kearny,249.04,93.17,7
+New Jersey,Kinnelon,201.5,35.01,12
+New Jersey,Lacey Township,235.5,21.68,15
+New Jersey,Lakewood Township,199.66,35.73,12
+New Jersey,Lawrence Township,263.45,76.51,10
+New Jersey,Linden,255.36,40.24,11
+New Jersey,Little Egg Harbor Township,210.03,20.27,16
+New Jersey,Little Falls,224.6,49.96,10
+New Jersey,Livingston,217.52,105.45,8
+New Jersey,Lodi,230.11,36.23,10
+New Jersey,Long Branch,237.83,23.64,13
+New Jersey,Lopatcong,94.51,9.69,12
+New Jersey,Lyndhurst,275.41,71.21,8
+New Jersey,Madison,287.55,122.34,7
+New Jersey,Mahwah,200,34.79,11
+New Jersey,Manalapan Township,218.54,36.4,11
+New Jersey,Manchester Township,278.83,23.16,14
+New Jersey,Maple Shade Township,219.51,40.34,11
+New Jersey,Maplewood,184.95,97.44,8
+New Jersey,Marlboro Township,209.04,32.19,12
+New Jersey,Matawan,253.14,113.87,8
+New Jersey,Maywood,273.01,85.9,8
+New Jersey,Medford,288.78,41.04,13
+New Jersey,Metuchen,196.73,32.63,12
+New Jersey,Middlesex,255.15,127.31,7
+New Jersey,Middletown,223.58,40.55,11
+New Jersey,Millville,268.21,23.41,15
+New Jersey,Monroe Township,288.57,40.24,13
+New Jersey,Monroe Township,288.57,40.24,13
+New Jersey,Montclair,241.08,105.84,8
+New Jersey,Montgomery,225.93,23.28,12
+New Jersey,Montville,233.92,44.55,10
+New Jersey,Moorestown,248.45,23.22,14
+New Jersey,Morris Township,290.67,160.46,6
+New Jersey,Morristown,232.23,102.68,6
+New Jersey,Mount Arlington,207.96,32.59,12
+New Jersey,Mount Holly,290.21,38.04,12
+New Jersey,Mount Laurel,243.6,23.34,15
+New Jersey,Mount Olive Township,218.67,35.87,11
+New Jersey,New Brunswick,238.38,47.58,8
+New Jersey,New Milford,258.07,39.23,9
+New Jersey,New Providence,218.19,120.29,8
+New Jersey,Newark,215.84,44.61,9
+New Jersey,North Bergen,281.08,85.43,8
+New Jersey,North Brunswick Township,227.25,36.3,11
+New Jersey,North Haledon,238.8,49.22,10
+New Jersey,Nutley,237.93,90.89,8
+New Jersey,Oakland,233.21,84.16,9
+New Jersey,Ocean City,193.36,21.97,16
+New Jersey,Ocean Township,220.12,42.09,11
+New Jersey,Old Bridge Township,210.36,35.32,12
+New Jersey,Old Tappan,241.12,37.43,10
+New Jersey,Oradell,258.46,154.8,7
+New Jersey,Palisades Park,289.16,22.91,12
+New Jersey,Paramus,215.37,59.19,9
+New Jersey,Parsippany-Troy Hills,206.01,35.26,11
+New Jersey,Passaic,270.36,102.74,7
+New Jersey,Paterson,274.46,90.82,7
+New Jersey,Pennsauken Township,236.35,37.15,12
+New Jersey,Pequannock Township,227.15,34.03,12
+New Jersey,Perth Amboy,275.79,108.34,7
+New Jersey,Pine Hill,238.68,21.83,15
+New Jersey,Piscataway Township,211.47,33.12,12
+New Jersey,Plainfield,227.75,79.88,7
+New Jersey,Pleasantville,233.07,22.7,16
+New Jersey,Point Pleasant,138.76,21.31,16
+New Jersey,Pompton Lakes,218.24,34.38,12
+New Jersey,Princeton,205.66,85.47,11
+New Jersey,Rahway,248.07,23.24,14
+New Jersey,Ramsey,216.32,62.79,10
+New Jersey,Randolph,257.74,72.16,9
+New Jersey,Raritan,297.3,163.08,6
+New Jersey,Ridgefield,256.75,38.71,10
+New Jersey,Ridgewood,223.14,121.97,8
+New Jersey,Robbinsville,239.76,37.09,11
+New Jersey,Roselle,292.19,94.78,7
+New Jersey,Roxbury Township,220.07,35.61,11
+New Jersey,Rutherford,251.51,116.97,7
+New Jersey,Saddle Brook,244.02,52.61,9
+New Jersey,Saddle River,194.22,36.67,10
+New Jersey,Sayreville,221.14,35.28,11
+New Jersey,Scotch Plains,261.73,74.29,8
+New Jersey,Secaucus,163.75,35.69,111
+New Jersey,South Brunswick Township,232.67,40.92,10
+New Jersey,South Orange,224.36,115.06,7
+New Jersey,South Plainfield,217.92,23.74,11
+New Jersey,Springfield Township,244.22,72.33,9
+New Jersey,Stafford Township,272.02,23.29,15
+New Jersey,Summit,240.19,118.4,8
+New Jersey,Teaneck,273.03,119.63,7
+New Jersey,Tenafly,811.5,743,4
+New Jersey,Tinton Falls,267.5,93.65,9
+New Jersey,Toms River,258.82,88.49,8
+New Jersey,Trenton,237.36,41.56,11
+New Jersey,Union,236.32,88.76,8
+New Jersey,Union City,255.84,36.65,10
+New Jersey,Verona,226.81,80.93,10
+New Jersey,Vineland,227.86,23.44,13
+New Jersey,Voorhees Township,253.29,23.14,14
+New Jersey,Wall Township,218.98,52.83,10
+New Jersey,Wanaque,216.82,35.44,11
+New Jersey,Wantage,211.59,32.44,13
+New Jersey,Warren,207.69,48.45,8
+New Jersey,Washington Township,268.81,22.73,14
+New Jersey,Washington Township,268.81,22.73,14
+New Jersey,Wayne,210.92,34.87,12
+New Jersey,Weehawken,218.24,35.98,11
+New Jersey,West Caldwell,279.12,138.15,7
+New Jersey,West Deptford,297.93,47.31,11
+New Jersey,West Milford,203.57,34.97,12
+New Jersey,West New York,273.53,36.61,11
+New Jersey,West Orange,227.4,85.54,8
+New Jersey,West Windsor Township,268.93,111.99,11
+New Jersey,Westfield,212.8,94.21,7
+New Jersey,Willingboro,196.76,22.16,17
+New Jersey,Woodbridge Township,236.33,22.85,15
+New Jersey,Woodcliff Lake,210.59,59.33,9
+New Jersey,Woolwich Township,245.23,23.29,15
+New Jersey,Wyckoff,263.81,169.93,8
+New Mexico,Agua Fria,93.8,16.97,25
+New Mexico,Alamogordo,172.08,13.38,43
+New Mexico,Albuquerque,180.12,11.85,12
+New Mexico,Carlsbad,108.76,18.69,18
+New Mexico,Clovis,209.89,97.52,3
+New Mexico,Farmington,213.76,15.55,15
+New Mexico,Gallup,119.89,11.99,15
+New Mexico,Hobbs,129.71,19.44,40
+New Mexico,Las Cruces,210.71,12.14,37
+New Mexico,Los Lunas,246.12,22.99,11
+New Mexico,Placitas,219.76,11.73,12
+New Mexico,Rio Rancho,216.9,27.41,13
+New Mexico,Roswell,182.77,37.04,20
+New Mexico,Ruidoso,114.91,11.76,45
+New Mexico,Santa Fe,126.78,11.8,28
+New Mexico,South Valley,184.78,11.93,11
+New Mexico,Taos,51.75,33.76,8
+New York,Albany,182.68,11.97,21
+New York,Amherst,197.43,40.79,21
+New York,Amsterdam,266.72,11.75,19
+New York,Auburn,237.43,39.96,14
+New York,Babylon,243.2,46.19,8
+New York,Baldwin,215.37,42.41,8
+New York,Batavia,257.28,20.79,15
+New York,Bay Shore,265.75,69.35,8
+New York,Bellmore,226.98,63.76,8
+New York,Bethpage,208.68,47.92,8
+New York,Binghamton,191.26,12.27,18
+New York,Bohemia,209.28,37.15,9
+New York,Brentwood,266.33,91.96,7
+New York,Briarcliff Manor,227.5,53.81,8
+New York,Brighton,231.38,21.79,12
+New York,Bronxville,209.27,95.48,8
+New York,Buffalo,200.66,14.94,21
+New York,Centereach,188.01,35.8,10
+New York,Central Islip,297.36,86.63,7
+New York,Chappaqua,225.58,96.8,8
+New York,Cheektowaga,246.96,11.77,18
+New York,Cicero,254.89,84.53,16
+New York,Colonie,180.03,22.77,20
+New York,Commack,230.3,113.17,8
+New York,Copiague,275.77,158.49,6
+New York,Coram,211.6,33.84,11
+New York,Corning,216.7,21.92,15
+New York,Cortland,218.02,12.02,16
+New York,Croton-on-Hudson,224.48,37.18,9
+New York,Deer Park,308.66,210.05,6
+New York,Delmar,201.17,49.3,18
+New York,Dix Hills,228,52.39,8
+New York,Dobbs Ferry,262.02,172.86,7
+New York,East Farmingdale,248.43,54.72,7
+New York,East Hampton North,192.11,35.1,12
+New York,East Hills,210.11,92.38,8
+New York,East Islip,207.51,50.74,9
+New York,East Meadow,249.56,39.28,9
+New York,East Northport,265.46,136.79,8
+New York,East Patchogue,226.5,36.86,10
+New York,Elmira,252.82,18.01,18
+New York,Elmont,225.8,36.77,9
+New York,Elwood,203.28,37.07,8
+New York,Fairport,202.26,11.64,16
+New York,Farmingville,237.73,36.39,10
+New York,Floral Park,233.73,109.88,7
+New York,Fort Drum,358.59,20.27,20
+New York,Franklin Square,254.1,41.83,9
+New York,Freeport,272.03,84.65,8
+New York,Garden City,211.12,42.53,9
+New York,Gardnertown,273.27,42.75,12
+New York,Getzville,243.4,91.17,23
+New York,Glen Cove,291.73,94.27,8
+New York,Glens Falls,236.07,11.52,24
+New York,Gloversville,224.16,11.64,19
+New York,Grand Island,211.1,11.54,23
+New York,Great Neck,214,58.23,8
+New York,Great Neck Plaza,197.64,84.38,7
+New York,Greece,203.39,21.3,12
+New York,Greenlawn,225.9,40.2,9
+New York,Hampton Bays,224.04,36.56,11
+New York,Harrison,214.95,80.4,8
+New York,Hartsdale,219.44,34.95,10
+New York,Hauppauge,211.9,46.78,9
+New York,Hempstead,281.23,146.64,6
+New York,Henrietta,166.52,11.57,14
+New York,Hicksville,234.33,86.61,8
+New York,Holbrook,212.53,69.85,8
+New York,Holtsville,256.7,36.76,10
+New York,Huntington,217.55,60.78,9
+New York,Huntington Station,295.12,146.46,8
+New York,Irondequoit,234.71,20.48,16
+New York,Islip,257.36,115.55,7
+New York,Ithaca,165.82,11.69,16
+New York,Jamestown,186.42,22.43,18
+New York,Jefferson Valley-Yorktown,232.74,78.37,8
+New York,Jericho,216.04,36.64,9
+New York,Kingston,261.71,12.11,15
+New York,Lackawanna,249.34,83.62,22
+New York,Lake Grove,211.04,36.51,9
+New York,Lake Ronkonkoma,302.12,127.95,7
+New York,Lancaster,231.55,11.63,16
+New York,Larchmont,229.28,77.69,9
+New York,Latham,216.63,91.37,17
+New York,Levittown,233.86,81.5,8
+New York,Lindenhurst,256.45,59.23,8
+New York,Lockport,209.84,11.6,21
+New York,Long Beach,218.32,52.05,8
+New York,Lynbrook,291.92,153.36,7
+New York,Mahopac,232.04,158.24,7
+New York,Mamaroneck,222.06,87.46,8
+New York,Manhasset,213.3,60.45,8
+New York,Manorville,215.58,36.13,12
+New York,Massapequa,250.98,85.84,8
+New York,Massapequa Park,273.43,145.5,8
+New York,Mastic,217.89,34.62,12
+New York,Medford,212.61,35.75,10
+New York,Melville,229.12,83.6,8
+New York,Merrick,220.74,79.35,8
+New York,Middle Island,219.28,33.07,11
+New York,Middletown,271.41,13.91,16
+New York,Miller Place,223.88,35.64,10
+New York,Mineola,250.08,89.95,7
+New York,Monroe,193.02,30.42,12
+New York,Mount Kisco,212.81,84,8
+New York,Mount Sinai,209.62,34.65,11
+New York,Mount Vernon,249.39,54.72,8
+New York,Myers Corner,240.37,36.44,11
+New York,Nanuet,227.42,47.7,10
+New York,Nesconset,216.16,36.84,9
+New York,New Cassel,241.89,52.3,8
+New York,New City,258.55,51.23,9
+New York,New Rochelle,229.68,68.27,9
+New York,New York,224.41,30.54,10
+New York,Niagara Falls,254.37,11.43,21
+New York,North Babylon,281.62,108.72,7
+New York,North Bellmore,232.17,94.22,8
+New York,North Hills,214.27,63.05,8
+New York,North New Hyde Park,225.62,52.82,8
+New York,North Tonawanda,269.15,11.49,21
+New York,North Valley Stream,227.6,35.73,10
+New York,Oceanside,255.67,62.76,8
+New York,Olean,218.4,11.45,20
+New York,Oneida,195.2,11.77,16
+New York,Ossining,240.2,41.37,9
+New York,Oswego,266.4,13.56,15
+New York,Pearl River,218.34,51.67,9
+New York,Peekskill,236.27,58.39,9
+New York,Plainview,244.92,105.88,8
+New York,Plattsburgh,187.77,11.54,36
+New York,Port Chester,251.33,141.23,8
+New York,Port Washington,228.68,60.12,8
+New York,Poughkeepsie,306.13,75.39,9
+New York,Queensbury,233.81,11.53,25
+New York,Rhinebeck,196.42,16.79,18
+New York,Ridgemont,248.39,15.66,15
+New York,Riverhead,210.9,34.56,11
+New York,Rochester,210.74,13.58,14
+New York,Rockville Centre,210.44,60.47,8
+New York,Rome,181.28,11.6,15
+New York,Ronkonkoma,215,68.58,8
+New York,Roslyn Heights,227.78,85.16,7
+New York,Rotterdam,241.19,20.33,20
+New York,Rye,216.6,100.92,8
+New York,Rye Brook,226.38,51.5,9
+New York,Saint James,213.74,36.94,9
+New York,Salisbury,286.71,91.05,8
+New York,Saratoga Springs,220.32,11.53,24
+New York,Sayville,280,170.3,7
+New York,Scarsdale,210.6,114.95,7
+New York,Schenectady,267.74,40.25,18
+New York,Selden,210.84,36.38,10
+New York,Setauket- East Setauket,199.58,36.78,10
+New York,Shirley,211.11,36.53,12
+New York,Smithtown,211.97,79.48,8
+New York,South Huntington,229.89,86.1,9
+New York,Spring Valley,226.01,36.76,10
+New York,Stony Brook,207.12,36.17,9
+New York,Stony Point,221.25,40.9,11
+New York,Syosset,212.94,82.81,8
+New York,Syracuse,213.31,20.04,16
+New York,Tarrytown,195.98,86.07,7
+New York,Terryville,209.15,36.32,10
+New York,Troy,244.15,11.66,22
+New York,Uniondale,243.02,90.11,8
+New York,Utica,200.54,11.62,11
+New York,Valley Stream,225.69,37.11,9
+New York,Wantagh,224.03,76.36,8
+New York,Water Mill,212.46,26.96,13
+New York,Watertown,217.99,12.56,18
+New York,West Babylon,219.66,45.9,8
+New York,West Hempstead,230.02,117.37,8
+New York,West Islip,262.91,93.34,8
+New York,West Seneca,232.14,30.74,19
+New York,Wheatfield,223.98,11.54,21
+New York,White Plains,231.42,82.91,8
+New York,Woodbury,220.43,25.92,13
+New York,Woodmere,197.22,91.7,8
+New York,Yaphank,233.34,36.84,9
+New York,Yonkers,247.32,49.84,9
+North Carolina,Apex,285.99,67.14,14
+North Carolina,Asheboro,194.73,11.52,17
+North Carolina,Asheville,242.14,19.16,26
+North Carolina,Belmont,244.69,23.54,20
+North Carolina,Boone,145.99,15.1,23
+North Carolina,Burlington,241.03,19.46,15
+North Carolina,Carrboro,237.77,23.28,14
+North Carolina,Cary,270.23,86.57,12
+North Carolina,Chapel Hill,237.6,38.73,14
+North Carolina,Charlotte,226.93,24.19,16
+North Carolina,Clayton,225.9,21.23,15
+North Carolina,Clemmons,227.17,22.74,17
+North Carolina,Concord,259.24,33.62,14
+North Carolina,Cornelius,245.64,26.23,18
+North Carolina,Davidson,215.48,25.93,16
+North Carolina,Durham,256.08,23.26,14
+North Carolina,Elizabeth City,224.88,17.42,21
+North Carolina,Fayetteville,254.2,21.91,14
+North Carolina,Forest City,68.98,20.44,24
+North Carolina,Fort Bragg,350.09,18.3,15
+North Carolina,Franklin,23.64,4.37,34
+North Carolina,Fuquay Varina,281.38,37.7,15
+North Carolina,Garner,288.66,35.36,14
+North Carolina,Gastonia,239.8,20.82,23
+North Carolina,Goldsboro,239.9,12.95,18
+North Carolina,Greensboro,230.99,22.92,15
+North Carolina,Greenville,189.46,34.66,9
+North Carolina,Harrisburg,216.77,16.62,20
+North Carolina,Havelock,248.55,16.86,23
+North Carolina,Hendersonville,158.39,20.2,13
+North Carolina,Hickory,208.43,11.34,21
+North Carolina,High Point,215.88,35.78,8
+North Carolina,Holly Springs,253.96,104.49,16
+North Carolina,Hope Mills,266.69,19.19,16
+North Carolina,Huntersville,275.39,38.29,14
+North Carolina,Indian Trail,229.53,20.58,19
+North Carolina,Jacksonville,279.94,20,25
+North Carolina,Kannapolis,238.26,22.81,18
+North Carolina,Kernersville,209.26,21.45,14
+North Carolina,Kill Devil Hills,184.3,11.22,47
+North Carolina,Kings Grant,233.82,22.87,17
+North Carolina,Kings Mountain,192.02,11.94,23
+North Carolina,Kitty Hawk,211.73,11.34,47
+North Carolina,Knightdale,292.58,88.94,14
+North Carolina,Laurel Park,153.79,15.35,11
+North Carolina,Leland,260.27,38.9,18
+North Carolina,Lenoir,191.43,11.31,23
+North Carolina,Lexington,271.68,22.95,15
+North Carolina,Linden,189.6,12.71,19
+North Carolina,Lumberton,288.37,18.94,16
+North Carolina,Matthews,260.33,22.69,18
+North Carolina,Mebane,223.49,15.06,18
+North Carolina,Mint Hill,272.3,23.58,17
+North Carolina,Monroe,229.73,16.08,19
+North Carolina,Mooresville,226.32,23.13,19
+North Carolina,Morganton,92.86,16.7,18
+North Carolina,Morrisville,297,198.28,6
+North Carolina,Mount Airy,191.55,17.95,17
+North Carolina,Mount Holly,266.52,22.86,23
+North Carolina,New Bern,179.4,27.1,12
+North Carolina,Oak Island,239.64,23.04,18
+North Carolina,Pinehurst,183.96,11.56,20
+North Carolina,Raleigh,260.39,55.53,13
+North Carolina,Reidsville,208.64,11.66,19
+North Carolina,Rocky Mount,165.66,27.2,10
+North Carolina,Salisbury,167.87,22.94,18
+North Carolina,Sanford,188.74,14.43,34
+North Carolina,Shelby,238.94,18.59,24
+North Carolina,Silver Lake,277.24,21.57,20
+North Carolina,Smithfield,273.57,11.74,18
+North Carolina,Southern Pines,238.84,11.73,19
+North Carolina,Statesville,192.11,11.66,26
+North Carolina,Summerfield,208.22,21.19,17
+North Carolina,Thomasville,249.02,40.48,11
+North Carolina,Wade,175.93,11.73,19
+North Carolina,Wake Forest,232.78,22.62,16
+North Carolina,Waynesville,205.55,11.26,23
+North Carolina,Weddington,192.43,18.8,19
+North Carolina,Wesley Chapel,238.46,22.76,17
+North Carolina,Wilmington,240.7,19.23,20
+North Carolina,Wilson,114.7,23.42,15
+North Carolina,Winston-Salem,229.02,21.88,16
+North Dakota,Bismarck,220.64,37.34,9
+North Dakota,Fargo,171.37,69.57,10
+North Dakota,Grand Forks,222.02,36.47,10
+North Dakota,Minot,262,48.89,6
+North Dakota,West Fargo,228.92,109.82,11
+Ohio,Akron,234.83,18.12,18
+Ohio,Alliance,210.65,11.77,17
+Ohio,Ashland,231.78,19.88,10
+Ohio,Athens,215.04,11.72,23
+Ohio,Aurora,221.98,20.23,15
+Ohio,Austintown,223.98,20,10
+Ohio,Avon,253.65,15.61,21
+Ohio,Avon Lake,208.41,20.55,23
+Ohio,Barberton,299.56,17.2,18
+Ohio,Bay Village,261.11,26.32,21
+Ohio,Beachwood,217.82,22.7,14
+Ohio,Beavercreek,256.61,21.77,26
+Ohio,Beckett Ridge,241.67,22.97,15
+Ohio,Bedford,241.39,23.24,12
+Ohio,Bellefontaine,146.47,11.58,20
+Ohio,Berea,230.27,30.38,21
+Ohio,Bexley,176.93,21.1,20
+Ohio,Blue Ash,227.84,34.57,14
+Ohio,Boardman,242.32,19.03,11
+Ohio,Bowling Green,206.65,11.63,17
+Ohio,Brecksville,207.39,17.27,16
+Ohio,Broadview Heights,119.31,10.66,24
+Ohio,Brook Park,289.91,22.88,22
+Ohio,Brunswick,229.66,15.47,21
+Ohio,Canal Winchester,177.1,19.56,19
+Ohio,Canton,242.22,17.46,18
+Ohio,Centerville,243.08,16.02,26
+Ohio,Chillicothe,236.58,11.68,20
+Ohio,Cincinnati,179.49,34.17,14
+Ohio,Circleville,243.56,19.56,16
+Ohio,Clayton,208.54,19.88,24
+Ohio,Cleveland,199.56,20.26,16
+Ohio,Cleveland Heights,255.93,36.98,11
+Ohio,Columbus,226.78,21.37,19
+Ohio,Conneaut,181.23,20.45,14
+Ohio,Cuyahoga Falls,250.78,22.77,15
+Ohio,Dayton,253.91,23.41,18
+Ohio,Defiance,177.46,11.56,19
+Ohio,Delaware,208.78,20.24,20
+Ohio,Delhi,235.07,102.81,13
+Ohio,Dublin,217.52,20.09,19
+Ohio,Eastlake,282.81,23.3,14
+Ohio,Elyria,249.32,21.57,19
+Ohio,Englewood,175.13,23.12,20
+Ohio,Euclid,245.23,22.33,13
+Ohio,Fairborn,256.26,17.3,27
+Ohio,Fairfield,220.24,23.29,15
+Ohio,Fairlawn,205.16,52.76,7
+Ohio,Fairview Park,221.33,20.62,24
+Ohio,Findlay,186.96,11.7,13
+Ohio,Five Points,243.87,33.62,19
+Ohio,Forest Park,202.02,51.53,13
+Ohio,Franklin,223.55,11.65,20
+Ohio,Fremont,207.36,11.69,18
+Ohio,Gahanna,208.81,20.21,19
+Ohio,Garfield Heights,232.84,25.36,17
+Ohio,Grandview Heights,212.06,22.48,18
+Ohio,Green,239.8,11.75,21
+Ohio,Grove City,242.54,21.36,19
+Ohio,Hamilton,247.4,23.21,15
+Ohio,Highland Heights,206.06,13.66,15
+Ohio,Hilliard,245.52,22.43,18
+Ohio,Huber Heights,284.3,22.86,21
+Ohio,Hudson,226.1,20.57,15
+Ohio,Independence,199.95,23.58,17
+Ohio,Indian Hill,226.37,31.6,14
+Ohio,Kent,217.67,12.94,20
+Ohio,Kettering,239.71,21.76,23
+Ohio,Lakewood,211.12,21.86,22
+Ohio,Lancaster,240.64,15.8,18
+Ohio,Landen,257.73,26.74,14
+Ohio,Lebanon,201.96,29.36,13
+Ohio,Lewis Center,219.2,21.02,24
+Ohio,Lima,239.57,11.78,20
+Ohio,Lorain,235.85,11.62,21
+Ohio,Lyndhurst,264.69,22.98,13
+Ohio,Macedonia,196.66,16.63,14
+Ohio,Mack,214.79,23.2,14
+Ohio,Mansfield,218.94,11.66,19
+Ohio,Maple Heights,242.83,26.86,13
+Ohio,Marietta,230.49,31.76,11
+Ohio,Marion,277.47,19.33,19
+Ohio,Marysville,218.04,17.61,18
+Ohio,Mason,225.07,29.36,15
+Ohio,Massillon,94.23,15.67,10
+Ohio,Maumee,104.5,9.4,18
+Ohio,Mayfield Heights,251.07,22.92,14
+Ohio,Medina,226.07,120.94,8
+Ohio,Mentor,235.88,15.84,15
+Ohio,Miamisburg,194.48,11.83,27
+Ohio,Middleburg Heights,212.14,27.3,22
+Ohio,Middletown,273.06,11.82,20
+Ohio,Montgomery,176.2,49.14,12
+Ohio,Montrose-Ghent,222.2,21.08,16
+Ohio,Moreland Hills,189.75,17.81,17
+Ohio,Mount Healthy,212.98,24.15,14
+Ohio,Mount Vernon,84.88,11.06,22
+Ohio,New Albany,245.12,22.78,17
+Ohio,New Franklin,239.3,11.83,23
+Ohio,New Philadelphia,227.3,11.64,19
+Ohio,Newark,169.56,20.02,20
+Ohio,Niles,215.48,11.65,21
+Ohio,North Canton,232.2,18.88,17
+Ohio,North Olmsted,242.99,22.62,21
+Ohio,North Ridgeville,252.03,22.13,22
+Ohio,North Royalton,197.87,22.55,23
+Ohio,Norton,317.03,18.66,15
+Ohio,Norwalk,169.06,11.61,19
+Ohio,Norwood,164.89,32.4,13
+Ohio,Olmsted Falls,220.41,18.89,23
+Ohio,Oxford,220.67,11.66,26
+Ohio,Painesville,183.71,18.09,17
+Ohio,Parma,251.2,34.99,22
+Ohio,Parma Heights,255.69,32.25,22
+Ohio,Pataskala,237.84,11.78,19
+Ohio,Pepper Pike,173.96,22.48,16
+Ohio,Perrysburg,198.29,11.23,17
+Ohio,Pickerington,233.51,22.28,21
+Ohio,Piqua,215.56,18.63,22
+Ohio,Powell,235.14,11.78,17
+Ohio,Reynoldsburg,206.81,21.51,24
+Ohio,Riverside,334.56,22.4,20
+Ohio,Rocky River,215.96,23.41,22
+Ohio,Sandusky,92.85,5.45,17
+Ohio,Seven Hills,178.77,20.49,23
+Ohio,Shaker Heights,218.74,25.47,12
+Ohio,Sharonville,212.65,22.66,15
+Ohio,Sidney,269.18,11.83,25
+Ohio,Solon,166.71,18.96,16
+Ohio,South Euclid,227.52,36.48,11
+Ohio,Springboro,254.47,38.38,17
+Ohio,Springfield,220.5,11.85,25
+Ohio,Stow,229.17,11.69,20
+Ohio,Streetsboro,218,15.86,18
+Ohio,Strongsville,209.76,21.06,21
+Ohio,Sylvania,197.62,69.86,9
+Ohio,Tallmadge,184.66,11.72,20
+Ohio,Toledo,111.61,9.14,15
+Ohio,Trotwood,257.34,11.63,25
+Ohio,Troy,268.09,23.2,20
+Ohio,Twinsburg,215.76,20.44,15
+Ohio,Upper Arlington,218.57,22.23,18
+Ohio,Vandalia,286.97,74.08,7
+Ohio,Vermilion,229.35,11.64,22
+Ohio,Wadsworth,208.2,15.92,20
+Ohio,Warren,232.06,11.63,21
+Ohio,West Carrollton,255.04,11.88,26
+Ohio,Westerville,186.85,20.95,24
+Ohio,Westlake,211.79,21.26,22
+Ohio,Whitehall,223.2,17.71,19
+Ohio,Wickliffe,302.89,110.57,5
+Ohio,Willoughby,237.19,12.12,16
+Ohio,Wilmington,154.75,11.7,20
+Ohio,Woodbourne-Hyde Park,240.67,23.67,21
+Ohio,Wooster,90.39,11.13,11
+Ohio,Worthington,217.39,20.42,21
+Ohio,Xenia,186.21,11.72,28
+Ohio,Youngstown,225.3,14.3,17
+Ohio,Zanesville,243.15,11.58,18
+Oklahoma,Ada,124.03,25.85,14
+Oklahoma,Altus,225.57,39.91,20
+Oklahoma,Ardmore,105.2,20.57,12
+Oklahoma,Bartlesville,190.53,31.19,14
+Oklahoma,Bethany,281.99,24.49,11
+Oklahoma,Bixby,209.63,36.22,9
+Oklahoma,Broken Arrow,208.27,11.54,12
+Oklahoma,Chickasha,99.73,7.98,22
+Oklahoma,Choctaw,222.71,10.99,10
+Oklahoma,Claremore,176.6,10.82,13
+Oklahoma,Del City,230.14,35.8,11
+Oklahoma,Duncan,192.5,28.17,9
+Oklahoma,Durant,127.04,27.1,17
+Oklahoma,Edmond,190.03,25.64,12
+Oklahoma,Enid,256.39,38.86,16
+Oklahoma,Fort Sill,177.72,35.14,9
+Oklahoma,Jenks,233.35,36.52,12
+Oklahoma,Lawton,110.98,22.63,10
+Oklahoma,McAlester,114.7,26.29,20
+Oklahoma,Midwest City,268.9,19.62,10
+Oklahoma,Moore,275.52,36.31,11
+Oklahoma,Muskogee,205.73,26.47,26
+Oklahoma,Mustang,261.25,37.26,11
+Oklahoma,Newcastle,153.83,165.26,10
+Oklahoma,Noble,106.03,104.81,4
+Oklahoma,Norman,213.32,36.35,10
+Oklahoma,Oklahoma City,232.08,36.11,11
+Oklahoma,Owasso,281.46,36.08,12
+Oklahoma,Ponca City,80.25,24.46,17
+Oklahoma,Sand Springs,265.21,32.2,13
+Oklahoma,Sapulpa,178.18,10.76,13
+Oklahoma,Shawnee,206.38,41.22,14
+Oklahoma,Stillwater,209.69,37.1,18
+Oklahoma,Tahlequah,98.31,17.54,19
+Oklahoma,Tulsa,195.76,19.57,12
+Oklahoma,The Village,361.5,242.64,11
+Oklahoma,Weatherford,136.72,104.47,9
+Oklahoma,Yukon,249.22,28.64,13
+Oregon,Albany,210.07,15.09,13
+Oregon,Aloha,212.96,48.04,7
+Oregon,Altamont,188.84,14.11,11
+Oregon,Ashland,109.22,10.67,11
+Oregon,Beaverton,203.3,35.77,9
+Oregon,Bend,158.28,13.37,26
+Oregon,Coos Bay,209.88,22.83,14
+Oregon,Corvallis,212.71,12.7,13
+Oregon,Damascus,192.28,23.86,11
+Oregon,Eugene,204.26,15.2,15
+Oregon,Fairview,241.84,72.09,8
+Oregon,Florence,240.43,11.5,21
+Oregon,Forest Grove,192.81,47.79,8
+Oregon,Grants Pass,214.56,11.42,10
+Oregon,Gresham,206.68,39.49,10
+Oregon,Happy Valley,203.11,24.19,11
+Oregon,Hillsboro,214.02,41.24,8
+Oregon,Jennings Lodge,234.2,20.2,12
+Oregon,Keizer,241.63,15.29,12
+Oregon,King City,198.53,41.18,9
+Oregon,Klamath Falls,235.55,11.46,11
+Oregon,Lake Oswego,233.95,17.81,12
+Oregon,Lebanon,105.17,11.73,15
+Oregon,McMinnville,183.81,23.8,11
+Oregon,Medford,236.58,19.86,9
+Oregon,Milwaukie,212.32,23.12,11
+Oregon,Newberg,178.18,24.15,12
+Oregon,Newport,94.5,11.28,20
+Oregon,Oatfield,216.66,20.63,12
+Oregon,Oregon City,252.4,20.18,12
+Oregon,Pendleton,215.15,59.21,5
+Oregon,Portland,190.35,23.34,11
+Oregon,Redmond,133.97,13.38,26
+Oregon,Roseburg,169.44,19.52,15
+Oregon,Salem,237.64,15.9,12
+Oregon,Seaside,211.27,11.38,19
+Oregon,Sherwood,195.57,62.46,7
+Oregon,Springfield,155.55,15.79,16
+Oregon,Sunnyside,140.14,17.57,13
+Oregon,Sunriver,104.91,12.7,27
+Oregon,Tigard,188.83,23.76,11
+Oregon,Troutdale,197.14,39.33,9
+Oregon,Tualatin,177.01,36.4,10
+Oregon,West Linn,194.36,18.7,13
+Oregon,West Slope,232.04,17.96,11
+Oregon,Wilsonville,152.31,23.45,12
+Oregon,Woodburn,220.5,11.35,11
+Pennsylvania,Allentown,190.92,24.2,12
+Pennsylvania,Altoona,122.53,25.03,20
+Pennsylvania,Ardmore,234.94,94.56,8
+Pennsylvania,Bala Cynwyd,280.39,41.43,10
+Pennsylvania,Baldwin,303.63,41.31,9
+Pennsylvania,Bensalem,262.33,23.82,12
+Pennsylvania,Bethel Park,237.32,79.9,9
+Pennsylvania,Bethlehem,144.96,20.78,14
+Pennsylvania,Camp Hill,235.51,71.5,13
+Pennsylvania,Carlisle,238.83,23.78,13
+Pennsylvania,Carnegie,273.25,41.54,9
+Pennsylvania,Chambersburg,170.27,21.5,14
+Pennsylvania,Coatesville,246.99,40.22,10
+Pennsylvania,Cranberry Township,221.59,19.86,11
+Pennsylvania,Dormont,269.23,178.72,7
+Pennsylvania,East Norriton,212.44,41.54,10
+Pennsylvania,Elim,102.35,22.26,15
+Pennsylvania,Elkins Park,235.79,23.62,14
+Pennsylvania,Ephrata,165.15,14.62,11
+Pennsylvania,Ephrata Township,202.76,14.8,11
+Pennsylvania,Erie,244.8,11.68,20
+Pennsylvania,Exton,289.74,119.25,7
+Pennsylvania,Forest Hills,250.3,92.8,6
+Pennsylvania,Glenside,213.62,68.22,8
+Pennsylvania,Greensburg,162.04,19.9,16
+Pennsylvania,Hampton Township,248.29,41.6,10
+Pennsylvania,Hanover,267.49,23.68,12
+Pennsylvania,Harleysville,308.19,40.51,11
+Pennsylvania,Harrisburg,166.22,23.64,16
+Pennsylvania,Havertown,177.03,56.53,9
+Pennsylvania,Hazleton,178.78,27.03,13
+Pennsylvania,Hermitage,228.52,11.6,20
+Pennsylvania,Hershey,250.84,27.88,13
+Pennsylvania,Horsham,252.13,24.12,12
+Pennsylvania,Indiana,211.65,17.95,13
+Pennsylvania,Johnstown,160.91,36.1,16
+Pennsylvania,King of Prussia,234.23,30.8,11
+Pennsylvania,Kingston,188.54,19.69,33
+Pennsylvania,Lancaster,186.74,20.78,12
+Pennsylvania,Lansdale,240.59,119.52,7
+Pennsylvania,Levittown,238,94.59,10
+Pennsylvania,Linglestown,188.26,103.1,13
+Pennsylvania,Lower Burrell,207.67,21.36,17
+Pennsylvania,McCandless,244.15,41.66,9
+Pennsylvania,McKeesport,232.93,22.78,17
+Pennsylvania,Meadville,206.99,20.91,10
+Pennsylvania,Monroeville,232.08,40.81,9
+Pennsylvania,Moon,214.59,40.66,9
+Pennsylvania,Mount Lebanon,272.84,151.45,7
+Pennsylvania,Mountain Top,96.04,9.74,18
+Pennsylvania,Murrysville,236.93,23.19,13
+Pennsylvania,Nether Providence Township,258.34,40.35,13
+Pennsylvania,New Castle,233.28,23.03,16
+Pennsylvania,Norristown,237.61,35.85,11
+Pennsylvania,Penn Hills,256.4,62.53,8
+Pennsylvania,Philadelphia,193.76,38.77,10
+Pennsylvania,Phoenixville,185.73,41.36,11
+Pennsylvania,Pittsburgh,205.88,40.17,9
+Pennsylvania,Plum,263.96,40.9,11
+Pennsylvania,Pottsgrove,239.31,25.15,13
+Pennsylvania,Quakertown,237.72,94.4,8
+Pennsylvania,Reading,182.28,21.31,31
+Pennsylvania,Robinson Township,230.35,91.58,8
+Pennsylvania,Ross Township,226.87,92.83,8
+Pennsylvania,Saint Marys,124.36,92.95,21
+Pennsylvania,Schlusser,200.2,20.99,15
+Pennsylvania,Scranton,209.23,21.42,34
+Pennsylvania,Spring House,223,91.51,8
+Pennsylvania,Springfield,221.34,74.36,9
+Pennsylvania,State College,176.51,22.4,17
+Pennsylvania,Upper Darby,250.88,24.76,10
+Pennsylvania,Upper Providence Township,194.65,40.05,12
+Pennsylvania,Upper Saint Clair,229.77,80.6,8
+Pennsylvania,Warminster,278.63,141.89,7
+Pennsylvania,Wayne,188.94,76.02,9
+Pennsylvania,West Chester,251.86,89.78,9
+Pennsylvania,West Norriton,188.51,27.24,12
+Pennsylvania,Wexford,237.86,78.05,6
+Pennsylvania,Whitehall,132.28,21.63,16
+Pennsylvania,Wilkes-Barre,131.76,11.56,17
+Pennsylvania,Williamsport,230.47,22.31,22
+Pennsylvania,Willow Grove,210.45,54.57,9
+Pennsylvania,Wynnewood,194.24,41.5,10
+Pennsylvania,Wyomissing,213.69,23.1,30
+Pennsylvania,York,170.44,21.35,13
+Rhode Island,Barrington,232.58,22.52,11
+Rhode Island,Bristol,235.49,22.54,11
+Rhode Island,Coventry,258.06,76.49,8
+Rhode Island,Cranston,222.61,81.14,7
+Rhode Island,Cumberland,149.69,35.2,10
+Rhode Island,East Greenwich,248.04,126.18,9
+Rhode Island,East Providence,242.16,46.03,8
+Rhode Island,Glocester,230.1,43.3,9
+Rhode Island,Johnston,274.03,36.95,9
+Rhode Island,Lincoln,276.8,30.79,10
+Rhode Island,Middletown,177.68,10.59,11
+Rhode Island,Newport,162.83,10.64,11
+Rhode Island,North Kingstown,207.77,84.42,9
+Rhode Island,North Providence,283.64,117,7
+Rhode Island,Pawtucket,279.01,91.86,7
+Rhode Island,Portsmouth,191.6,10.68,11
+Rhode Island,Providence,252.27,59.54,7
+Rhode Island,Smithfield,229.65,60.74,10
+Rhode Island,South Kingstown,208.38,82.65,9
+Rhode Island,Tiverton,177.72,10.78,12
+Rhode Island,Warwick,267.39,61.59,8
+Rhode Island,West Warwick,250.33,96.86,8
+Rhode Island,Westerly,212.74,85.99,8
+Rhode Island,Woonsocket,212.18,86.81,8
+South Carolina,Aiken,164.33,26.54,41
+South Carolina,Anderson,194.47,15.88,23
+South Carolina,Beaufort,104.53,20.35,26
+South Carolina,Bluffton,194.87,31.35,20
+South Carolina,Boiling Springs,271.47,22.39,20
+South Carolina,Carolina Forest,248.02,57.24,9
+South Carolina,Charleston,173,23.98,39
+South Carolina,Clemson,108.3,30.63,17
+South Carolina,Columbia,203.39,18.53,24
+South Carolina,Conway,233.61,23.24,9
+South Carolina,Easley,245.92,21.16,24
+South Carolina,Five Forks,258.12,37.4,14
+South Carolina,Florence,212.75,11.74,22
+South Carolina,Forest Acres,241.86,18.01,22
+South Carolina,Forestbrook,249.28,95.94,6
+South Carolina,Fort Mill,266.11,109.54,5
+South Carolina,Garden City,237.82,19.76,21
+South Carolina,Goose Creek,267.13,41.88,15
+South Carolina,Greenville,212.12,21.29,22
+South Carolina,Greenwood,180.21,47.93,16
+South Carolina,Greer,236.42,22.05,24
+South Carolina,Hanahan,217.77,28.84,38
+South Carolina,Hilton Head Island,160.19,19.14,25
+South Carolina,Irmo,247.3,23.07,19
+South Carolina,Johns Island,197.83,23.7,39
+South Carolina,Ladson,257.62,23.92,44
+South Carolina,Lexington,221.41,11.87,23
+South Carolina,Little River,273.81,22.06,19
+South Carolina,Mauldin,253.66,20.89,22
+South Carolina,Mount Pleasant,201.8,26.08,38
+South Carolina,Myrtle Beach,178.36,22.92,17
+South Carolina,North Augusta,240.64,41.23,11
+South Carolina,North Charleston,205.67,28.3,33
+South Carolina,North Myrtle Beach,192.87,21.86,21
+South Carolina,Orangeburg,105.76,11.43,26
+South Carolina,Parker,189.42,13.59,24
+South Carolina,Rock Hill,242.33,26.62,9
+South Carolina,Saint Andrews,216.22,16.14,24
+South Carolina,Simpsonville,199.16,11.74,24
+South Carolina,Socastee,260.71,93.86,7
+South Carolina,Spartanburg,217.13,19.8,23
+South Carolina,Summerville,236.86,23.87,20
+South Carolina,Sumter,216.16,19.08,19
+South Carolina,Taylors,247.03,21.23,21
+South Carolina,Wade Hampton,228.49,19.32,23
+South Carolina,West Columbia,218.97,11.86,27
+South Dakota,Aberdeen,206.49,32.59,9
+South Dakota,Brookings,92.95,15.59,7
+South Dakota,Rapid City,204.12,31.05,10
+South Dakota,Sioux Falls,235.49,38.08,10
+South Dakota,Spearfish,175.51,19.73,11
+South Dakota,Watertown,188.07,34.19,11
+Tennessee,Alcoa,263.58,22,18
+Tennessee,Arlington,245.65,41.26,18
+Tennessee,Athens,232.18,23.18,25
+Tennessee,Atoka,190.53,51.41,6
+Tennessee,Bartlett,214.85,23.53,16
+Tennessee,Brentwood,228.53,26.28,12
+Tennessee,Bristol,93.66,43.13,18
+Tennessee,Chattanooga,240.27,184.52,4
+Tennessee,Clarksville,221.24,113.5,12
+Tennessee,Cleveland,267.36,22.23,22
+Tennessee,Collegedale,281.59,115.12,5
+Tennessee,Collierville,223.56,25.68,18
+Tennessee,Columbia,246.12,31.38,17
+Tennessee,Cookeville,146.62,19.39,16
+Tennessee,Corryton,214.48,22.73,25
+Tennessee,Crossville,196.45,27.1,18
+Tennessee,Dickson,203.42,23.35,13
+Tennessee,Dyersburg,101.27,25.75,37
+Tennessee,East Brainerd,286.33,188.69,5
+Tennessee,East Ridge,223.95,177.19,4
+Tennessee,Farragut,163.74,62.32,15
+Tennessee,Franklin,240.89,39.91,12
+Tennessee,Gallatin,264.71,39.1,12
+Tennessee,Gatlinburg,118.43,18.17,20
+Tennessee,Germantown,195.17,22.12,16
+Tennessee,Goodlettsville,211.96,23.13,11
+Tennessee,Hendersonville,261.51,40.75,11
+Tennessee,Jackson,226.41,120.82,6
+Tennessee,Johnson City,215.96,22.45,11
+Tennessee,Jonesborough,72.6,11.45,30
+Tennessee,Karns,309.77,23.63,18
+Tennessee,Kingsport,203.99,11.39,12
+Tennessee,Knoxville,225.26,29.52,23
+Tennessee,La Vergne,192.2,40.38,17
+Tennessee,Lakeland,254.53,23.63,15
+Tennessee,Lebanon,250.51,34.84,21
+Tennessee,Maryville,259.33,22.54,17
+Tennessee,Memphis,159.93,23.12,15
+Tennessee,Middle Valley,285.83,206.5,3
+Tennessee,Millington,124.63,15.8,9
+Tennessee,Morristown,212.24,70.34,9
+Tennessee,Mount Juliet,195.66,29.99,18
+Tennessee,Murfreesboro,271.7,41.91,11
+Tennessee,Nashville,207.53,34.79,11
+Tennessee,Oak Hill,211.05,37.18,12
+Tennessee,Oak Ridge,236.71,22.89,18
+Tennessee,Oakland,291.71,23.47,16
+Tennessee,Ooltewah,272.63,59.9,16
+Tennessee,Pigeon Forge,86.19,11.65,25
+Tennessee,Piney Flats,233.07,14.51,11
+Tennessee,Portland,240.25,34.54,11
+Tennessee,Red Bank,259.21,208.36,3
+Tennessee,Sevierville,184.4,15.52,24
+Tennessee,Shelbyville,277.06,31.18,18
+Tennessee,Smyrna,286.07,109.79,10
+Tennessee,Soddy-Daisy,286.34,253.22,3
+Tennessee,Spring Hill,308.9,142.28,9
+Tennessee,Springfield,238.1,23.68,12
+Tennessee,Thompson's Station,288.45,229.61,4
+Tennessee,Tullahoma,132.97,39.38,11
+Tennessee,White House,333.78,180.68,10
+Texas,Abilene,235.14,43.07,9
+Texas,Addison,248.52,32.12,9
+Texas,Agua Dulce,375.22,23.44,34
+Texas,Alamo Heights,277.89,52.36,16
+Texas,Allen,276.62,71.83,8
+Texas,Alton,212.35,11.47,31
+Texas,Alvin,257.32,41.43,11
+Texas,Amarillo,246.05,53.47,10
+Texas,Andrews,208.19,33.52,15
+Texas,Angleton,268.91,36.68,11
+Texas,Anna,300.65,157.14,9
+Texas,Argyle,199.11,51.79,9
+Texas,Arlington,234.67,21.5,13
+Texas,Atascocita,260.24,37.91,11
+Texas,Athens,102.28,20.86,14
+Texas,Aubrey,251.08,119.98,7
+Texas,Austin,232.72,34.95,11
+Texas,Azle,124.43,21.38,12
+Texas,Balch Springs,292,71.29,9
+Texas,Bastrop,258,21.34,18
+Texas,Baytown,218.38,21.32,13
+Texas,Beaumont,226.82,18.31,16
+Texas,Bedford,256.85,21.62,13
+Texas,Bee Cave,226.2,26.61,13
+Texas,Bellaire,262.2,41.61,8
+Texas,Belton,259.1,22.94,19
+Texas,Benbrook,234.11,20.1,10
+Texas,Big Spring,234.82,21.4,12
+Texas,Boerne,136.5,82.49,7
+Texas,Brenham,107.77,21.34,11
+Texas,Brownsville,225.14,11.59,30
+Texas,Brushy Creek,242.53,35.62,14
+Texas,Bryan,215.98,36.64,9
+Texas,Buda,237.89,17.71,14
+Texas,Bulverde,179.29,48.7,13
+Texas,Burkburnett,198.22,119.84,11
+Texas,Burleson,234.61,122.2,7
+Texas,Canyon,216.01,142.3,8
+Texas,Canyon Lake,142.05,114.83,13
+Texas,Carrollton,227.18,44.01,8
+Texas,Castle Hills,311.36,77.32,11
+Texas,Cedar Hill,211.89,21.19,14
+Texas,Cedar Park,245.45,21.75,13
+Texas,Celina,311.88,198.56,7
+Texas,Channelview,222.38,23.6,13
+Texas,Cibolo,240.75,22.19,22
+Texas,Cinco Ranch,220.94,19.77,12
+Texas,Cleburne,244.02,30.33,10
+Texas,Cloverleaf,301.6,39.82,12
+Texas,College Station,198.55,36.5,10
+Texas,Colleyville,221.37,56.7,9
+Texas,The Colony,281.99,100.65,7
+Texas,Conroe,220.35,41.43,7
+Texas,Converse,289.49,22.41,22
+Texas,Coppell,210.01,93.93,7
+Texas,Copperas Cove,264.5,12.16,17
+Texas,Corinth,245.81,17.85,12
+Texas,Corpus Christi,249.05,22.74,26
+Texas,Corsicana,99.68,30.98,22
+Texas,Cross Mountain,213.27,17.78,23
+Texas,Crowley,161.05,20.81,11
+Texas,Cypress,258.64,39.13,10
+Texas,Dallas,114.23,13.63,17
+Texas,Deer Park,289.67,39.01,12
+Texas,Denison,175.9,28.27,14
+Texas,Denton,222.31,39.51,9
+Texas,DeSoto,246.47,23.36,12
+Texas,Dickinson,215.17,23.18,15
+Texas,Duncanville,262.43,31.97,10
+Texas,Eagle Pass,181.07,11.5,26
+Texas,Edinburg,254.74,14.53,30
+Texas,El Paso,253,20.57,34
+Texas,Ennis,171.02,11.3,13
+Texas,Euless,262.91,37.79,10
+Texas,Fairview,278.1,123.78,8
+Texas,Farmers Branch,258.99,45.18,7
+Texas,Fate,276.86,140.35,6
+Texas,Flower Mound,226.11,79.14,8
+Texas,Forney,273.59,80.61,7
+Texas,Fort Bliss,219.92,13.98,35
+Texas,Fort Hood,356.32,21.22,17
+Texas,Fort Worth,238.79,29.82,9
+Texas,Fredericksburg,226.58,11.82,14
+Texas,Fresno,242.93,23.76,13
+Texas,Friendswood,213.66,42.15,14
+Texas,Frisco,261.26,44.08,9
+Texas,Fulshear,293.1,94.62,8
+Texas,Gainesville,215.14,36.75,11
+Texas,Galveston,140.62,13.7,15
+Texas,Garland,228.5,28.82,11
+Texas,Georgetown,235.87,27.46,10
+Texas,Granbury,236.48,21.56,11
+Texas,Grand Prairie,249.58,22.94,12
+Texas,Granite Shoals,119.84,30.89,24
+Texas,Grapevine,154,67.08,7
+Texas,Greatwood,283.57,56.09,9
+Texas,Greenville,255.05,17.04,14
+Texas,Groves,241.13,16.07,16
+Texas,Haltom City,290.26,35.43,9
+Texas,Harker Heights,258.76,19.53,17
+Texas,Harlingen,242.87,12.93,26
+Texas,Hedwig Village,172.86,33.37,12
+Texas,Helotes,198.89,18.66,24
+Texas,Highland Park,246.17,118.58,5
+Texas,Highland Village,204.88,150.95,6
+Texas,Horizon City,331.55,22.5,33
+Texas,Horseshoe Bay,90.92,29.88,20
+Texas,Houston,200.02,29.02,11
+Texas,Hudson Oaks,42.39,10.3,16
+Texas,Humble,230.43,23.93,12
+Texas,Huntsville,188.94,29.56,10
+Texas,Hurst,296.64,37.63,8
+Texas,Hutto,277.95,19.99,14
+Texas,Irving,229.92,31.93,11
+Texas,Jacksonville,171.11,28.12,11
+Texas,Jersey Village,242.31,23.79,11
+Texas,Jollyville,256.21,22.73,13
+Texas,Katy,251.87,41.09,9
+Texas,Keller,224.11,57.95,8
+Texas,Kennedale,188.48,21.22,12
+Texas,Kerrville,199.06,18.5,15
+Texas,Kilgore,151.68,44.54,16
+Texas,Killeen,277.47,18.14,18
+Texas,Kingsville,220.64,26.96,19
+Texas,Kyle,259.59,22.2,13
+Texas,La Marque,233.97,23.61,14
+Texas,La Porte,268.42,40.66,10
+Texas,Lago Vista,215.51,17.88,14
+Texas,Lake Jackson,224.28,18.84,14
+Texas,Lakeway,211.2,20.25,13
+Texas,Lancaster,220.58,20.55,13
+Texas,Lantana,231.08,87.69,7
+Texas,Laredo,203.8,13.6,29
+Texas,League City,221.03,40.71,16
+Texas,Leander,253.22,82.89,13
+Texas,Leon Valley,325.92,161.94,5
+Texas,Levelland,166.46,155.02,4
+Texas,Lewisville,241.26,37.15,10
+Texas,Little Elm,306.77,103.82,8
+Texas,Longview,131.71,33.53,17
+Texas,Lubbock,233.98,42.57,11
+Texas,Lucas,212.92,46.86,9
+Texas,Lufkin,181.52,31.16,13
+Texas,Lumberton,248.82,11.57,18
+Texas,Manor,310.94,100.93,13
+Texas,Mansfield,266.94,39.96,9
+Texas,Manvel,240.38,36.07,12
+Texas,Marble Falls,118.23,23.19,19
+Texas,Marshall,91.48,22.65,9
+Texas,McAllen,242.85,19.19,28
+Texas,McKinney,255.89,24.47,12
+Texas,Melissa,284.52,40.93,11
+Texas,Mesquite,228.3,22.8,15
+Texas,Midland,226.41,35.77,13
+Texas,Midlothian,104.21,19.7,13
+Texas,Mineral Wells,101.15,21.52,14
+Texas,Mission,224.84,11.9,31
+Texas,Mission Bend,271.75,23.88,12
+Texas,Missouri City,215.48,23.15,14
+Texas,Mont Belvieu,294.86,154.94,4
+Texas,Mount Pleasant,110.5,26.64,13
+Texas,Murphy,232.54,94.41,8
+Texas,Nacogdoches,228.6,31.42,12
+Texas,Nederland,269.6,23.09,13
+Texas,New Braunfels,264.18,23.11,21
+Texas,New Caney,118.09,8.67,10
+Texas,North Richland Hills,246.7,21.97,10
+Texas,Northlake,239.21,161.06,6
+Texas,Odessa,171.97,31.84,11
+Texas,Orange,197.76,14.2,18
+Texas,Palestine,74.15,7.96,47
+Texas,Paris,146.4,21.71,13
+Texas,Pasadena,200.33,22.94,13
+Texas,Pearland,234.76,29.51,13
+Texas,Pecan Grove,255.44,31.03,12
+Texas,Pflugerville,269.25,77.11,13
+Texas,Pharr,236.57,11.93,26
+Texas,Piney Point Village,226.61,25.53,11
+Texas,Plainview,241.38,124.46,5
+Texas,Plano,227.17,57.13,9
+Texas,Port Aransas,128.94,11,26
+Texas,Port Arthur,205.84,11.58,18
+Texas,Port Neches,252.93,20.26,15
+Texas,Porter,239.89,48.51,7
+Texas,Portland,286.38,22.73,25
+Texas,Princeton,329.51,37.86,12
+Texas,Prosper,278.72,118.7,8
+Texas,Red Oak,53.94,12.37,16
+Texas,Richardson,266.47,39.55,9
+Texas,Richmond,277.1,55.82,8
+Texas,Roanoke,268.68,69.73,7
+Texas,Robinson,286.99,21.78,17
+Texas,Rockport,150.87,11.62,29
+Texas,Rockwall,256.96,27.32,11
+Texas,Rosenberg,261.66,39.46,11
+Texas,Round Rock,256.54,22.89,13
+Texas,Rowlett,254.01,66.69,9
+Texas,Royse City,335.8,241.26,7
+Texas,Sachse,275.25,58.9,9
+Texas,Saginaw,269.64,22.28,11
+Texas,San Angelo,259.96,37.16,13
+Texas,San Antonio,248.59,30.85,19
+Texas,San Benito,253.74,11.46,30
+Texas,San Juan,239.49,11.84,27
+Texas,San Marcos,192.74,20.72,16
+Texas,Schertz,263.03,22.44,22
+Texas,Seabrook,224.08,23.16,14
+Texas,Seguin,230.78,21.06,21
+Texas,Shavano Park,264.28,34.54,19
+Texas,Sherman,203.73,31.75,12
+Texas,Sienna Plantation,227.34,23.17,16
+Texas,Socorro,324.82,18.25,34
+Texas,South Padre Island,172.45,11.36,31
+Texas,Southlake,213.27,108.68,7
+Texas,Spring,291.89,92.99,7
+Texas,Springtown,68.81,10.35,14
+Texas,Stafford,188.12,22.82,14
+Texas,Stephenville,127.24,31.67,15
+Texas,Sugar Land,192.35,22.51,14
+Texas,Sulphur Springs,112.16,28.97,11
+Texas,Sunset Valley,324.54,277.81,3
+Texas,Taylor,212.31,20.38,14
+Texas,Temple,250.65,22.73,20
+Texas,Terrell,117.69,25.52,10
+Texas,Texarkana,166.2,31.38,16
+Texas,Texas City,264.94,23.57,14
+Texas,Timberwood Park,224.65,22.5,22
+Texas,Tomball,235.52,155.24,6
+Texas,Trophy Club,231.96,51.11,9
+Texas,Tyler,181.76,26.28,10
+Texas,Universal City,294.67,27.58,21
+Texas,University Park,222.76,60.1,6
+Texas,Victoria,238.8,32.93,16
+Texas,Waco,231.5,23.08,17
+Texas,Watauga,256.51,104.45,7
+Texas,Waxahachie,145.59,19.93,12
+Texas,Weatherford,180.07,15.59,11
+Texas,Webster,117.99,94.32,16
+Texas,Wells Branch,235.53,19.36,13
+Texas,Weslaco,234.26,13.02,30
+Texas,West Lake Hills,245.73,23.06,12
+Texas,West Odessa,48.59,11.56,18
+Texas,West University Place,174.58,35.61,10
+Texas,Wichita Falls,215.64,16.04,19
+Texas,The Woodlands,232.57,30.03,12
+Texas,Woodway,250.81,23.17,18
+Texas,Wylie,249,38.93,10
+Utah,American Fork,152.1,23.14,11
+Utah,Bluffdale,194.4,17.81,13
+Utah,Bountiful,188.24,21.53,12
+Utah,Brigham City,184.43,56.91,6
+Utah,Cedar City,212.54,37.96,8
+Utah,Centerville,205.41,115.94,4
+Utah,Clearfield,245.96,38.2,10
+Utah,Clinton,233.02,25.09,11
+Utah,Cottonwood Heights,210.85,23.56,11
+Utah,Draper,218.14,21.27,11
+Utah,Eagle Mountain,98.29,82.17,4
+Utah,Farmington,168.64,20.87,12
+Utah,Heber City,161.83,22.25,13
+Utah,Herriman,190.32,19.68,12
+Utah,Highland,239.4,23.36,12
+Utah,Hill Air Force Base,244.42,26.68,10
+Utah,Holladay,220.63,41.18,8
+Utah,Hurricane,143.45,13.2,12
+Utah,Ivins,126.1,13.23,12
+Utah,Kaysville,236.27,23.61,12
+Utah,Kearns,196.93,20.26,12
+Utah,Layton,222.01,40.72,9
+Utah,Lehi,191.28,31.74,11
+Utah,Lindon,150.88,41.45,8
+Utah,Logan,215.22,11.9,13
+Utah,Magna,303.62,23.09,12
+Utah,Midvale,216.23,48.54,7
+Utah,Millcreek,241.03,74.66,7
+Utah,Murray,260.65,140.67,4
+Utah,North Logan,240.6,16.28,13
+Utah,North Ogden,155.03,18.83,13
+Utah,North Salt Lake,238.52,99.82,6
+Utah,Ogden,212.18,22.35,12
+Utah,Orem,196.5,39.65,9
+Utah,Park City,140.96,16.8,11
+Utah,Payson,144.86,41.53,7
+Utah,Pleasant Grove,219.29,27.87,10
+Utah,Provo,215.59,132.38,5
+Utah,Riverdale,274.82,20.79,12
+Utah,Riverton,236.26,21.99,11
+Utah,Roy,269.3,22.68,13
+Utah,Saint George,140.3,16.12,11
+Utah,Salt Lake City,186.94,78.62,7
+Utah,Sandy,233.48,39.05,10
+Utah,Saratoga Springs,203.57,41.14,10
+Utah,Snyderville,102.73,25.65,10
+Utah,South Jordan,209.74,32.34,10
+Utah,South Ogden,234.79,21.69,12
+Utah,South Salt Lake,216.82,98.61,5
+Utah,South Weber,266.43,17.66,13
+Utah,Spanish Fork,102.47,174.76,3
+Utah,Springville,228.55,23.2,11
+Utah,Summit Park,106.04,22.89,11
+Utah,Syracuse,287.25,26.99,11
+Utah,Taylorsville,226.07,31.62,9
+Utah,Tooele,200.53,23.06,12
+Utah,Vernal,106.11,37.15,6
+Utah,Vineyard,233.22,40.99,8
+Utah,Washington,186.15,48.38,12
+Utah,Washington Terrace,230.57,23.08,12
+Utah,West Haven,236.34,23.52,13
+Utah,West Jordan,220.66,21.78,11
+Utah,West Valley City,211.18,25.32,9
+Utah,Woods Cross,209.86,23.35,10
+Vermont,Burlington,140.7,71.6,5
+Vermont,Colchester,229.98,22.48,20
+Vermont,Essex,238.45,23.41,17
+Vermont,Hartford,219.4,21.43,16
+Vermont,Montpelier,112.16,15.1,16
+Vermont,Rutland,202.61,22.35,18
+Vermont,South Burlington,205.88,23.12,17
+Vermont,Stowe,31.61,10.78,16
+Vermont,West Brattleboro,86.04,18.84,14
+Vermont,Williston,169.35,22.81,17
+Virginia,Alexandria,222.94,23.03,12
+Virginia,Annandale,228.66,66.92,8
+Virginia,Arlington,221.24,48.94,9
+Virginia,Ashburn,224.76,82.67,10
+Virginia,Bailey's Crossroads,235.55,106.69,7
+Virginia,Blacksburg,203.4,23.17,17
+Virginia,Bon Air,208.95,62.69,10
+Virginia,Brambleton,281.49,170.89,7
+Virginia,Bristol,145.08,93.79,5
+Virginia,Bristow,222.07,37.48,10
+Virginia,Bull Run,226.09,39.91,10
+Virginia,Burke,204.84,98.05,7
+Virginia,Cave Spring,234.84,10.78,15
+Virginia,Centreville,249.25,127.17,7
+Virginia,Chantilly,229.34,82.64,8
+Virginia,Charlottesville,153.55,23.53,14
+Virginia,Chesapeake,240.52,36.91,11
+Virginia,Chester,230.77,24.09,11
+Virginia,Christiansburg,144.03,22.14,17
+Virginia,Clifton,249.86,94.48,9
+Virginia,Colonial Heights,167.64,21.92,13
+Virginia,Culpeper,220.33,91.17,8
+Virginia,Dale City,239.02,115.78,7
+Virginia,Danville,164.16,23.67,15
+Virginia,East Highland Park,148.08,23.86,12
+Virginia,Fairfax,220.28,108.24,7
+Virginia,Falls Church,236.93,119.02,7
+Virginia,Forest,184.56,26.3,13
+Virginia,Franconia,242.93,118.29,7
+Virginia,Fredericksburg,233.38,36.98,9
+Virginia,Front Royal,196.29,23.75,15
+Virginia,Gainesville,234.61,79.98,9
+Virginia,Great Falls,172.59,121.49,6
+Virginia,Groveton,224.33,46.34,8
+Virginia,Hampton,239.77,36.49,11
+Virginia,Harrisonburg,192.58,29.62,15
+Virginia,Herndon,240.11,125.03,7
+Virginia,Hopewell,184.51,22.4,13
+Virginia,Idylwood,233.19,87.45,8
+Virginia,Lake Barcroft,189.68,28.31,8
+Virginia,Lake Monticello,283.24,24.02,15
+Virginia,Lake Ridge,239.85,67.15,10
+Virginia,Laurel,273.07,88.98,8
+Virginia,Leesburg,221.83,118.36,8
+Virginia,Lincolnia,176.6,82.48,8
+Virginia,Lorton,238.12,101.74,7
+Virginia,Lynchburg,213.02,23.96,15
+Virginia,Manassas,237.33,92.49,7
+Virginia,Mantua,157.22,17.83,10
+Virginia,Martinsville,175.22,21.82,16
+Virginia,McLean,239.57,114.29,7
+Virginia,Mechanicsville,241.44,23.28,13
+Virginia,Merrifield,229.03,138.5,6
+Virginia,Montclair,230.58,87.86,8
+Virginia,Mount Vernon,244.4,111.98,7
+Virginia,Newington,270.15,156.5,7
+Virginia,Newport News,216.79,57.82,12
+Virginia,Norfolk,216.56,26.09,10
+Virginia,Oakton,223.73,109.21,8
+Virginia,Petersburg,195.4,22.1,12
+Virginia,Portsmouth,215.86,36.36,11
+Virginia,Potomac Falls,223.04,94.62,8
+Virginia,Reston,239.76,95.78,8
+Virginia,Richmond,179.36,51.75,9
+Virginia,Roanoke,230.94,30.51,13
+Virginia,Rose Hill,227.9,89.07,8
+Virginia,Salem,227.25,90.08,11
+Virginia,Smithfield,198.13,11.7,44
+Virginia,South Riding,268.65,149.52,7
+Virginia,Springfield,233.61,68.5,8
+Virginia,Staunton,220.84,37.69,14
+Virginia,Sterling,226.95,105.56,8
+Virginia,Suffolk,217.25,16.93,43
+Virginia,Timberlake,166.96,25.19,15
+Virginia,Tuckahoe,230.14,83.43,8
+Virginia,Tysons,250.98,93.76,7
+Virginia,Vienna,238.59,93.67,8
+Virginia,Virginia Beach,231.21,36.45,12
+Virginia,Waynesboro,167.45,24.64,14
+Virginia,West Falls Church,233.46,41.24,7
+Virginia,West Springfield,180.48,107.68,7
+Virginia,Williamsburg,196.38,15.21,12
+Virginia,Winchester,209.02,23.64,17
+Virginia,Wolf Trap,240.86,119.51,7
+Virginia,Woodbridge,230.6,41.08,11
+Virginia,Woodlake,233.76,93.44,9
+Virginia,Woodstock,191.2,26,11
+Washington,Aberdeen,249.55,16.2,14
+Washington,Alderwood Manor,253.83,41.08,9
+Washington,Anacortes,239.98,16.91,16
+Washington,Arlington,111.23,14.66,12
+Washington,Artondale,209.52,17.28,14
+Washington,Auburn,233.67,17.98,13
+Washington,Bainbridge Island,190.82,17.93,14
+Washington,Barberton,278.65,21.94,12
+Washington,Bellevue,225.5,17.95,12
+Washington,Bellingham,181.78,11.98,17
+Washington,Bonney Lake,281.21,17.86,14
+Washington,Bothell,208.66,107.55,6
+Washington,Bremerton,226.56,16.07,12
+Washington,Bryn Mawr-Skyway,205.57,31.7,10
+Washington,Burien,179.52,23.2,10
+Washington,Camano Island,106.91,10.88,15
+Washington,Camas,236.88,27.23,12
+Washington,Cascade-Fairwood,237.36,15.74,12
+Washington,Cheney,100.49,17.88,9
+Washington,Cottage Lake,225.01,18.04,13
+Washington,Covington,230.07,17.46,13
+Washington,Des Moines,209.62,12.31,11
+Washington,East Hill-Meridian,262.16,14.21,11
+Washington,East Wenatchee,114.22,22.66,14
+Washington,Edmonds,222.15,41.03,8
+Washington,Elk Plain,288.8,20.51,14
+Washington,Ellensburg,216.45,11.36,15
+Washington,Everett,236.45,38.32,9
+Washington,Federal Way,226.2,17.16,13
+Washington,Felida,174.6,17.36,14
+Washington,Ferndale,212.78,12.62,16
+Washington,Five Corners,256.53,17.88,12
+Washington,Frederickson,262.82,23.02,13
+Washington,Gig Harbor,169.05,17.53,14
+Washington,Hazel Dell,243.02,21.31,12
+Washington,Issaquah,207.6,29.7,11
+Washington,Joint Base Lewis-McChord,324.41,23.14,12
+Washington,Kenmore,234.48,34.54,11
+Washington,Kennewick,226.36,21.38,19
+Washington,Kent,238.04,17.59,12
+Washington,Kirkland,235.51,27.38,11
+Washington,Lacey,278.65,18.26,14
+Washington,Lake Forest Park,235.7,23.58,10
+Washington,Lake Morton-Berrydale,261.56,17.91,13
+Washington,Lakeland North,255.21,16.53,13
+Washington,Lakeland South,245.65,11.97,13
+Washington,Lakewood,238.92,17.99,13
+Washington,Longview,237.81,21.68,13
+Washington,Lynnwood,229.68,29.13,9
+Washington,Maple Valley,279.94,23.2,13
+Washington,Martha Lake,234.21,26.18,10
+Washington,Marysville,230.3,29.64,11
+Washington,Mercer Island,226.38,23.06,11
+Washington,Mill Creek,239.09,30.21,10
+Washington,Mill Plain,245.14,18.39,13
+Washington,Moses Lake,90.63,87.29,6
+Washington,Mount Vernon,201.09,18.19,16
+Washington,Mount Vista,203.31,17.8,13
+Washington,Mountlake Terrace,203.65,64.86,7
+Washington,Mukilteo,275.12,24.07,11
+Washington,Normandy Park,196.2,20.95,10
+Washington,North Creek,229,26.68,11
+Washington,North Marysville,202.35,34.4,10
+Washington,Oak Harbor,257.6,17.79,17
+Washington,Ocean Shores,89.06,9.65,19
+Washington,Olympia,247.06,17.71,14
+Washington,Orchards,242.75,19.41,12
+Washington,Paine Field-Lake Stickney,248.54,106.47,6
+Washington,Parkland,277.2,19.44,13
+Washington,Pasco,241,17,20
+Washington,Picnic Point-North Lynnwood,234.13,30.55,9
+Washington,Port Angeles,177.32,13.51,14
+Washington,Port Orchard,183.23,11.36,12
+Washington,Poulsbo,153.04,12.04,15
+Washington,Pullman,215.6,28.19,22
+Washington,Puyallup,227.38,22.49,13
+Washington,Redmond,218.26,39.01,10
+Washington,Renton,234.62,17.47,12
+Washington,Richland,224.03,21.46,18
+Washington,Salmon Creek,230.2,19.02,12
+Washington,Sammamish,243.33,19.6,13
+Washington,SeaTac,115.28,12.67,11
+Washington,Seattle,127.3,13.77,12
+Washington,Sequim,152.34,11.37,16
+Washington,Shoreline,236.74,23.98,10
+Washington,Silverdale,218.53,11.55,13
+Washington,Snohomish,238.57,34.72,10
+Washington,Snoqualmie,254.22,20.88,13
+Washington,South Hill,269.78,20.4,13
+Washington,Spanaway,264.24,17.95,14
+Washington,Spokane,229.07,19.54,11
+Washington,Spokane Valley,239.27,17.95,11
+Washington,Tacoma,233.09,17.98,13
+Washington,Tukwila,135.04,17.88,10
+Washington,Tumwater,276.89,21.81,15
+Washington,Union Hill-Novelty Hill,232,20.24,12
+Washington,University Place,242.35,17.74,13
+Washington,Vancouver,236.36,20.84,12
+Washington,Vashon,116.83,29.05,10
+Washington,Walla Walla,182.59,11.5,24
+Washington,Walnut Grove,231.59,19.02,12
+Washington,Wenatchee,105.19,36.15,8
+Washington,West Lake Stevens,361.87,35.13,10
+Washington,West Richland,247.79,18.83,20
+Washington,White Center,243.84,27.89,9
+Washington,Woodinville,242.75,23.03,13
+Washington,Yakima,202.08,11.4,18
+West Virginia,Beckley,205.72,27.9,9
+West Virginia,Bluefield,200.56,22.08,20
+West Virginia,Bridgeport,240.12,108.04,4
+West Virginia,Charleston,193.38,30.28,11
+West Virginia,Clarksburg,159.63,16.59,25
+West Virginia,Fairmont,217.49,17.3,25
+West Virginia,Huntington,213.74,20.69,41
+West Virginia,Martinsburg,232.5,23.64,14
+West Virginia,Morgantown,268.59,23.4,19
+West Virginia,Parkersburg,258.78,36.62,11
+West Virginia,South Charleston,201.96,41.15,9
+West Virginia,Teays Valley,287.6,53.21,8
+West Virginia,Weirton,301.1,23.13,16
+Wisconsin,Allouez,214.98,17.6,19
+Wisconsin,Appleton,223.97,22.6,19
+Wisconsin,Ashwaubenon,296.15,22.64,18
+Wisconsin,Baraboo,102.76,11.03,23
+Wisconsin,Bellevue,272.75,19.86,20
+Wisconsin,Beloit,236.28,12.74,29
+Wisconsin,Brookfield,176.75,11.77,18
+Wisconsin,Burlington,206.4,11.7,16
+Wisconsin,Caledonia,250.18,11.94,15
+Wisconsin,Cedarburg,240.77,18.87,17
+Wisconsin,De Pere,215.94,20.34,19
+Wisconsin,Delafield,222.38,11.67,18
+Wisconsin,Eau Claire,252.66,16.05,10
+Wisconsin,Fitchburg,229.78,21.66,20
+Wisconsin,Fond du Lac,195.63,12.74,22
+Wisconsin,Fox Point,259.38,39.53,13
+Wisconsin,Franklin,199.34,12.3,15
+Wisconsin,Germantown,248.21,11.75,18
+Wisconsin,Glendale,221.18,15.45,16
+Wisconsin,Grafton,217.59,18.59,16
+Wisconsin,Green Bay,235.36,20.43,20
+Wisconsin,Greendale,218.67,11.69,14
+Wisconsin,Greenfield,245.08,11.81,14
+Wisconsin,Howard,229.47,17.24,20
+Wisconsin,Hudson,214.59,17.35,14
+Wisconsin,Janesville,223.18,17.34,25
+Wisconsin,Kenosha,239.34,11.81,15
+Wisconsin,La Crosse,125,11.24,23
+Wisconsin,Madison,221.78,20.46,21
+Wisconsin,Manitowoc,209.98,11.85,28
+Wisconsin,Marshfield,186.47,11.29,17
+Wisconsin,Menasha,253.5,23.29,19
+Wisconsin,Menomonee Falls,227.77,11.78,19
+Wisconsin,Mequon,230.63,11.72,17
+Wisconsin,Middleton,208.11,24.58,18
+Wisconsin,Milwaukee,219.93,20.18,14
+Wisconsin,Mount Pleasant,236.38,11.73,14
+Wisconsin,Muskego,232.96,11.65,17
+Wisconsin,Neenah,225.46,17.11,20
+Wisconsin,New Berlin,168.15,16.22,18
+Wisconsin,Oak Creek,232.14,11.92,14
+Wisconsin,Oconomowoc,189.83,17.91,22
+Wisconsin,Onalaska,165,21.91,21
+Wisconsin,Oshkosh,255.39,18.21,20
+Wisconsin,Pewaukee,225.4,11.67,17
+Wisconsin,Platteville,40.26,5.95,35
+Wisconsin,Pleasant Prairie,247.2,11.86,14
+Wisconsin,Plover,241.87,11.58,14
+Wisconsin,Racine,217.96,18.96,14
+Wisconsin,Rice Lake,111.5,16.58,17
+Wisconsin,Sheboygan,220.4,11.98,26
+Wisconsin,South Milwaukee,254.7,19.91,14
+Wisconsin,Sparta,47.72,7.7,29
+Wisconsin,Stevens Point,219.39,17.93,14
+Wisconsin,Sun Prairie,261.89,22.54,24
+Wisconsin,Superior,162.43,11.22,15
+Wisconsin,Verona,209.1,84.53,8
+Wisconsin,Watertown,222.24,11.34,24
+Wisconsin,Waukesha,219.65,11.91,17
+Wisconsin,Waunakee,256.18,77.47,7
+Wisconsin,Wausau,221.79,20.14,21
+Wisconsin,Wauwatosa,243.37,24.59,14
+Wisconsin,West Allis,240.94,21.33,15
+Wisconsin,West Bend,257.66,13.83,23
+Wisconsin,Weston,189.39,21.31,21
+Wisconsin,Whitefish Bay,230.98,24.91,14
+Wisconsin,Wisconsin Rapids,219.49,28.16,11
+Wyoming,Casper,204.08,11.51,10
+Wyoming,Cheyenne,128.45,14.69,14
+Wyoming,Cody,87.24,27.49,9
+Wyoming,Evanston,100.69,30.67,10
+Wyoming,Gillette,196.62,14.98,20
+Wyoming,Laramie,214.2,11.55,13
+Wyoming,Rock Springs,106.54,28.45,14
+Wyoming,Sheridan,110.68,11.41,18

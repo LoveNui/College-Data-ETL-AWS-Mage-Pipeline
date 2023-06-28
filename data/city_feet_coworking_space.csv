@@ -1,0 +1,801 @@
+town_name,num_coworking_space
+"Auburn, AL",2
+"Fairfield, AL",0
+"Florence, AL",0
+"Homewood, AL",4
+"Huntsville, AL",5
+"Jacksonville, AL",0
+"Livingston, AL",0
+"Mobile, AL",1
+"Montevallo, AL",2
+"Montgomery, AL",2
+"Troy, AL",2
+"Tuscaloosa, AL",8
+"Tuskegee, AL",2
+"Anchorage, AK",1
+"Fairbanks, AK",0
+"Juneau, AK",0
+"Ketchikan, AK",0
+"Sitka, AK",0
+"Chandler, AZ",7
+"Flagstaff, AZ",20
+"Gilbert, AZ",6
+"Glendale, AZ",2
+"Lake Havasu City, AZ",30
+"Mesa, AZ",6
+"Peoria, AZ",3
+"Prescott, AZ",22
+"Scottsdale, AZ",20
+"Tempe, AZ",9
+"Tucson, AZ",8
+"Arkadelphia, AR",0
+"Conway, AR",2
+"Fayetteville, AR",5
+"Fort Smith, AR",1
+"Jonesboro, AR",0
+"Little Rock, AR",2
+"Magnolia, AR",0
+"Monticello, AR",0
+"Russellville, AR",0
+"Searcy, AR",2
+"Angwin, CA",0
+"Arcata, CA",0
+"Azusa, CA",1
+"Berkeley, CA",6
+"Chico, CA",1
+"Claremont, CA",2
+"Cotati, CA",0
+"Davis, CA",1
+"Irvine, CA",30
+"Isla Vista, CA",0
+"La Verne, CA",7
+"Loma Linda, CA",2
+"Merced, CA",3
+"Orange, CA",4
+"Palo Alto, CA",10
+"Pasadena, CA",9
+"Pomona, CA",3
+"Redlands, CA",3
+"Riverside, CA",3
+"Rocklin, CA",7
+"San Luis Obispo, CA",1
+"San Marcos, CA",2
+"Santa Barbara, CA",2
+"Santa Cruz, CA",13
+"Seaside, CA",1
+"Stanford, CA",2
+"Turlock, CA",2
+"University District, CA",0
+"Whittier, CA",5
+"Alamosa, CO",0
+"Aurora, CO",6
+"Boulder, CO",5
+"Colorado Springs, CO",6
+"Durango, CO",1
+"Fort Collins, CO",2
+"Golden, CO",3
+"Grand Junction, CO",0
+"Greeley, CO",5
+"Gunnison, CO",1
+"Lakewood, CO",4
+"Pueblo, CO",1
+"Bridgeport, CT",2
+"Danbury, CT",2
+"East Hartford, CT",2
+"Fairfield, CT",1
+"Farmington, CT",3
+"Hamden, CT",1
+"Hartford, CT",5
+"Middletown, CT",2
+"New Britain, CT",3
+"New Haven, CT",5
+"Downtown New Haven, CT",4
+"New London, CT",2
+"North Haven, CT",2
+"Southington, CT",3
+"Stamford, CT",7
+"Storrs, CT",0
+"Waterbury, CT",2
+"Willimantic, CT",0
+"West Hartford, CT",4
+"West Haven, CT",4
+"Dover, DE",1
+"Newark, DE",2
+"New Castle, DE",3
+"Wilmington, DE",3
+"Ave Maria, FL",1
+"Boca Raton, FL",7
+"Bradenton, FL",2
+"Brandon, FL",2
+"Cape Coral, FL",2
+"Coral Gables, FL",10
+"Coral Springs, FL",4
+"Davie, FL",6
+"Daytona Beach, FL",2
+"DeLand, FL",1
+"Estero, FL",2
+"Fort Lauderdale, FL",14
+"Fort Myers, FL",5
+"Gainesville, FL",0
+"Gulfport, FL",1
+"Hialeah, FL",3
+"Hollywood, FL",6
+"Kendall, FL",3
+"Lakeland, FL",4
+"Miami Gardens, FL",1
+"Miami Shores, FL",4
+"Miramar, FL",2
+"North Miami, FL",5
+"Panama City, FL",2
+"Pembroke Pines, FL",2
+"Pensacola, FL",0
+"Port St. Lucie, FL",2
+"Sarasota, FL",3
+"St. Augustine, FL",2
+"St. Leo, FL",0
+"St. Petersburg, FL",7
+"Sunrise, FL",2
+"Tallahassee, FL",2
+"West Palm Beach, FL",7
+"Albany, GA",0
+"Athens, GA",2
+"Augusta, GA",1
+"Blue Ridge, GA",6
+"Brunswick, GA",0
+"Carrollton, GA",3
+"Columbus, GA",2
+"Dahlonega, GA",1
+"Demorest, GA",0
+"Fort Valley, GA",1
+"Glennville, GA",0
+"Kennesaw, GA",3
+"Lawrenceville, GA",3
+"Madison, GA",4
+"Macon, GA",1
+"Milledgeville, GA",2
+"Mount Vernon, GA",0
+"Oxford, GA",5
+"Rome, GA",11
+"Savannah, GA",2
+"Statesboro, GA",2
+"Swainsboro, GA",0
+"Valdosta, GA",0
+"Vidalia, GA",0
+"Waleska, GA",2
+"Watkinsville, GA",2
+"Young Harris, GA",0
+"Laie, HI",0
+"Boise, ID",5
+"Caldwell, ID",6
+"Lewiston, ID",0
+"Moscow, ID",0
+"Nampa, ID",3
+"Pocatello, ID",2
+"Rexburg, ID",0
+"Aurora, IL",3
+"Bloomington, IL",2
+"Bourbonnais, IL",0
+"Carbondale, IL",1
+"Champaign–Urbana metropolitan area, IL",0
+"Charleston, IL",0
+"Deerfield, IL",2
+"DeKalb, IL",0
+"Downers Grove, IL",4
+"East Peoria, IL",0
+"Edwardsville, IL",2
+"Elgin, IL",3
+"Elmhurst, IL",2
+"Evanston, IL",5
+"Joliet, IL",3
+"Lebanon, IL",2
+"Macomb, IL",2
+"Naperville, IL",8
+"Normal, IL",2
+"Peoria, IL",0
+"River Forest, IL",3
+"Rock Island, IL",2
+"Rockford, IL",3
+"Springfield, IL",0
+"University Park, IL",1
+"Angola, IN",0
+"Bloomington, IN",2
+"Greencastle, IN",4
+"Hanover, IN",0
+"Marion, IN",0
+"Muncie, IN",0
+"Oakland City, IN",1
+"South Bend, IN",3
+"Terre Haute, IN",0
+"Upland, IN",0
+"West Lafayette, IN",2
+"Ames, IA",2
+"Bettendorf, IA",2
+"Cedar Falls, IA",0
+"Cedar Rapids, IA",2
+"Davenport, IA",2
+"Decorah, IA",2
+"Des Moines, IA",2
+"Fayette, IA",0
+"Grinnell, IA",0
+"Indianola, IA",2
+"Iowa City, IA",2
+"Lamoni, IA",0
+"Mount Vernon, IA",2
+"Orange City, IA",0
+"Oskaloosa, IA",0
+"Sioux Center, IA",0
+"Storm Lake, IA",0
+"Waverly, IA",0
+"Baldwin City, KS",2
+"Emporia, KS",0
+"Hays, KS",0
+"Lawrence, KS",3
+"Manhattan, KS",2
+"Pittsburg, KS",0
+"Topeka, KS",0
+"Wichita, KS",7
+"Barbourville, KY",0
+"Berea, KY",0
+"Bowling Green, KY",1
+"Campbellsville, KY",0
+"Columbia, KY",0
+"Crestview Hills, KY",2
+"Danville, KY",0
+"Frankfort, KY",4
+"Georgetown, KY",4
+"Grayson, KY",0
+"Highland Heights, KY",2
+"Lexington, KY",4
+"Louisville, KY",6
+"Midway, KY",4
+"Morehead, KY",0
+"Murray, KY",0
+"Owensboro, KY",1
+"Pikeville, KY",0
+"Richmond, KY",4
+"Williamsburg, KY",0
+"Wilmore, KY",2
+"Baton Rouge, LA",4
+"Grambling, LA",0
+"Hammond, LA",1
+"Lafayette, LA",0
+"Monroe, LA",2
+"Natchitoches, LA",1
+"Ruston, LA",0
+"Thibodaux, LA",2
+"Augusta, ME",1
+"Bangor, ME",3
+"Bar Harbor, ME",0
+"Biddeford, ME",2
+"Brunswick, ME",2
+"Farmington, ME",0
+"Fort Kent, ME",0
+"Gorham, ME",0
+"Lewiston, ME",1
+"Machias, ME",0
+"Orono, ME",1
+"Portland, ME",0
+"Presque Isle, ME",0
+"Waterville, ME",0
+"Annapolis, MD",4
+"Chestertown, MD",22
+"College Park, MD",2
+"Cumberland, MD",0
+"Emmitsburg, MD",0
+"Frostburg, MD",0
+"Germantown, MD",5
+"Princess Anne, MD",1
+"Salisbury, MD",1
+"Silver Spring, MD",3
+"Takoma Park, MD",2
+"Towson, MD",4
+"Westminster, MD",2
+"Bridgewater, MA",2
+"Cambridge, MA",7
+"Chestnut Hill, MA",3
+"Colleges of Worcester Consortium, MA",0
+"Dudley, MA",0
+"North Grafton, MA",0
+"Paxton, MA",0
+"Worcester, MA",4
+"Dartmouth, MA",1
+"Fenway, MA",0
+"Fitchburg, MA",2
+"Five Colleges (Massachusetts), MA",0
+"Amherst, MA",1
+"Northampton, MA",1
+"South Hadley, MA",1
+"Lowell, MA",2
+"Medford, MA",3
+"North Adams, MA",0
+"North Andover, MA",3
+"Somerville, MA",3
+"Springfield, MA",2
+"Waltham, MA",4
+"Wellesley, MA",4
+"Westfield, MA",3
+"Williamstown, MA",1
+"Adrian, MI",4
+"Albion, MI",0
+"Allendale, MI",3
+"Alma, MI",0
+"Ann Arbor, MI",7
+"Berrien Springs, MI",0
+"Big Rapids, MI",0
+"Dearborn, MI",2
+"East Lansing, MI",2
+"Flint, MI",1
+"Genoa Township, MI",2
+"Hillsdale, MI",0
+"Holland, MI",2
+"Houghton, MI",0
+"Kalamazoo, MI",2
+"Lansing, MI",5
+"Marquette, MI",1
+"Midland, MI",1
+"Mount Pleasant, MI",1
+"Olivet, MI",0
+"Saginaw, MI",1
+"Sault Ste. Marie, MI",0
+"Spring Arbor, MI",0
+"Ypsilanti, MI",4
+"Warren, MI",5
+"Bemidji, MN",1
+"Crookston, MN",0
+"Duluth, MN",2
+"Faribault, MN",2
+"Mankato, MN",1
+"Marshall, MN",0
+"Moorhead, MN",3
+"Morris, MN",0
+"Northfield, MN",2
+"North Mankato, MN",1
+"Pine City, MN",1
+"Rochester, MN",2
+"St. Cloud, MN",2
+"St. Joseph, MN",0
+"Saint Paul, MN",2
+"St. Peter, MN",0
+"Winona, MN",0
+"Blue Mountain, MS",0
+"Clinton, MS",2
+"Columbus, MS",0
+"Hattiesburg, MS",0
+"Holly Springs, MS",2
+"Itta Bena, MS",0
+"Jackson, MS",2
+"Laurel, MS",0
+"Oxford, MS",0
+"Southaven, MS",2
+"Starkville, MS",0
+"Tougaloo, MS",1
+"Bolivar, MO",0
+"Cape Girardeau, MO",0
+"Columbia, MO",2
+"Fayette, MO",2
+"Fulton, MO",2
+"Kirksville, MO",0
+"Maryville, MO",0
+"Rolla, MO",0
+"Warrensburg, MO",0
+"Billings, MT",0
+"Bozeman, MT",2
+"Butte, MT",0
+"Dillon, MT",4
+"Great Falls, MT",0
+"Havre, MT",0
+"Helena, MT",0
+"Missoula, MT",2
+"Bellevue, NE",1
+"Chadron, NE",0
+"Crete, NE",1
+"Fremont, NE",1
+"Hastings, NE",0
+"Kearney, NE",1
+"Lincoln, NE",2
+"Omaha, NE",10
+"Peru, NE",0
+"Seward, NE",3
+"Wayne, NE",0
+"York, NE",1
+"Henderson, NV",11
+"Incline Village, NV",6
+"Reno, NV",6
+"Durham, NH",3
+"Hanover, NH",0
+"Henniker, NH",0
+"Keene, NH",1
+"New London, NH",0
+"Pinardville, NH",0
+"Plymouth, NH",0
+"Ewing, NJ",2
+"Jersey City, NJ",10
+"Glassboro, NJ",3
+"Madison, NJ",2
+"Montclair, NJ",3
+"Newark, NJ",6
+"New Brunswick, NJ",2
+"Paterson, NJ",3
+"Princeton, NJ",4
+"Ramsey, NJ",2
+"South Orange, NJ",5
+"Union Township, NJ",0
+"West Long Branch, NJ",3
+"Albuquerque, NM",10
+"Hobbs, NM",1
+"Las Cruces, NM",7
+"Las Vegas, NM",2
+"Portales, NM",0
+"Rio Rancho, NM",6
+"Silver City, NM",0
+"Socorro, NM",10
+"Albany, NY",2
+"Alfred (village), NY",0
+"Aurora, NY",0
+"Binghamton, NY",0
+"Brockport, NY",4
+"Canton (village), NY",0
+"Clinton, NY",0
+"Cortland, NY",4
+"Cobleskill (town), NY",0
+"Delhi (town), NY",0
+"Fredonia, NY",0
+"Geneseo, NY",0
+"Geneva, NY",0
+"Hamilton (village), NY",0
+"Ithaca, NY",2
+"Newburgh, NY",2
+"New Paltz, NY",2
+"New Rochelle, NY",4
+"Oneonta, NY",0
+"Oswego, NY",0
+"Plattsburgh, NY",1
+"Potsdam (village), NY",0
+"Poughkeepsie (city), NY",0
+"Purchase, NY",5
+"Rochester, NY",4
+"Saratoga Springs, NY",1
+"Schenectady, NY",2
+"Seneca Falls, NY",0
+"Stony Brook, NY",1
+"Syracuse, NY",2
+"Tivoli, NY",0
+"Troy, NY",2
+"Utica, NY",0
+"Valhalla, NY",4
+"West Point, NY",2
+"Yonkers, NY",3
+"Asheville, NC",4
+"Banner Elk, NC",0
+"Belmont, NC",2
+"Boiling Springs, NC",0
+"Boone, NC",0
+"Brevard, NC",2
+"Buies Creek, NC",0
+"Chapel Hill, NC",6
+"Cullowhee, NC",0
+"Davidson, NC",3
+"Durham, NC",9
+"Elizabeth City, NC",7
+"Elon, NC",2
+"Fayetteville, NC",1
+"Greensboro, NC",7
+"Greenville, NC",4
+"Hickory, NC",2
+"High Point, NC",2
+"Laurinburg, NC",0
+"Mars Hill, NC",2
+"Misenheimer, NC",0
+"Montreat, NC",0
+"Mount Olive, NC",4
+"Murfreesboro, NC",0
+"Pembroke, NC",0
+"Raleigh, NC",15
+"Rocky Mount, NC",4
+"Salisbury, NC",5
+"Wilmington, NC",0
+"Wilson, NC",1
+"Wingate, NC",0
+"Winston-Salem, NC",2
+"Bismarck, ND",0
+"Dickinson, ND",0
+"Fargo, ND",3
+"Grand Forks, ND",0
+"Jamestown, ND",0
+"Mayville, ND",0
+"Minot, ND",0
+"Valley City, ND",0
+"Ada, OH",0
+"Akron, OH",3
+"Alliance, OH",2
+"Ashland, OH",0
+"Athens, OH",0
+"Berea, OH",0
+"Bluffton, OH",0
+"Bowling Green, OH",2
+"Cedarville, OH",6
+"Columbus, OH",19
+"Downtown Columbus, OH",10
+"Neighborhoods in Columbus, OH",0
+"University District, OH",0
+"Dayton, OH",4
+"Delaware, OH",2
+"Fairborn, OH",2
+"Findlay, OH",0
+"Gambier, OH",0
+"Granville, OH",1
+"Hiram, OH",2
+"Kent, OH",2
+"Nelsonville, OH",0
+"New Concord, OH",0
+"Oberlin, OH",3
+"Oxford, OH",1
+"Perrysburg Township, OH",0
+"Rio Grande, OH",0
+"Springfield, OH",3
+"Steubenville, OH",2
+"Tiffin, OH",0
+"Toledo, OH",4
+"Wilberforce, OH",0
+"Wooster, OH",3
+"Yellow Springs, OH",1
+"Youngstown, OH",1
+"Ada, OK",1
+"Alva, OK",0
+"Bethany, OK",2
+"Durant, OK",0
+"Edmond, OK",5
+"Goodwell, OK",0
+"Langston, OK",0
+"Lawton, OK",3
+"Midwest City, OK",10
+"Norman, OK",3
+"Oklahoma City, OK",14
+"Stillwater, OK",1
+"Tahlequah, OK",1
+"Tulsa, OK",10
+"Weatherford, OK",0
+"Ashland, OR",0
+"Corvallis, OR",2
+"Eugene, OR",2
+"Forest Grove, OR",1
+"Klamath Falls, OR",0
+"La Grande, OR",0
+"Lebanon, OR",1
+"Marylhurst, OR",0
+"McMinnville, OR",6
+"Monmouth, OR",2
+"Newberg, OR",4
+"Salem, OR",2
+"Abington Township, PA",0
+"Allentown, PA",3
+"Altoona, PA",2
+"Annville, PA",4
+"Bethlehem, PA",2
+"Bloomsburg, PA",0
+"Bradford, PA",0
+"California, PA",0
+"Carlisle, PA",4
+"Center Township, PA",0
+"Center Valley, PA",2
+"Chambersburg, PA",2
+"Clarion, PA",0
+"Collegeville, PA",4
+"Cresson, PA",0
+"Dunmore, PA",0
+"Easton, PA",2
+"East Stroudsburg, PA",2
+"Edinboro, PA",0
+"Erie, PA",0
+"Gettysburg, PA",2
+"Glenside, PA",1
+"Grantham, PA",0
+"Greensburg, PA",3
+"Grove City, PA",0
+"Harrisburg, PA",4
+"Hershey, PA",6
+"Huntingdon, PA",2
+"Indiana, PA",0
+"Johnstown, PA",0
+"Richland Township, PA",0
+"Kennett Square, PA",1
+"Kutztown, PA",1
+"Lancaster, PA",3
+"Lemoyne, PA",3
+"Lewisburg, PA",0
+"Lock Haven, PA",0
+"Loretto, PA",0
+"Lower Merion Township, PA",0
+"Merion, PA",30
+"Mansfield, PA",0
+"Meadville, PA",0
+"Mechanicsburg, PA",2
+"Mont Alto, PA",0
+"Millersville, PA",3
+"New Wilmington, PA",0
+"North East, PA",0
+"Pittsburgh, PA",15
+"Reading, PA",1
+"Scranton, PA",0
+"Selinsgrove, PA",0
+"Shippensburg, PA",0
+"Slippery Rock, PA",0
+"State College, PA",0
+"Summerdale, PA",6
+"Swarthmore, PA",1
+"Upper Dublin Township, PA",0
+"Villanova, PA",15
+"Waynesburg, PA",1
+"West Chester, PA",2
+"Wilkes-Barre, PA",0
+"Williamsport, PA",0
+"Bristol, RI",2
+"Kingston, RI",1
+"Newport, RI",1
+"Providence, RI",3
+"College Hill, RI",0
+"Downtown, RI",5
+"Elmhurst, RI",0
+"Jewelry District (Providence), RI",0
+"Lower South Providence, RI",0
+"Manton, RI",0
+"Smithfield, RI",2
+"Warwick, RI",2
+"Beaufort, SC",3
+"Central, SC",0
+"Charleston, SC",10
+"Clemson, SC",0
+"Clinton, SC",6
+"Columbia, SC",3
+"Due West, SC",0
+"Florence, SC",0
+"Greenville, SC",8
+"Greenwood, SC",0
+"North Charleston, SC",12
+"Orangeburg, SC",0
+"Rock Hill, SC",2
+"Spartanburg, SC",2
+"Aberdeen, SD",0
+"Brookings, SD",0
+"Madison, SD",3
+"Rapid City, SD",0
+"Sioux Falls, SD",3
+"Spearfish, SD",0
+"Vermillion, SD",0
+"Chattanooga, TN",3
+"Clarksville, TN",15
+"Collegedale, TN",0
+"Cookeville, TN",0
+"Harrogate, TN",0
+"Henderson, TN",2
+"Johnson City, TN",0
+"Knoxville, TN",6
+"Lebanon, TN",4
+"Martin, TN",0
+"Memphis, TN",8
+"McKenzie, TN",0
+"Murfreesboro, TN",2
+"Nashville, TN",17
+"Sewanee, TN",0
+"Abilene, TX",2
+"Alpine, TX",1
+"Amarillo, TX",1
+"Arlington, TX",8
+"Austin, TX",31
+"Beaumont, TX",1
+"Belton, TX",1
+"Big Spring, TX",1
+"Brownsville, TX",2
+"Brenham, TX",2
+"Bryan, TX",4
+"Canyon, TX",1
+"College Station, TX",4
+"Commerce, TX",0
+"Corpus Christi, TX",0
+"Denton, TX",2
+"Edinburg, TX",2
+"El Paso, TX",7
+"Fort Worth, TX",30
+"Galveston, TX",2
+"Georgetown, TX",1
+"Garland, TX",3
+"Huntsville, TX",2
+"Irving, TX",20
+"Keene, TX",0
+"Killeen, TX",2
+"Kingsville, TX",0
+"Laredo, TX",2
+"Lubbock, TX",3
+"McAllen, TX",2
+"Mesquite, TX",1
+"Nacogdoches, TX",1
+"Odessa, TX",1
+"Pasadena, TX",3
+"Pearland, TX",2
+"Plainview, TX",0
+"Plano, TX",21
+"Prairie View, TX",0
+"Richardson, TX",13
+"San Angelo, TX",1
+"San Marcos, TX",3
+"Stephenville, TX",1
+"Texarkana, TX",0
+"Tyler, TX",1
+"University Park, TX",5
+"Waco, TX",3
+"Wichita Falls, TX",0
+"Cedar City, UT",0
+"Ephraim, UT",1
+"Logan, UT",2
+"Ogden, UT",4
+"Orem, UT",2
+"Provo, UT",2
+"South Jordan, UT",3
+"St. George, UT",0
+"Bennington, VT",0
+"Burlington, VT",1
+"Castleton, VT",1
+"Colchester, VT",1
+"Craftsbury, VT",0
+"Johnson, VT",0
+"Lyndonville, VT",0
+"Middlebury, VT",0
+"Northfield, VT",0
+"Alexandria, VA",12
+"Amherst, VA",2
+"Arlington County, VA",14
+"Blacksburg, VA",1
+"Bridgewater, VA",0
+"Charlottesville, VA",2
+"Chesapeake, VA",2
+"Farmville, VA",0
+"Fredericksburg, VA",2
+"Hampton, VA",3
+"Harrisonburg, VA",2
+"Lexington, VA",1
+"Lynchburg, VA",0
+"Newport News, VA",2
+"Norfolk, VA",5
+"Portsmouth, VA",3
+"Radford, VA",1
+"Richmond, VA",10
+"Roanoke, VA",1
+"Staunton, VA",0
+"Virginia Beach, VA",3
+"Williamsburg, VA",1
+"Wise, VA",0
+"Bellingham, WA",2
+"Cheney, WA",2
+"Ellensburg, WA",0
+"Lakewood, WA",3
+"Parkland, WA",0
+"Pullman, WA",0
+"Richland, WA",0
+"Walla Walla, WA",0
+"Athens, WV",0
+"Beckley, WV",0
+"Buckhannon, WV",0
+"Elkins, WV",0
+"Fairmont, WV",1
+"Glenville, WV",0
+"Huntington, WV",0
+"Institute, WV",3
+"Lewisburg, WV",0
+"Morgantown, WV",3
+"Shepherdstown, WV",0
+"West Liberty, WV",0
+"Appleton, WI",5
+"Eau Claire, WI",1
+"Green Bay, WI",4
+"Kenosha, WI",1
+"La Crosse, WI",0
+"Madison, WI",6
+"Menomonie, WI",1
+"Milwaukee, WI",15
+"Oshkosh, WI",2
+"Platteville, WI",1
+"River Falls, WI",3
+"Stevens Point, WI",0
+"Waukesha, WI",2
+"Whitewater, WI",1
+"Laramie, WY",5

@@ -1,0 +1,438 @@
+town_name,walk_score,bike_score,num_eateries
+"Auburn, AL",28,38,240
+"Florence, AL",32,36,151
+"Homewood, AL",42,25,177
+"Huntsville, AL",24,40,714
+"Troy, AL",21,24,70
+"Tuscaloosa, AL",33,37,341
+"Anchorage, AK",31,52,697
+"Fairbanks, AK",32,56,158
+"Juneau, AK",21,35,110
+"Chandler, AZ",35,55,745
+"Flagstaff, AZ",39,65,282
+"Gilbert, AZ",29,53,757
+"Glendale, AZ",40,57,659
+"Lake Havasu City, AZ",15,29,139
+"Mesa, AZ",38,60,"1,150"
+"Peoria, AZ",30,47,417
+"Prescott, AZ",25,27,170
+"Scottsdale, AZ",32,56,"1,069"
+"Tempe, AZ",54,75,829
+"Tucson, AZ",43,66,"1,481"
+"Conway, AR",25,37,210
+"Fayetteville, AR",32,50,352
+"Fort Smith, AR",35,38,241
+"Jonesboro, AR",23,30,196
+"Little Rock, AR",33,32,600
+"Russellville, AR",27,38,84
+"Searcy, AR",36,44,99
+"Arcata, CA",48,65,78
+"Azusa, CA",58,49,135
+"Berkeley, CA",85,83,580
+"Chico, CA",49,69,286
+"Claremont, CA",48,50,156
+"Davis, CA",50,90,163
+"Irvine, CA",43,69,868
+"Isla Vista, CA",60,90,32
+"La Verne, CA",42,37,111
+"Loma Linda, CA",37,40,72
+"Merced, CA",42,54,166
+"Orange, CA",51,53,515
+"Palo Alto, CA",61,91,324
+"Pasadena, CA",69,70,595
+"Pomona, CA",52,47,297
+"Redlands, CA",40,53,234
+"Riverside, CA",43,49,735
+"Rocklin, CA",34,51,187
+San Luis Obispo,56,69,0
+"San Marcos, CA",33,30,267
+"Santa Barbara, CA",61,68,456
+"Santa Cruz, CA",63,86,268
+"Seaside, CA",53,48,101
+"Turlock, CA",46,45,199
+"Whittier, CA",64,52,243
+"Aurora, CO",43,53,815
+"Boulder, CO",56,86,427
+Colorado Springs,36,45,0
+"Durango, CO",37,52,146
+"Fort Collins, CO",37,78,511
+"Golden, CO",42,56,124
+"Grand Junction, CO",32,55,244
+"Greeley, CO",39,47,250
+"Lakewood, CO",43,56,508
+"Pueblo, CO",37,47,235
+"Bridgeport, CT",66,49,314
+"Danbury, CT",37,28,221
+"East Hartford, CT",33,40,70
+"Hartford, CT",67,54,346
+"Middletown, CT",28,28,151
+"New Britain, CT",48,48,111
+"New Haven, CT",68,66,460
+"New London, CT",55,42,88
+"North Haven, CT",19,26,103
+"Stamford, CT",55,46,350
+"Waterbury, CT",46,29,222
+"Willimantic, CT",50,46,38
+"West Hartford, CT",44,44,223
+"West Haven, CT",48,39,144
+"Dover, DE",33,47,143
+"Newark, DE",42,61,115
+"Brandon, FL",24,39,397
+"Cape Coral, FL",17,37,354
+"Coral Gables, FL",56,56,342
+"Coral Springs, FL",38,45,330
+"Davie, FL",27,43,413
+"Daytona Beach, FL",37,51,342
+"DeLand, FL",33,50,161
+"Estero, FL",13,41,100
+"Fort Lauderdale, FL",56,56,"1,030"
+"Fort Myers, FL",35,48,283
+"Gainesville, FL",37,69,466
+"Hialeah, FL",68,51,372
+"Kendall, FL",45,46,361
+"Lakeland, FL",35,51,374
+"Miami Gardens, FL",38,43,146
+"Miramar, FL",28,40,165
+"North Miami, FL",61,53,209
+"Panama City, FL",33,44,163
+"Pembroke Pines, FL",32,41,406
+"Pensacola, FL",36,47,336
+"Port St. Lucie, FL",13,36,307
+"Sarasota, FL",52,60,369
+"St. Petersburg, FL",43,59,788
+"Sunrise, FL",37,44,333
+"Tallahassee, FL",30,45,681
+"West Palm Beach, FL",40,50,443
+"Albany, GA",23,34,199
+"Carrollton, GA",24,32,135
+"Columbus, GA",25,31,488
+"Kennesaw, GA",26,23,150
+"Lawrenceville, GA",28,28,157
+"Macon, GA",30,32,279
+"Milledgeville, GA",24,30,96
+"Rome, GA",27,38,163
+"Savannah, GA",44,52,717
+"Statesboro, GA",32,48,126
+"Valdosta, GA",30,45,207
+"Caldwell, ID",24,38,99
+"Lewiston, ID",36,41,83
+"Moscow, ID",48,58,82
+"Nampa, ID",29,46,215
+"Pocatello, ID",37,42,155
+"Rexburg, ID",42,55,72
+"Aurora, IL",40,52,403
+"Bloomington, IL",35,47,226
+"Bourbonnais, IL",38,41,63
+"Carbondale, IL",42,49,85
+"Charleston, IL",42,49,43
+"Deerfield, IL",36,41,69
+"DeKalb, IL",38,61,104
+"East Peoria, IL",17,25,111
+"Edwardsville, IL",31,44,120
+"Elgin, IL",43,51,218
+"Elmhurst, IL",48,52,147
+"Evanston, IL",76,89,260
+"Joliet, IL",35,44,323
+"Macomb, IL",36,40,45
+"Naperville, IL",34,45,480
+"Normal, IL",40,51,120
+"Peoria, IL",41,44,381
+"Rock Island, IL",44,42,84
+"Rockford, IL",41,43,385
+"Springfield, IL",38,45,431
+"Marion, IN",40,45,81
+"Muncie, IN",38,53,162
+"South Bend, IN",42,58,297
+"Terre Haute, IN",40,48,208
+"Ames, IA",42,69,161
+"Bettendorf, IA",29,39,102
+"Cedar Falls, IA",38,56,124
+"Cedar Rapids, IA",34,41,400
+"Davenport, IA",44,40,340
+"Emporia, KS",45,45,64
+"Hays, KS",39,41,69
+"Manhattan, KS",39,54,161
+"Pittsburg, KS",36,55,61
+"Bowling Green, KY",37,39,268
+"Frankfort, KY",29,25,112
+"Georgetown, KY",23,28,89
+"Murray, KY",33,38,70
+"Owensboro, KY",36,47,187
+"Richmond, KY",35,32,112
+"Baton Rouge, LA",39,44,741
+"Hammond, LA",32,45,145
+"Lafayette, LA",42,47,492
+"Monroe, LA",32,41,182
+"Natchitoches, LA",32,43,72
+"Ruston, LA",25,28,84
+"Augusta, ME",27,30,78
+"Bangor, ME",40,36,158
+"Biddeford, ME",42,42,94
+"Lewiston, ME",46,41,105
+"Portland, ME",62,68,460
+"Annapolis, MD",48,58,201
+"College Park, MD",53,70,116
+"Cumberland, MD",48,34,66
+"Germantown, MD",36,45,121
+"Salisbury, MD",44,44,185
+"Silver Spring, MD",63,58,189
+"Takoma Park, MD",70,68,94
+"Towson, MD",50,36,194
+"Westminster, MD",38,33,94
+"Cambridge, MD",90,96,0
+"Worcester, MA",56,35,471
+"Fitchburg, MA",43,33,98
+"Northampton, MA",44,63,108
+"Lowell, MA",67,44,237
+"Medford, MA",68,59,185
+"Springfield, MA",58,45,309
+"Waltham, MA",57,47,162
+"Wellesley, MA",37,33,61
+"Westfield, MA",29,36,76
+"Adrian, MI",47,52,74
+"Allendale, MI",18,32,36
+"Ann Arbor, MI",52,71,430
+"Dearborn, MI",58,47,321
+"East Lansing, MI",54,80,215
+"Flint, MI",44,44,169
+"Holland, MI",47,60,137
+"Kalamazoo, MI",47,50,318
+"Lansing, MI",46,55,298
+"Marquette, MI",47,60,106
+"Midland, MI",30,47,127
+"Mount Pleasant, MI",54,56,95
+"Saginaw, MI",42,47,77
+"Ypsilanti, MI",62,66,91
+"Warren, MI",44,44,379
+"Duluth, MN",36,43,240
+"Faribault, MN",29,42,43
+"Mankato, MN",40,51,144
+"Moorhead, MN",34,58,79
+"Northfield, MN",31,50,51
+"Rochester, MN",30,57,304
+"St. Cloud, MN",34,49,167
+"Winona, MN",46,54,77
+"Clinton, MS",19,28,52
+"Columbus, MS",30,39,92
+"Hattiesburg, MS",34,48,249
+"Jackson, MS",26,33,359
+"Laurel, MS",31,33,82
+"Oxford, MS",22,37,161
+Southaven,19,28,0
+"Starkville, MS",29,33,105
+"Cape Girardeau, MO",30,31,167
+"Columbia, MO",30,40,380
+"Kirksville, MO",35,53,40
+"Rolla, MO",39,47,77
+"Warrensburg, MO",36,44,65
+"Billings, MT",35,47,354
+"Bozeman, MT",47,62,216
+"Great Falls, MT",44,43,182
+"Helena, MT",49,45,140
+"Missoula, MT",45,60,266
+"Bellevue, NE",33,29,119
+"Fremont, NE",46,49,60
+"Hastings, NE",38,47,61
+"Kearney, NE",42,47,131
+"Lincoln, NE",44,59,682
+"Omaha, NE",48,42,0
+"Reno, NV",40,52,916
+"Keene, NH",45,51,89
+"Jersey City, NJ",87,64,850
+"Glassboro, NJ",37,47,66
+"New Brunswick, NJ",73,60,199
+"Paterson, NJ",76,46,269
+"Albuquerque, NM",43,61,"1,506"
+"Hobbs, NM",39,40,83
+"Las Cruces, NM",34,46,287
+"Rio Rancho, NM",16,32,143
+"Albany, NY",65,55,336
+"Binghamton, NY",55,51,121
+"Cortland, NY",52,44,54
+"Ithaca, NY",72,58,173
+"Newburgh, NY",67,41,78
+"New Rochelle, NY",64,47,197
+"Oswego, NY",59,41,67
+"Plattsburgh, NY",55,53,78
+"Rochester, NY",61,60,585
+"Saratoga Springs, NY",41,42,183
+"Schenectady, NY",62,48,196
+"Syracuse, NY",57,48,383
+"Troy, NY",52,42,163
+"Utica, NY",54,45,181
+"Yonkers, NY",69,37,487
+"Asheville, NC",37,33,736
+"Boone, NC",49,22,131
+"Chapel Hill, NC",34,50,220
+"Durham, NC",30,38,743
+"Elizabeth City, NC",36,49,78
+"Fayetteville, NC",21,30,532
+"Greensboro, NC",29,32,785
+"Greenville, NC",31,43,302
+"Hickory, NC",28,26,220
+"High Point, NC",23,31,292
+"Raleigh, NC",31,39,"1,370"
+"Rocky Mount, NC",22,33,131
+"Salisbury, NC",27,30,132
+"Wilmington, NC",35,51,579
+"Wilson, NC",31,37,136
+"Winston-Salem, NC",22,29,574
+"Bismarck, ND",35,38,204
+"Dickinson, ND",35,36,61
+"Fargo, ND",45,49,404
+"Grand Forks, ND",47,62,171
+"Minot, ND",37,34,129
+"Akron, OH",48,43,463
+"Alliance, OH",43,44,55
+"Ashland, OH",41,39,61
+"Athens, OH",56,63,104
+"Berea, OH",35,49,54
+"Bowling Green, OH",43,54,99
+"Columbus, OH",41,48,"2,808"
+"Dayton, OH",45,47,344
+"Delaware, OH",29,35,100
+"Fairborn, OH",32,38,99
+"Findlay, OH",39,40,152
+"Kent, OH",41,48,100
+"Oxford, OH",44,53,71
+"Springfield, OH",42,46,159
+"Steubenville, OH",38,28,48
+"Youngstown, OH",34,34,130
+"Ada, OK",31,38,62
+"Bethany, OK",47,44,49
+"Edmond, OK",29,34,281
+"Lawton, OK",34,40,202
+"Midwest City, OK",29,37,175
+"Norman, OK",31,58,311
+Oklahoma City,34,40,0
+"Stillwater, OK",35,61,143
+"Tulsa, OK",39,47,"1,194"
+"Ashland, OR",55,62,109
+"Corvallis, OR",47,85,194
+"Eugene, OR",46,72,578
+"Forest Grove, OR",41,65,70
+"Klamath Falls, OR",40,44,93
+"McMinnville, OR",43,53,111
+"Newberg, OR",44,67,79
+"Salem, OR",42,60,536
+"Altoona, PA",54,32,142
+"Bethlehem, PA",59,45,296
+"Carlisle, PA",63,63,94
+"Chambersburg, PA",49,56,92
+"Easton, PA",67,48,128
+"Erie, PA",60,52,206
+"Harrisburg, PA",68,57,201
+"Johnstown, PA",45,36,52
+"Lancaster, PA",81,58,293
+"Pittsburgh, PA",62,55,"1,371"
+"Reading, PA",72,47,134
+"Scranton, PA",58,38,261
+"State College, PA",68,78,157
+"State College, PA",68,78,157
+"West Chester, PA",74,47,134
+"Wilkes-Barre, PA",62,44,160
+"Williamsport, PA",55,56,84
+"Newport, RI",59,53,187
+"Providence, RI",76,61,645
+"Warwick, RI",35,36,285
+"Charleston, SC",40,50,744
+"Columbia, SC",35,35,588
+"Florence, SC",27,39,238
+"Greenville, SC",43,39,542
+"Greenwood, SC",29,36,103
+"North Charleston, SC",26,38,415
+"Spartanburg, SC",29,32,249
+"Aberdeen, SD",39,63,64
+"Brookings, SD",39,58,65
+"Rapid City, SD",28,36,237
+"Sioux Falls, SD",38,46,472
+"Clarksville, TN",18,27,382
+"Cookeville, TN",35,37,196
+"Johnson City, TN",26,26,288
+"Knoxville, TN",31,30,0
+"Lebanon, TN",23,37,0
+"Memphis, TN",35,41,0
+"Murfreesboro, TN",25,38,0
+"Abilene, TX",31,37,0
+"Amarillo, TX",40,42,501
+"Arlington, TX",38,40,0
+"Austin, TX",42,54,0
+"Beaumont, TX",31,37,0
+"Belton, TX",30,36,0
+"Big Spring, TX",21,33,61
+"Brownsville, TX",35,41,383
+"Bryan, TX",33,45,233
+"College Station, TX",34,62,363
+"Corpus Christi, TX",40,42,752
+"Denton, TX",34,46,367
+"Edinburg, TX",26,36,186
+"El Paso, TX",40,42,0
+"Fort Worth, TX",35,39,0
+"Galveston, TX",54,57,274
+"Georgetown, TX",23,35,168
+"Garland, TX",40,41,481
+"Huntsville, TX",34,30,125
+"Irving, TX",45,42,651
+"Killeen, TX",30,38,291
+"Kingsville, TX",38,46,71
+"Laredo, TX",37,40,0
+"Lubbock, TX",39,43,677
+"McAllen, TX",41,46,0
+"Mesquite, TX",35,40,0
+"Nacogdoches, TX",30,34,0
+"Odessa, TX",42,40,271
+"Pasadena, TX",43,45,0
+"Pearland, TX",21,36,330
+"Plainview, TX",31,37,52
+"Plano, TX",41,52,"1,068"
+"San Angelo, TX",32,37,0
+"San Marcos, TX",39,43,255
+"Stephenville, TX",36,36,71
+"Texarkana, TX",29,37,189
+"Tyler, TX",35,35,371
+"University Park, TX",61,59,178
+"Waco, TX",35,39,455
+"Wichita Falls, TX",29,39,242
+"Cedar City, UT",29,40,0
+"Logan, UT",40,51,152
+"Ogden, UT",44,44,0
+"Orem, UT",43,56,243
+"Provo, UT",45,63,0
+"South Jordan, UT",26,44,163
+"St. George, UT",27,45,292
+"Burlington, VT",59,81,194
+"Alexandria, VA",62,62,522
+"Blacksburg, VA",43,65,124
+"Charlottesville, VA",58,57,434
+Chesapeake,21,35,0
+"Fredericksburg, VA",46,46,217
+"Hampton, VA",33,40,267
+"Harrisonburg, VA",45,40,202
+"Lynchburg, VA",29,24,264
+"Newport News, VA",34,39,362
+"Norfolk, VA",46,47,0
+"Portsmouth, VA",35,42,0
+"Richmond, VA",51,51,808
+"Roanoke, VA",39,39,354
+"Staunton, VA",35,22,95
+"Virginia Beach, VA",33,42,"1,240"
+"Bellingham, WA",49,58,382
+"Ellensburg, WA",41,55,0
+"Lakewood, WA",40,43,224
+"Parkland, WA",36,40,80
+"Pullman, WA",42,39,89
+"Richland, WA",34,49,0
+"Walla Walla, WA",47,62,0
+"Beckley, WV",35,27,98
+"Fairmont, WV",40,26,72
+"Morgantown, WV",59,40,199
+"Appleton, WI",44,51,253
+"Eau Claire, WI",36,48,213
+"Green Bay, WI",42,47,297
+"Kenosha, WI",49,47,269
+"La Crosse, WI",54,66,211
+"Madison, WI",50,66,876
+"Oshkosh, WI",43,51,169
+"Stevens Point, WI",45,64,111
+"Waukesha, WI",35,38,178
+"Laramie, WY",35,74,84

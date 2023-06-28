@@ -1,0 +1,802 @@
+US college towns,town,state,state_abv
+"Auburn, Alabama",Auburn,Alabama,AL
+"Fairfield, Alabama",Fairfield,Alabama,AL
+"Florence, Alabama",Florence,Alabama,AL
+"Homewood, Alabama",Homewood,Alabama,AL
+"Huntsville, Alabama",Huntsville,Alabama,AL
+"Jacksonville, Alabama",Jacksonville,Alabama,AL
+"Livingston, Alabama",Livingston,Alabama,AL
+"Mobile, Alabama",Mobile,Alabama,AL
+"Montevallo, Alabama",Montevallo,Alabama,AL
+"Montgomery, Alabama",Montgomery,Alabama,AL
+"Troy, Alabama",Troy,Alabama,AL
+"Tuscaloosa, Alabama",Tuscaloosa,Alabama,AL
+"Tuskegee, Alabama",Tuskegee,Alabama,AL
+"Anchorage, Alaska",Anchorage,Alaska,AK
+"Fairbanks, Alaska",Fairbanks,Alaska,AK
+"Juneau, Alaska",Juneau,Alaska,AK
+"Ketchikan, Alaska",Ketchikan,Alaska,AK
+"Sitka, Alaska",Sitka,Alaska,AK
+"Chandler, Arizona",Chandler,Arizona,AZ
+"Flagstaff, Arizona",Flagstaff,Arizona,AZ
+"Gilbert, Arizona",Gilbert,Arizona,AZ
+"Glendale, Arizona",Glendale,Arizona,AZ
+"Lake Havasu City, Arizona",Lake Havasu City,Arizona,AZ
+"Mesa, Arizona",Mesa,Arizona,AZ
+"Peoria, Arizona",Peoria,Arizona,AZ
+"Prescott, Arizona",Prescott,Arizona,AZ
+"Scottsdale, Arizona",Scottsdale,Arizona,AZ
+"Tempe, Arizona",Tempe,Arizona,AZ
+"Tucson, Arizona",Tucson,Arizona,AZ
+"Arkadelphia, Arkansas",Arkadelphia,Arkansas,AR
+"Conway, Arkansas",Conway,Arkansas,AR
+"Fayetteville, Arkansas",Fayetteville,Arkansas,AR
+"Fort Smith, Arkansas",Fort Smith,Arkansas,AR
+"Jonesboro, Arkansas",Jonesboro,Arkansas,AR
+"Little Rock, Arkansas",Little Rock,Arkansas,AR
+"Magnolia, Arkansas",Magnolia,Arkansas,AR
+"Monticello, Arkansas",Monticello,Arkansas,AR
+"Russellville, Arkansas",Russellville,Arkansas,AR
+"Searcy, Arkansas",Searcy,Arkansas,AR
+"Angwin, California",Angwin,California,CA
+"Arcata, California",Arcata,California,CA
+"Azusa, California",Azusa,California,CA
+"Berkeley, California",Berkeley,California,CA
+"Chico, California",Chico,California,CA
+"Claremont, California",Claremont,California,CA
+"Cotati, California",Cotati,California,CA
+"Davis, California",Davis,California,CA
+"Irvine, California",Irvine,California,CA
+"Isla Vista, California",Isla Vista,California,CA
+"La Verne, California",La Verne,California,CA
+"Loma Linda, California",Loma Linda,California,CA
+"Merced, California",Merced,California,CA
+"Orange, California",Orange,California,CA
+"Palo Alto, California",Palo Alto,California,CA
+"Pasadena, California",Pasadena,California,CA
+"Pomona, California",Pomona,California,CA
+"Redlands, California",Redlands,California,CA
+"Riverside, California",Riverside,California,CA
+"Rocklin, California",Rocklin,California,CA
+"San Luis Obispo, California",San Luis Obispo,California,CA
+"San Marcos, California",San Marcos,California,CA
+"Santa Barbara, California",Santa Barbara,California,CA
+"Santa Cruz, California",Santa Cruz,California,CA
+"Seaside, California",Seaside,California,CA
+"Stanford, California",Stanford,California,CA
+"Turlock, California",Turlock,California,CA
+"University District, California",University District,California,CA
+"Whittier, California",Whittier,California,CA
+"Alamosa, Colorado",Alamosa,Colorado,CO
+"Aurora, Colorado",Aurora,Colorado,CO
+"Boulder, Colorado",Boulder,Colorado,CO
+"Colorado Springs, Colorado",Colorado Springs,Colorado,CO
+"Durango, Colorado",Durango,Colorado,CO
+"Fort Collins, Colorado",Fort Collins,Colorado,CO
+"Golden, Colorado",Golden,Colorado,CO
+"Grand Junction, Colorado",Grand Junction,Colorado,CO
+"Greeley, Colorado",Greeley,Colorado,CO
+"Gunnison, Colorado",Gunnison,Colorado,CO
+"Lakewood, Colorado",Lakewood,Colorado,CO
+"Pueblo, Colorado",Pueblo,Colorado,CO
+"Bridgeport, Connecticut",Bridgeport,Connecticut,CT
+"Danbury, Connecticut",Danbury,Connecticut,CT
+"East Hartford, Connecticut",East Hartford,Connecticut,CT
+"Fairfield, Connecticut",Fairfield,Connecticut,CT
+"Farmington, Connecticut",Farmington,Connecticut,CT
+"Hamden, Connecticut",Hamden,Connecticut,CT
+"Hartford, Connecticut",Hartford,Connecticut,CT
+"Middletown, Connecticut",Middletown,Connecticut,CT
+"New Britain, Connecticut",New Britain,Connecticut,CT
+"New Haven, Connecticut",New Haven,Connecticut,CT
+"Downtown New Haven, Connecticut",Downtown New Haven,Connecticut,CT
+"New London, Connecticut",New London,Connecticut,CT
+"North Haven, Connecticut",North Haven,Connecticut,CT
+"Southington, Connecticut",Southington,Connecticut,CT
+"Stamford, Connecticut",Stamford,Connecticut,CT
+"Storrs, Connecticut",Storrs,Connecticut,CT
+"Waterbury, Connecticut",Waterbury,Connecticut,CT
+"Willimantic, Connecticut",Willimantic,Connecticut,CT
+"West Hartford, Connecticut",West Hartford,Connecticut,CT
+"West Haven, Connecticut",West Haven,Connecticut,CT
+"Dover, Delaware",Dover,Delaware,DE
+"Newark, Delaware",Newark,Delaware,DE
+"New Castle, Delaware",New Castle,Delaware,DE
+"Wilmington, Delaware",Wilmington,Delaware,DE
+"Ave Maria, Florida",Ave Maria,Florida,FL
+"Boca Raton, Florida",Boca Raton,Florida,FL
+"Bradenton, Florida",Bradenton,Florida,FL
+"Brandon, Florida",Brandon,Florida,FL
+"Cape Coral, Florida",Cape Coral,Florida,FL
+"Coral Gables, Florida",Coral Gables,Florida,FL
+"Coral Springs, Florida",Coral Springs,Florida,FL
+"Davie, Florida",Davie,Florida,FL
+"Daytona Beach, Florida",Daytona Beach,Florida,FL
+"DeLand, Florida",DeLand,Florida,FL
+"Estero, Florida",Estero,Florida,FL
+"Fort Lauderdale, Florida",Fort Lauderdale,Florida,FL
+"Fort Myers, Florida",Fort Myers,Florida,FL
+"Gainesville, Florida",Gainesville,Florida,FL
+"Gulfport, Florida",Gulfport,Florida,FL
+"Hialeah, Florida",Hialeah,Florida,FL
+"Hollywood, Florida",Hollywood,Florida,FL
+"Kendall, Florida",Kendall,Florida,FL
+"Lakeland, Florida",Lakeland,Florida,FL
+"Miami Gardens, Florida",Miami Gardens,Florida,FL
+"Miami Shores, Florida",Miami Shores,Florida,FL
+"Miramar, Florida",Miramar,Florida,FL
+"North Miami, Florida",North Miami,Florida,FL
+"Panama City, Florida",Panama City,Florida,FL
+"Pembroke Pines, Florida",Pembroke Pines,Florida,FL
+"Pensacola, Florida",Pensacola,Florida,FL
+"Port St. Lucie, Florida",Port St. Lucie,Florida,FL
+"Sarasota, Florida",Sarasota,Florida,FL
+"St. Augustine, Florida",St. Augustine,Florida,FL
+"St. Leo, Florida",St. Leo,Florida,FL
+"St. Petersburg, Florida",St. Petersburg,Florida,FL
+"Sunrise, Florida",Sunrise,Florida,FL
+"Tallahassee, Florida",Tallahassee,Florida,FL
+"West Palm Beach, Florida",West Palm Beach,Florida,FL
+"Albany, Georgia",Albany,Georgia,GA
+"Athens, Georgia",Athens,Georgia,GA
+"Augusta, Georgia",Augusta,Georgia,GA
+"Blue Ridge, Georgia",Blue Ridge,Georgia,GA
+"Brunswick, Georgia",Brunswick,Georgia,GA
+"Carrollton, Georgia",Carrollton,Georgia,GA
+"Columbus, Georgia",Columbus,Georgia,GA
+"Dahlonega, Georgia",Dahlonega,Georgia,GA
+"Demorest, Georgia",Demorest,Georgia,GA
+"Fort Valley, Georgia",Fort Valley,Georgia,GA
+"Glennville, Georgia",Glennville,Georgia,GA
+"Kennesaw, Georgia",Kennesaw,Georgia,GA
+"Lawrenceville, Georgia",Lawrenceville,Georgia,GA
+"Madison, Georgia",Madison,Georgia,GA
+"Macon, Georgia",Macon,Georgia,GA
+"Milledgeville, Georgia",Milledgeville,Georgia,GA
+"Mount Vernon, Georgia",Mount Vernon,Georgia,GA
+"Oxford, Georgia",Oxford,Georgia,GA
+"Rome, Georgia",Rome,Georgia,GA
+"Savannah, Georgia",Savannah,Georgia,GA
+"Statesboro, Georgia",Statesboro,Georgia,GA
+"Swainsboro, Georgia",Swainsboro,Georgia,GA
+"Valdosta, Georgia",Valdosta,Georgia,GA
+"Vidalia, Georgia",Vidalia,Georgia,GA
+"Waleska, Georgia",Waleska,Georgia,GA
+"Watkinsville, Georgia",Watkinsville,Georgia,GA
+"Young Harris, Georgia",Young Harris,Georgia,GA
+"Laie, Hawaii",Laie,Hawaii,HI
+"Boise, Idaho",Boise,Idaho,ID
+"Caldwell, Idaho",Caldwell,Idaho,ID
+"Lewiston, Idaho",Lewiston,Idaho,ID
+"Moscow, Idaho",Moscow,Idaho,ID
+"Nampa, Idaho",Nampa,Idaho,ID
+"Pocatello, Idaho",Pocatello,Idaho,ID
+"Rexburg, Idaho",Rexburg,Idaho,ID
+"Aurora, Illinois",Aurora,Illinois,IL
+"Bloomington, Illinois",Bloomington,Illinois,IL
+"Bourbonnais, Illinois",Bourbonnais,Illinois,IL
+"Carbondale, Illinois",Carbondale,Illinois,IL
+"Champaign–Urbana metropolitan area, Illinois",Champaign–Urbana metropolitan area,Illinois,IL
+"Charleston, Illinois",Charleston,Illinois,IL
+"Deerfield, Illinois",Deerfield,Illinois,IL
+"DeKalb, Illinois",DeKalb,Illinois,IL
+"Downers Grove, Illinois",Downers Grove,Illinois,IL
+"East Peoria, Illinois",East Peoria,Illinois,IL
+"Edwardsville, Illinois",Edwardsville,Illinois,IL
+"Elgin, Illinois",Elgin,Illinois,IL
+"Elmhurst, Illinois",Elmhurst,Illinois,IL
+"Evanston, Illinois",Evanston,Illinois,IL
+"Joliet, Illinois",Joliet,Illinois,IL
+"Lebanon, Illinois",Lebanon,Illinois,IL
+"Macomb, Illinois",Macomb,Illinois,IL
+"Naperville, Illinois",Naperville,Illinois,IL
+"Normal, Illinois",Normal,Illinois,IL
+"Peoria, Illinois",Peoria,Illinois,IL
+"River Forest, Illinois",River Forest,Illinois,IL
+"Rock Island, Illinois",Rock Island,Illinois,IL
+"Rockford, Illinois",Rockford,Illinois,IL
+"Springfield, Illinois",Springfield,Illinois,IL
+"University Park, Illinois",University Park,Illinois,IL
+"Angola, Indiana",Angola,Indiana,IN
+"Bloomington, Indiana",Bloomington,Indiana,IN
+"Greencastle, Indiana",Greencastle,Indiana,IN
+"Hanover, Indiana",Hanover,Indiana,IN
+"Marion, Indiana",Marion,Indiana,IN
+"Muncie, Indiana",Muncie,Indiana,IN
+"Oakland City, Indiana",Oakland City,Indiana,IN
+"South Bend, Indiana",South Bend,Indiana,IN
+"Terre Haute, Indiana",Terre Haute,Indiana,IN
+"Upland, Indiana",Upland,Indiana,IN
+"West Lafayette, Indiana",West Lafayette,Indiana,IN
+"Ames, Iowa",Ames,Iowa,IA
+"Bettendorf, Iowa",Bettendorf,Iowa,IA
+"Cedar Falls, Iowa",Cedar Falls,Iowa,IA
+"Cedar Rapids, Iowa",Cedar Rapids,Iowa,IA
+"Davenport, Iowa",Davenport,Iowa,IA
+"Decorah, Iowa",Decorah,Iowa,IA
+"Des Moines, Iowa",Des Moines,Iowa,IA
+"Fayette, Iowa",Fayette,Iowa,IA
+"Grinnell, Iowa",Grinnell,Iowa,IA
+"Indianola, Iowa",Indianola,Iowa,IA
+"Iowa City, Iowa",Iowa City,Iowa,IA
+"Lamoni, Iowa",Lamoni,Iowa,IA
+"Mount Vernon, Iowa",Mount Vernon,Iowa,IA
+"Orange City, Iowa",Orange City,Iowa,IA
+"Oskaloosa, Iowa",Oskaloosa,Iowa,IA
+"Sioux Center, Iowa",Sioux Center,Iowa,IA
+"Storm Lake, Iowa",Storm Lake,Iowa,IA
+"Waverly, Iowa",Waverly,Iowa,IA
+"Baldwin City, Kansas",Baldwin City,Kansas,KS
+"Emporia, Kansas",Emporia,Kansas,KS
+"Hays, Kansas",Hays,Kansas,KS
+"Lawrence, Kansas",Lawrence,Kansas,KS
+"Manhattan, Kansas",Manhattan,Kansas,KS
+"Pittsburg, Kansas",Pittsburg,Kansas,KS
+"Topeka, Kansas",Topeka,Kansas,KS
+"Wichita, Kansas",Wichita,Kansas,KS
+"Barbourville, Kentucky",Barbourville,Kentucky,KY
+"Berea, Kentucky",Berea,Kentucky,KY
+"Bowling Green, Kentucky",Bowling Green,Kentucky,KY
+"Campbellsville, Kentucky",Campbellsville,Kentucky,KY
+"Columbia, Kentucky",Columbia,Kentucky,KY
+"Crestview Hills, Kentucky",Crestview Hills,Kentucky,KY
+"Danville, Kentucky",Danville,Kentucky,KY
+"Frankfort, Kentucky",Frankfort,Kentucky,KY
+"Georgetown, Kentucky",Georgetown,Kentucky,KY
+"Grayson, Kentucky",Grayson,Kentucky,KY
+"Highland Heights, Kentucky",Highland Heights,Kentucky,KY
+"Lexington, Kentucky",Lexington,Kentucky,KY
+"Louisville, Kentucky",Louisville,Kentucky,KY
+"Midway, Kentucky",Midway,Kentucky,KY
+"Morehead, Kentucky",Morehead,Kentucky,KY
+"Murray, Kentucky",Murray,Kentucky,KY
+"Owensboro, Kentucky",Owensboro,Kentucky,KY
+"Pikeville, Kentucky",Pikeville,Kentucky,KY
+"Richmond, Kentucky",Richmond,Kentucky,KY
+"Williamsburg, Kentucky",Williamsburg,Kentucky,KY
+"Wilmore, Kentucky",Wilmore,Kentucky,KY
+"Baton Rouge, Louisiana",Baton Rouge,Louisiana,LA
+"Grambling, Louisiana",Grambling,Louisiana,LA
+"Hammond, Louisiana",Hammond,Louisiana,LA
+"Lafayette, Louisiana",Lafayette,Louisiana,LA
+"Monroe, Louisiana",Monroe,Louisiana,LA
+"Natchitoches, Louisiana",Natchitoches,Louisiana,LA
+"Ruston, Louisiana",Ruston,Louisiana,LA
+"Thibodaux, Louisiana",Thibodaux,Louisiana,LA
+"Augusta, Maine",Augusta,Maine,ME
+"Bangor, Maine",Bangor,Maine,ME
+"Bar Harbor, Maine",Bar Harbor,Maine,ME
+"Biddeford, Maine",Biddeford,Maine,ME
+"Brunswick, Maine",Brunswick,Maine,ME
+"Farmington, Maine",Farmington,Maine,ME
+"Fort Kent, Maine",Fort Kent,Maine,ME
+"Gorham, Maine",Gorham,Maine,ME
+"Lewiston, Maine",Lewiston,Maine,ME
+"Machias, Maine",Machias,Maine,ME
+"Orono, Maine",Orono,Maine,ME
+"Portland, Maine",Portland,Maine,ME
+"Presque Isle, Maine",Presque Isle,Maine,ME
+"Waterville, Maine",Waterville,Maine,ME
+"Annapolis, Maryland",Annapolis,Maryland,MD
+"Chestertown, Maryland",Chestertown,Maryland,MD
+"College Park, Maryland",College Park,Maryland,MD
+"Cumberland, Maryland",Cumberland,Maryland,MD
+"Emmitsburg, Maryland",Emmitsburg,Maryland,MD
+"Frostburg, Maryland",Frostburg,Maryland,MD
+"Germantown, Maryland",Germantown,Maryland,MD
+"Princess Anne, Maryland",Princess Anne,Maryland,MD
+"Salisbury, Maryland",Salisbury,Maryland,MD
+"Silver Spring, Maryland",Silver Spring,Maryland,MD
+"Takoma Park, Maryland",Takoma Park,Maryland,MD
+"Towson, Maryland",Towson,Maryland,MD
+"Westminster, Maryland",Westminster,Maryland,MD
+"Bridgewater, Massachusetts",Bridgewater,Massachusetts,MA
+"Cambridge, Massachusetts",Cambridge,Massachusetts,MA
+"Chestnut Hill, Massachusetts",Chestnut Hill,Massachusetts,MA
+"Colleges of Worcester Consortium, Massachusetts",Colleges of Worcester Consortium,Massachusetts,MA
+"Dudley, Massachusetts",Dudley,Massachusetts,MA
+"North Grafton, Massachusetts",North Grafton,Massachusetts,MA
+"Paxton, Massachusetts",Paxton,Massachusetts,MA
+"Worcester, Massachusetts",Worcester,Massachusetts,MA
+"Dartmouth, Massachusetts",Dartmouth,Massachusetts,MA
+"Fenway, Massachusetts",Fenway,Massachusetts,MA
+"Fitchburg, Massachusetts",Fitchburg,Massachusetts,MA
+"Five Colleges (Massachusetts), Massachusetts",Five Colleges (Massachusetts),Massachusetts,MA
+"Amherst, Massachusetts",Amherst,Massachusetts,MA
+"Northampton, Massachusetts",Northampton,Massachusetts,MA
+"South Hadley, Massachusetts",South Hadley,Massachusetts,MA
+"Lowell, Massachusetts",Lowell,Massachusetts,MA
+"Medford, Massachusetts",Medford,Massachusetts,MA
+"North Adams, Massachusetts",North Adams,Massachusetts,MA
+"North Andover, Massachusetts",North Andover,Massachusetts,MA
+"Somerville, Massachusetts",Somerville,Massachusetts,MA
+"Springfield, Massachusetts",Springfield,Massachusetts,MA
+"Waltham, Massachusetts",Waltham,Massachusetts,MA
+"Wellesley, Massachusetts",Wellesley,Massachusetts,MA
+"Westfield, Massachusetts",Westfield,Massachusetts,MA
+"Williamstown, Massachusetts",Williamstown,Massachusetts,MA
+"Adrian, Michigan",Adrian,Michigan,MI
+"Albion, Michigan",Albion,Michigan,MI
+"Allendale, Michigan",Allendale,Michigan,MI
+"Alma, Michigan",Alma,Michigan,MI
+"Ann Arbor, Michigan",Ann Arbor,Michigan,MI
+"Berrien Springs, Michigan",Berrien Springs,Michigan,MI
+"Big Rapids, Michigan",Big Rapids,Michigan,MI
+"Dearborn, Michigan",Dearborn,Michigan,MI
+"East Lansing, Michigan",East Lansing,Michigan,MI
+"Flint, Michigan",Flint,Michigan,MI
+"Genoa Township, Michigan",Genoa Township,Michigan,MI
+"Hillsdale, Michigan",Hillsdale,Michigan,MI
+"Holland, Michigan",Holland,Michigan,MI
+"Houghton, Michigan",Houghton,Michigan,MI
+"Kalamazoo, Michigan",Kalamazoo,Michigan,MI
+"Lansing, Michigan",Lansing,Michigan,MI
+"Marquette, Michigan",Marquette,Michigan,MI
+"Midland, Michigan",Midland,Michigan,MI
+"Mount Pleasant, Michigan",Mount Pleasant,Michigan,MI
+"Olivet, Michigan",Olivet,Michigan,MI
+"Saginaw, Michigan",Saginaw,Michigan,MI
+"Sault Ste. Marie, Michigan",Sault Ste. Marie,Michigan,MI
+"Spring Arbor, Michigan",Spring Arbor,Michigan,MI
+"Ypsilanti, Michigan",Ypsilanti,Michigan,MI
+"Warren, Michigan",Warren,Michigan,MI
+"Bemidji, Minnesota",Bemidji,Minnesota,MN
+"Crookston, Minnesota",Crookston,Minnesota,MN
+"Duluth, Minnesota",Duluth,Minnesota,MN
+"Faribault, Minnesota",Faribault,Minnesota,MN
+"Mankato, Minnesota",Mankato,Minnesota,MN
+"Marshall, Minnesota",Marshall,Minnesota,MN
+"Moorhead, Minnesota",Moorhead,Minnesota,MN
+"Morris, Minnesota",Morris,Minnesota,MN
+"Northfield, Minnesota",Northfield,Minnesota,MN
+"North Mankato, Minnesota",North Mankato,Minnesota,MN
+"Pine City, Minnesota",Pine City,Minnesota,MN
+"Rochester, Minnesota",Rochester,Minnesota,MN
+"St. Cloud, Minnesota",St. Cloud,Minnesota,MN
+"St. Joseph, Minnesota",St. Joseph,Minnesota,MN
+"Saint Paul, Minnesota",Saint Paul,Minnesota,MN
+"St. Peter, Minnesota",St. Peter,Minnesota,MN
+"Winona, Minnesota",Winona,Minnesota,MN
+"Blue Mountain, Mississippi",Blue Mountain,Mississippi,MS
+"Clinton, Mississippi",Clinton,Mississippi,MS
+"Columbus, Mississippi",Columbus,Mississippi,MS
+"Hattiesburg, Mississippi",Hattiesburg,Mississippi,MS
+"Holly Springs, Mississippi",Holly Springs,Mississippi,MS
+"Itta Bena, Mississippi",Itta Bena,Mississippi,MS
+"Jackson, Mississippi",Jackson,Mississippi,MS
+"Laurel, Mississippi",Laurel,Mississippi,MS
+"Oxford, Mississippi",Oxford,Mississippi,MS
+"Southaven, Mississippi",Southaven,Mississippi,MS
+"Starkville, Mississippi",Starkville,Mississippi,MS
+"Tougaloo, Mississippi",Tougaloo,Mississippi,MS
+"Bolivar, Missouri",Bolivar,Missouri,MO
+"Cape Girardeau, Missouri",Cape Girardeau,Missouri,MO
+"Columbia, Missouri",Columbia,Missouri,MO
+"Fayette, Missouri",Fayette,Missouri,MO
+"Fulton, Missouri",Fulton,Missouri,MO
+"Kirksville, Missouri",Kirksville,Missouri,MO
+"Maryville, Missouri",Maryville,Missouri,MO
+"Rolla, Missouri",Rolla,Missouri,MO
+"Warrensburg, Missouri",Warrensburg,Missouri,MO
+"Billings, Montana",Billings,Montana,MT
+"Bozeman, Montana",Bozeman,Montana,MT
+"Butte, Montana",Butte,Montana,MT
+"Dillon, Montana",Dillon,Montana,MT
+"Great Falls, Montana",Great Falls,Montana,MT
+"Havre, Montana",Havre,Montana,MT
+"Helena, Montana",Helena,Montana,MT
+"Missoula, Montana",Missoula,Montana,MT
+"Bellevue, Nebraska",Bellevue,Nebraska,NE
+"Chadron, Nebraska",Chadron,Nebraska,NE
+"Crete, Nebraska",Crete,Nebraska,NE
+"Fremont, Nebraska",Fremont,Nebraska,NE
+"Hastings, Nebraska",Hastings,Nebraska,NE
+"Kearney, Nebraska",Kearney,Nebraska,NE
+"Lincoln, Nebraska",Lincoln,Nebraska,NE
+"Omaha, Nebraska",Omaha,Nebraska,NE
+"Peru, Nebraska",Peru,Nebraska,NE
+"Seward, Nebraska",Seward,Nebraska,NE
+"Wayne, Nebraska",Wayne,Nebraska,NE
+"York, Nebraska",York,Nebraska,NE
+"Henderson, Nevada",Henderson,Nevada,NV
+"Incline Village, Nevada",Incline Village,Nevada,NV
+"Reno, Nevada",Reno,Nevada,NV
+"Durham, New Hampshire",Durham,New Hampshire,NH
+"Hanover, New Hampshire",Hanover,New Hampshire,NH
+"Henniker, New Hampshire",Henniker,New Hampshire,NH
+"Keene, New Hampshire",Keene,New Hampshire,NH
+"New London, New Hampshire",New London,New Hampshire,NH
+"Pinardville, New Hampshire",Pinardville,New Hampshire,NH
+"Plymouth, New Hampshire",Plymouth,New Hampshire,NH
+"Ewing, New Jersey",Ewing,New Jersey,NJ
+"Jersey City, New Jersey",Jersey City,New Jersey,NJ
+"Glassboro, New Jersey",Glassboro,New Jersey,NJ
+"Madison, New Jersey",Madison,New Jersey,NJ
+"Montclair, New Jersey",Montclair,New Jersey,NJ
+"Newark, New Jersey",Newark,New Jersey,NJ
+"New Brunswick, New Jersey",New Brunswick,New Jersey,NJ
+"Paterson, New Jersey",Paterson,New Jersey,NJ
+"Princeton, New Jersey",Princeton,New Jersey,NJ
+"Ramsey, New Jersey",Ramsey,New Jersey,NJ
+"South Orange, New Jersey",South Orange,New Jersey,NJ
+"Union Township, New Jersey",Union Township,New Jersey,NJ
+"West Long Branch, New Jersey",West Long Branch,New Jersey,NJ
+"Albuquerque, New Mexico",Albuquerque,New Mexico,NM
+"Hobbs, New Mexico",Hobbs,New Mexico,NM
+"Las Cruces, New Mexico",Las Cruces,New Mexico,NM
+"Las Vegas, New Mexico",Las Vegas,New Mexico,NM
+"Portales, New Mexico",Portales,New Mexico,NM
+"Rio Rancho, New Mexico",Rio Rancho,New Mexico,NM
+"Silver City, New Mexico",Silver City,New Mexico,NM
+"Socorro, New Mexico",Socorro,New Mexico,NM
+"Albany, New York",Albany,New York,NY
+"Alfred (village), New York",Alfred (village),New York,NY
+"Aurora, New York",Aurora,New York,NY
+"Binghamton, New York",Binghamton,New York,NY
+"Brockport, New York",Brockport,New York,NY
+"Canton (village), New York",Canton (village),New York,NY
+"Clinton, New York",Clinton,New York,NY
+"Cortland, New York",Cortland,New York,NY
+"Cobleskill (town), New York",Cobleskill (town),New York,NY
+"Delhi (town), New York",Delhi (town),New York,NY
+"Fredonia, New York",Fredonia,New York,NY
+"Geneseo, New York",Geneseo,New York,NY
+"Geneva, New York",Geneva,New York,NY
+"Hamilton (village), New York",Hamilton (village),New York,NY
+"Ithaca, New York",Ithaca,New York,NY
+"Newburgh, New York",Newburgh,New York,NY
+"New Paltz, New York",New Paltz,New York,NY
+"New Rochelle, New York",New Rochelle,New York,NY
+"Oneonta, New York",Oneonta,New York,NY
+"Oswego, New York",Oswego,New York,NY
+"Plattsburgh, New York",Plattsburgh,New York,NY
+"Potsdam (village), New York",Potsdam (village),New York,NY
+"Poughkeepsie (city), New York",Poughkeepsie (city),New York,NY
+"Purchase, New York",Purchase,New York,NY
+"Rochester, New York",Rochester,New York,NY
+"Saratoga Springs, New York",Saratoga Springs,New York,NY
+"Schenectady, New York",Schenectady,New York,NY
+"Seneca Falls, New York",Seneca Falls,New York,NY
+"Stony Brook, New York",Stony Brook,New York,NY
+"Syracuse, New York",Syracuse,New York,NY
+"Tivoli, New York",Tivoli,New York,NY
+"Troy, New York",Troy,New York,NY
+"Utica, New York",Utica,New York,NY
+"Valhalla, New York",Valhalla,New York,NY
+"West Point, New York",West Point,New York,NY
+"Yonkers, New York",Yonkers,New York,NY
+"Asheville, North Carolina",Asheville,North Carolina,NC
+"Banner Elk, North Carolina",Banner Elk,North Carolina,NC
+"Belmont, North Carolina",Belmont,North Carolina,NC
+"Boiling Springs, North Carolina",Boiling Springs,North Carolina,NC
+"Boone, North Carolina",Boone,North Carolina,NC
+"Brevard, North Carolina",Brevard,North Carolina,NC
+"Buies Creek, North Carolina",Buies Creek,North Carolina,NC
+"Chapel Hill, North Carolina",Chapel Hill,North Carolina,NC
+"Cullowhee, North Carolina",Cullowhee,North Carolina,NC
+"Davidson, North Carolina",Davidson,North Carolina,NC
+"Durham, North Carolina",Durham,North Carolina,NC
+"Elizabeth City, North Carolina",Elizabeth City,North Carolina,NC
+"Elon, North Carolina",Elon,North Carolina,NC
+"Fayetteville, North Carolina",Fayetteville,North Carolina,NC
+"Greensboro, North Carolina",Greensboro,North Carolina,NC
+"Greenville, North Carolina",Greenville,North Carolina,NC
+"Hickory, North Carolina",Hickory,North Carolina,NC
+"High Point, North Carolina",High Point,North Carolina,NC
+"Laurinburg, North Carolina",Laurinburg,North Carolina,NC
+"Mars Hill, North Carolina",Mars Hill,North Carolina,NC
+"Misenheimer, North Carolina",Misenheimer,North Carolina,NC
+"Montreat, North Carolina",Montreat,North Carolina,NC
+"Mount Olive, North Carolina",Mount Olive,North Carolina,NC
+"Murfreesboro, North Carolina",Murfreesboro,North Carolina,NC
+"Pembroke, North Carolina",Pembroke,North Carolina,NC
+"Raleigh, North Carolina",Raleigh,North Carolina,NC
+"Rocky Mount, North Carolina",Rocky Mount,North Carolina,NC
+"Salisbury, North Carolina",Salisbury,North Carolina,NC
+"Wilmington, North Carolina",Wilmington,North Carolina,NC
+"Wilson, North Carolina",Wilson,North Carolina,NC
+"Wingate, North Carolina",Wingate,North Carolina,NC
+"Winston-Salem, North Carolina",Winston-Salem,North Carolina,NC
+"Bismarck, North Dakota",Bismarck,North Dakota,ND
+"Dickinson, North Dakota",Dickinson,North Dakota,ND
+"Fargo, North Dakota",Fargo,North Dakota,ND
+"Grand Forks, North Dakota",Grand Forks,North Dakota,ND
+"Jamestown, North Dakota",Jamestown,North Dakota,ND
+"Mayville, North Dakota",Mayville,North Dakota,ND
+"Minot, North Dakota",Minot,North Dakota,ND
+"Valley City, North Dakota",Valley City,North Dakota,ND
+"Ada, Ohio",Ada,Ohio,OH
+"Akron, Ohio",Akron,Ohio,OH
+"Alliance, Ohio",Alliance,Ohio,OH
+"Ashland, Ohio",Ashland,Ohio,OH
+"Athens, Ohio",Athens,Ohio,OH
+"Berea, Ohio",Berea,Ohio,OH
+"Bluffton, Ohio",Bluffton,Ohio,OH
+"Bowling Green, Ohio",Bowling Green,Ohio,OH
+"Cedarville, Ohio",Cedarville,Ohio,OH
+"Columbus, Ohio",Columbus,Ohio,OH
+"Downtown Columbus, Ohio",Downtown Columbus,Ohio,OH
+"Neighborhoods in Columbus, Ohio",Neighborhoods in Columbus,Ohio,OH
+"University District, Ohio",University District,Ohio,OH
+"Dayton, Ohio",Dayton,Ohio,OH
+"Delaware, Ohio",Delaware,Ohio,OH
+"Fairborn, Ohio",Fairborn,Ohio,OH
+"Findlay, Ohio",Findlay,Ohio,OH
+"Gambier, Ohio",Gambier,Ohio,OH
+"Granville, Ohio",Granville,Ohio,OH
+"Hiram, Ohio",Hiram,Ohio,OH
+"Kent, Ohio",Kent,Ohio,OH
+"Nelsonville, Ohio",Nelsonville,Ohio,OH
+"New Concord, Ohio",New Concord,Ohio,OH
+"Oberlin, Ohio",Oberlin,Ohio,OH
+"Oxford, Ohio",Oxford,Ohio,OH
+"Perrysburg Township, Ohio",Perrysburg Township,Ohio,OH
+"Rio Grande, Ohio",Rio Grande,Ohio,OH
+"Springfield, Ohio",Springfield,Ohio,OH
+"Steubenville, Ohio",Steubenville,Ohio,OH
+"Tiffin, Ohio",Tiffin,Ohio,OH
+"Toledo, Ohio",Toledo,Ohio,OH
+"Wilberforce, Ohio",Wilberforce,Ohio,OH
+"Wooster, Ohio",Wooster,Ohio,OH
+"Yellow Springs, Ohio",Yellow Springs,Ohio,OH
+"Youngstown, Ohio",Youngstown,Ohio,OH
+"Ada, Oklahoma",Ada,Oklahoma,OK
+"Alva, Oklahoma",Alva,Oklahoma,OK
+"Bethany, Oklahoma",Bethany,Oklahoma,OK
+"Durant, Oklahoma",Durant,Oklahoma,OK
+"Edmond, Oklahoma",Edmond,Oklahoma,OK
+"Goodwell, Oklahoma",Goodwell,Oklahoma,OK
+"Langston, Oklahoma",Langston,Oklahoma,OK
+"Lawton, Oklahoma",Lawton,Oklahoma,OK
+"Midwest City, Oklahoma",Midwest City,Oklahoma,OK
+"Norman, Oklahoma",Norman,Oklahoma,OK
+"Oklahoma City, Oklahoma",Oklahoma City,Oklahoma,OK
+"Stillwater, Oklahoma",Stillwater,Oklahoma,OK
+"Tahlequah, Oklahoma",Tahlequah,Oklahoma,OK
+"Tulsa, Oklahoma",Tulsa,Oklahoma,OK
+"Weatherford, Oklahoma",Weatherford,Oklahoma,OK
+"Ashland, Oregon",Ashland,Oregon,OR
+"Corvallis, Oregon",Corvallis,Oregon,OR
+"Eugene, Oregon",Eugene,Oregon,OR
+"Forest Grove, Oregon",Forest Grove,Oregon,OR
+"Klamath Falls, Oregon",Klamath Falls,Oregon,OR
+"La Grande, Oregon",La Grande,Oregon,OR
+"Lebanon, Oregon",Lebanon,Oregon,OR
+"Marylhurst, Oregon",Marylhurst,Oregon,OR
+"McMinnville, Oregon",McMinnville,Oregon,OR
+"Monmouth, Oregon",Monmouth,Oregon,OR
+"Newberg, Oregon",Newberg,Oregon,OR
+"Salem, Oregon",Salem,Oregon,OR
+"Abington Township, Pennsylvania",Abington Township,Pennsylvania,PA
+"Allentown, Pennsylvania",Allentown,Pennsylvania,PA
+"Altoona, Pennsylvania",Altoona,Pennsylvania,PA
+"Annville, Pennsylvania",Annville,Pennsylvania,PA
+"Bethlehem, Pennsylvania",Bethlehem,Pennsylvania,PA
+"Bloomsburg, Pennsylvania",Bloomsburg,Pennsylvania,PA
+"Bradford, Pennsylvania",Bradford,Pennsylvania,PA
+"California, Pennsylvania",California,Pennsylvania,PA
+"Carlisle, Pennsylvania",Carlisle,Pennsylvania,PA
+"Center Township, Pennsylvania",Center Township,Pennsylvania,PA
+"Center Valley, Pennsylvania",Center Valley,Pennsylvania,PA
+"Chambersburg, Pennsylvania",Chambersburg,Pennsylvania,PA
+"Clarion, Pennsylvania",Clarion,Pennsylvania,PA
+"Collegeville, Pennsylvania",Collegeville,Pennsylvania,PA
+"Cresson, Pennsylvania",Cresson,Pennsylvania,PA
+"Dunmore, Pennsylvania",Dunmore,Pennsylvania,PA
+"Easton, Pennsylvania",Easton,Pennsylvania,PA
+"East Stroudsburg, Pennsylvania",East Stroudsburg,Pennsylvania,PA
+"Edinboro, Pennsylvania",Edinboro,Pennsylvania,PA
+"Erie, Pennsylvania",Erie,Pennsylvania,PA
+"Gettysburg, Pennsylvania",Gettysburg,Pennsylvania,PA
+"Glenside, Pennsylvania",Glenside,Pennsylvania,PA
+"Grantham, Pennsylvania",Grantham,Pennsylvania,PA
+"Greensburg, Pennsylvania",Greensburg,Pennsylvania,PA
+"Grove City, Pennsylvania",Grove City,Pennsylvania,PA
+"Harrisburg, Pennsylvania",Harrisburg,Pennsylvania,PA
+"Hershey, Pennsylvania",Hershey,Pennsylvania,PA
+"Huntingdon, Pennsylvania",Huntingdon,Pennsylvania,PA
+"Indiana, Pennsylvania",Indiana,Pennsylvania,PA
+"Johnstown, Pennsylvania",Johnstown,Pennsylvania,PA
+"Richland Township, Pennsylvania",Richland Township,Pennsylvania,PA
+"Kennett Square, Pennsylvania",Kennett Square,Pennsylvania,PA
+"Kutztown, Pennsylvania",Kutztown,Pennsylvania,PA
+"Lancaster, Pennsylvania",Lancaster,Pennsylvania,PA
+"Lemoyne, Pennsylvania",Lemoyne,Pennsylvania,PA
+"Lewisburg, Pennsylvania",Lewisburg,Pennsylvania,PA
+"Lock Haven, Pennsylvania",Lock Haven,Pennsylvania,PA
+"Loretto, Pennsylvania",Loretto,Pennsylvania,PA
+"Lower Merion Township, Pennsylvania",Lower Merion Township,Pennsylvania,PA
+"Merion, Pennsylvania",Merion,Pennsylvania,PA
+"Mansfield, Pennsylvania",Mansfield,Pennsylvania,PA
+"Meadville, Pennsylvania",Meadville,Pennsylvania,PA
+"Mechanicsburg, Pennsylvania",Mechanicsburg,Pennsylvania,PA
+"Mont Alto, Pennsylvania",Mont Alto,Pennsylvania,PA
+"Millersville, Pennsylvania",Millersville,Pennsylvania,PA
+"New Wilmington, Pennsylvania",New Wilmington,Pennsylvania,PA
+"North East, Pennsylvania",North East,Pennsylvania,PA
+"Pittsburgh, Pennsylvania",Pittsburgh,Pennsylvania,PA
+"Reading, Pennsylvania",Reading,Pennsylvania,PA
+"Scranton, Pennsylvania",Scranton,Pennsylvania,PA
+"Selinsgrove, Pennsylvania",Selinsgrove,Pennsylvania,PA
+"Shippensburg, Pennsylvania",Shippensburg,Pennsylvania,PA
+"Slippery Rock, Pennsylvania",Slippery Rock,Pennsylvania,PA
+"State College, Pennsylvania",State College,Pennsylvania,PA
+"State College, Pennsylvania",State College,Pennsylvania,PA
+"Summerdale, Pennsylvania",Summerdale,Pennsylvania,PA
+"Swarthmore, Pennsylvania",Swarthmore,Pennsylvania,PA
+"Upper Dublin Township, Pennsylvania",Upper Dublin Township,Pennsylvania,PA
+"Villanova, Pennsylvania",Villanova,Pennsylvania,PA
+"Waynesburg, Pennsylvania",Waynesburg,Pennsylvania,PA
+"West Chester, Pennsylvania",West Chester,Pennsylvania,PA
+"Wilkes-Barre, Pennsylvania",Wilkes-Barre,Pennsylvania,PA
+"Williamsport, Pennsylvania",Williamsport,Pennsylvania,PA
+"Bristol, Rhode Island",Bristol,Rhode Island,RI
+"Kingston, Rhode Island",Kingston,Rhode Island,RI
+"Newport, Rhode Island",Newport,Rhode Island,RI
+"Providence, Rhode Island",Providence,Rhode Island,RI
+"College Hill, Rhode Island",College Hill,Rhode Island,RI
+"Downtown, Rhode Island",Downtown,Rhode Island,RI
+"Elmhurst, Rhode Island",Elmhurst,Rhode Island,RI
+"Jewelry District (Providence), Rhode Island",Jewelry District (Providence),Rhode Island,RI
+"Lower South Providence, Rhode Island",Lower South Providence,Rhode Island,RI
+"Manton, Rhode Island",Manton,Rhode Island,RI
+"Smithfield, Rhode Island",Smithfield,Rhode Island,RI
+"Warwick, Rhode Island",Warwick,Rhode Island,RI
+"Beaufort, South Carolina",Beaufort,South Carolina,SC
+"Central, South Carolina",Central,South Carolina,SC
+"Charleston, South Carolina",Charleston,South Carolina,SC
+"Clemson, South Carolina",Clemson,South Carolina,SC
+"Clinton, South Carolina",Clinton,South Carolina,SC
+"Columbia, South Carolina",Columbia,South Carolina,SC
+"Due West, South Carolina",Due West,South Carolina,SC
+"Florence, South Carolina",Florence,South Carolina,SC
+"Greenville, South Carolina",Greenville,South Carolina,SC
+"Greenwood, South Carolina",Greenwood,South Carolina,SC
+"North Charleston, South Carolina",North Charleston,South Carolina,SC
+"Orangeburg, South Carolina",Orangeburg,South Carolina,SC
+"Rock Hill, South Carolina",Rock Hill,South Carolina,SC
+"Spartanburg, South Carolina",Spartanburg,South Carolina,SC
+"Aberdeen, South Dakota",Aberdeen,South Dakota,SD
+"Brookings, South Dakota",Brookings,South Dakota,SD
+"Madison, South Dakota",Madison,South Dakota,SD
+"Rapid City, South Dakota",Rapid City,South Dakota,SD
+"Sioux Falls, South Dakota",Sioux Falls,South Dakota,SD
+"Spearfish, South Dakota",Spearfish,South Dakota,SD
+"Vermillion, South Dakota",Vermillion,South Dakota,SD
+"Chattanooga, Tennessee",Chattanooga,Tennessee,TN
+"Clarksville, Tennessee",Clarksville,Tennessee,TN
+"Collegedale, Tennessee",Collegedale,Tennessee,TN
+"Cookeville, Tennessee",Cookeville,Tennessee,TN
+"Harrogate, Tennessee",Harrogate,Tennessee,TN
+"Henderson, Tennessee",Henderson,Tennessee,TN
+"Johnson City, Tennessee",Johnson City,Tennessee,TN
+"Knoxville, Tennessee",Knoxville,Tennessee,TN
+"Lebanon, Tennessee",Lebanon,Tennessee,TN
+"Martin, Tennessee",Martin,Tennessee,TN
+"Memphis, Tennessee",Memphis,Tennessee,TN
+"McKenzie, Tennessee",McKenzie,Tennessee,TN
+"Murfreesboro, Tennessee",Murfreesboro,Tennessee,TN
+"Nashville, Tennessee",Nashville,Tennessee,TN
+"Sewanee, Tennessee",Sewanee,Tennessee,TN
+"Abilene, Texas",Abilene,Texas,TX
+"Alpine, Texas",Alpine,Texas,TX
+"Amarillo, Texas",Amarillo,Texas,TX
+"Arlington, Texas",Arlington,Texas,TX
+"Austin, Texas",Austin,Texas,TX
+"Beaumont, Texas",Beaumont,Texas,TX
+"Belton, Texas",Belton,Texas,TX
+"Big Spring, Texas",Big Spring,Texas,TX
+"Brownsville, Texas",Brownsville,Texas,TX
+"Brenham, Texas",Brenham,Texas,TX
+"Bryan, Texas",Bryan,Texas,TX
+"Canyon, Texas",Canyon,Texas,TX
+"College Station, Texas",College Station,Texas,TX
+"Commerce, Texas",Commerce,Texas,TX
+"Corpus Christi, Texas",Corpus Christi,Texas,TX
+"Denton, Texas",Denton,Texas,TX
+"Edinburg, Texas",Edinburg,Texas,TX
+"El Paso, Texas",El Paso,Texas,TX
+"Fort Worth, Texas",Fort Worth,Texas,TX
+"Galveston, Texas",Galveston,Texas,TX
+"Georgetown, Texas",Georgetown,Texas,TX
+"Garland, Texas",Garland,Texas,TX
+"Huntsville, Texas",Huntsville,Texas,TX
+"Irving, Texas",Irving,Texas,TX
+"Keene, Texas",Keene,Texas,TX
+"Killeen, Texas",Killeen,Texas,TX
+"Kingsville, Texas",Kingsville,Texas,TX
+"Laredo, Texas",Laredo,Texas,TX
+"Lubbock, Texas",Lubbock,Texas,TX
+"McAllen, Texas",McAllen,Texas,TX
+"Mesquite, Texas",Mesquite,Texas,TX
+"Nacogdoches, Texas",Nacogdoches,Texas,TX
+"Odessa, Texas",Odessa,Texas,TX
+"Pasadena, Texas",Pasadena,Texas,TX
+"Pearland, Texas",Pearland,Texas,TX
+"Plainview, Texas",Plainview,Texas,TX
+"Plano, Texas",Plano,Texas,TX
+"Prairie View, Texas",Prairie View,Texas,TX
+"Richardson, Texas",Richardson,Texas,TX
+"San Angelo, Texas",San Angelo,Texas,TX
+"San Marcos, Texas",San Marcos,Texas,TX
+"Stephenville, Texas",Stephenville,Texas,TX
+"Texarkana, Texas",Texarkana,Texas,TX
+"Tyler, Texas",Tyler,Texas,TX
+"University Park, Texas",University Park,Texas,TX
+"Waco, Texas",Waco,Texas,TX
+"Wichita Falls, Texas",Wichita Falls,Texas,TX
+"Cedar City, Utah",Cedar City,Utah,UT
+"Ephraim, Utah",Ephraim,Utah,UT
+"Logan, Utah",Logan,Utah,UT
+"Ogden, Utah",Ogden,Utah,UT
+"Orem, Utah",Orem,Utah,UT
+"Provo, Utah",Provo,Utah,UT
+"South Jordan, Utah",South Jordan,Utah,UT
+"St. George, Utah",St. George,Utah,UT
+"Bennington, Vermont",Bennington,Vermont,VT
+"Burlington, Vermont",Burlington,Vermont,VT
+"Castleton, Vermont",Castleton,Vermont,VT
+"Colchester, Vermont",Colchester,Vermont,VT
+"Craftsbury, Vermont",Craftsbury,Vermont,VT
+"Johnson, Vermont",Johnson,Vermont,VT
+"Lyndonville, Vermont",Lyndonville,Vermont,VT
+"Middlebury, Vermont",Middlebury,Vermont,VT
+"Northfield, Vermont",Northfield,Vermont,VT
+"Alexandria, Virginia",Alexandria,Virginia,VA
+"Amherst, Virginia",Amherst,Virginia,VA
+"Arlington County, Virginia",Arlington County,Virginia,VA
+"Blacksburg, Virginia",Blacksburg,Virginia,VA
+"Bridgewater, Virginia",Bridgewater,Virginia,VA
+"Charlottesville, Virginia",Charlottesville,Virginia,VA
+"Chesapeake, Virginia",Chesapeake,Virginia,VA
+"Farmville, Virginia",Farmville,Virginia,VA
+"Fredericksburg, Virginia",Fredericksburg,Virginia,VA
+"Hampton, Virginia",Hampton,Virginia,VA
+"Harrisonburg, Virginia",Harrisonburg,Virginia,VA
+"Lexington, Virginia",Lexington,Virginia,VA
+"Lynchburg, Virginia",Lynchburg,Virginia,VA
+"Newport News, Virginia",Newport News,Virginia,VA
+"Norfolk, Virginia",Norfolk,Virginia,VA
+"Portsmouth, Virginia",Portsmouth,Virginia,VA
+"Radford, Virginia",Radford,Virginia,VA
+"Richmond, Virginia",Richmond,Virginia,VA
+"Roanoke, Virginia",Roanoke,Virginia,VA
+"Staunton, Virginia",Staunton,Virginia,VA
+"Virginia Beach, Virginia",Virginia Beach,Virginia,VA
+"Williamsburg, Virginia",Williamsburg,Virginia,VA
+"Wise, Virginia",Wise,Virginia,VA
+"Bellingham, Washington",Bellingham,Washington,WA
+"Cheney, Washington",Cheney,Washington,WA
+"Ellensburg, Washington",Ellensburg,Washington,WA
+"Lakewood, Washington",Lakewood,Washington,WA
+"Parkland, Washington",Parkland,Washington,WA
+"Pullman, Washington",Pullman,Washington,WA
+"Richland, Washington",Richland,Washington,WA
+"Walla Walla, Washington",Walla Walla,Washington,WA
+"Athens, West Virginia",Athens,West Virginia,WV
+"Beckley, West Virginia",Beckley,West Virginia,WV
+"Buckhannon, West Virginia",Buckhannon,West Virginia,WV
+"Elkins, West Virginia",Elkins,West Virginia,WV
+"Fairmont, West Virginia",Fairmont,West Virginia,WV
+"Glenville, West Virginia",Glenville,West Virginia,WV
+"Huntington, West Virginia",Huntington,West Virginia,WV
+"Institute, West Virginia",Institute,West Virginia,WV
+"Lewisburg, West Virginia",Lewisburg,West Virginia,WV
+"Morgantown, West Virginia",Morgantown,West Virginia,WV
+"Shepherdstown, West Virginia",Shepherdstown,West Virginia,WV
+"West Liberty, West Virginia",West Liberty,West Virginia,WV
+"Appleton, Wisconsin",Appleton,Wisconsin,WI
+"Eau Claire, Wisconsin",Eau Claire,Wisconsin,WI
+"Green Bay, Wisconsin",Green Bay,Wisconsin,WI
+"Kenosha, Wisconsin",Kenosha,Wisconsin,WI
+"La Crosse, Wisconsin",La Crosse,Wisconsin,WI
+"Madison, Wisconsin",Madison,Wisconsin,WI
+"Menomonie, Wisconsin",Menomonie,Wisconsin,WI
+"Milwaukee, Wisconsin",Milwaukee,Wisconsin,WI
+"Oshkosh, Wisconsin",Oshkosh,Wisconsin,WI
+"Platteville, Wisconsin",Platteville,Wisconsin,WI
+"River Falls, Wisconsin",River Falls,Wisconsin,WI
+"Stevens Point, Wisconsin",Stevens Point,Wisconsin,WI
+"Waukesha, Wisconsin",Waukesha,Wisconsin,WI
+"Whitewater, Wisconsin",Whitewater,Wisconsin,WI
+"Laramie, Wyoming",Laramie,Wyoming,WY
