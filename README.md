@@ -36,5 +36,5 @@ Aws services: EC2 for VM,S3 buckets for storing raw data, Postgresql on RDS for 
 3. Using Quicksight, we make visualization using transformed data.
 
 ### Dashboard
-![dashboard](https://github.com/vaadewoyin/College-Towns-Data-ETL-AWS-Mage-Pipeline/blob/main/aws_quicksight_dashboard.png)
+![dashboard](https://github.com/vaadewoyin/College-Towns-Data-ETL-AWS-Mage-Pipeline/blob/main/aws_quicksight_dashboard.jpg)
 
