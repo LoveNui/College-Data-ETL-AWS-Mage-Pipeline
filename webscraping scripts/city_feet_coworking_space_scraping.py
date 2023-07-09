@@ -18,7 +18,7 @@ driver = webdriver.Chrome(options=chrome_options)
 driver = webdriver.Chrome()
 
 #load dataframe containing towns to get needed towns name
-towns=pd.read_csv('./Downloads/The Best College Towns for Remote Workers Project/us_college_towns_mod.csv')
+towns=pd.read_csv('us_college_towns.csv')
 
 #format of (town,abbrevation) to input in website's search box
 towns=towns.apply(lambda row: row['town'] + ', ' + row['state_abv'], axis=1)
@@ -33,7 +33,7 @@ def modify_town(town):
     return town_string
 
 town_spaces=[]
-for town in towns[158:]:
+for town in towns:
     try:
         #modify town
         town_string=modify_town(town)
