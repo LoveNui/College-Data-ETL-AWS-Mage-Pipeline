@@ -1,20 +1,25 @@
-if 'custom' not in globals():
-    from mage_ai.data_preparation.decorators import custom
+if 'transformer' not in globals():
+    from mage_ai.data_preparation.decorators import transformer
 if 'test' not in globals():
     from mage_ai.data_preparation.decorators import test
 
 
-@custom
-def transform_custom(data_frames, *args, **kwargs):
+@transformer
+def transform(data_frames, *args, **kwargs):
     """
+    Template code for a transformer block.
+
+    Add more parameters to this function if this block has multiple parent blocks.
+    There should be one parameter for each output variable from each parent block.
+
     Args:
-        data: The output from the upstream parent block (if applicable)
-        args: The output from any additional upstream blocks
+        data: The output from the upstream parent block
+        args: The output from any additional upstream blocks (if applicable)
 
     Returns:
         Anything (e.g. data frame, dictionary, array, int, str, etc.)
     """
-    # Specify your custom logic here
+    # Specify your transformation logic here
     town_names=data_frames[0]
     town_internet=data_frames[1]
     town_places=data_frames[2]
@@ -52,32 +57,56 @@ def transform_custom(data_frames, *args, **kwargs):
     #create new column for town_internet to use as key for joining
     town_work_spaces['college_towns']=town_work_spaces.apply(lambda row: row['town'] + ', ' + row['state'], axis=1)
 
+        
     #join town_walk_scores and town_work_spaces
-    town_walk_and_work_spaces=town_work_spaces.merge(town_walk_scores,left_on='town_name',right_on='town_name',how='inner')
+    town_walk_and_work_spaces=town_work_spaces.merge(town_walk_scores,left_on='town_name',right_on='town_name',how='left')
     #join town_places and town_internet
     town_places['unemployment_rate']=(town_places['unemployment_rate'].str.split('%').str.get(0).str.strip()).astype('float')
-    town_places_and_internet=town_places.merge(town_internet,left_on='college_towns',right_on='college_towns',how='inner')
+    town_places_and_internet=town_places.merge(town_internet,left_on='college_towns',right_on='college_towns',how='left')
 
     #join town_places_and_internet and town_walk_and_work_spaces
     town_info_combined=town_places_and_internet.merge(town_walk_and_work_spaces,left_on='college_towns',
-                                            right_on='college_towns',how='inner')
+                                        right_on='college_towns',how='left')
 
-    town_data=town_info_combined[['population', 'unemployment_rate', 'median_income',
+    town_data=town_info_combined[['population','state_x', 'unemployment_rate', 'median_income',
        'median_age', 'cost_of_living_index', 'college_towns','median_download_speed', 'median_upload_speed',
        'median_latency', 'num_coworking_space','walk_score', 'bike_score', 'num_eateries']]
-
-    #remove comma in population column
+    
+        #remove comma in population column
     town_data['population']=town_data['population'].str.replace(',','')
     #remove dollar and comma in median income column
     town_data['median_income']=town_data['median_income'].str.strip('$').str.replace(',','').str.strip()
     town_data['num_eateries']=town_data['num_eateries'].str.replace(',','')
     #change necessary data type
-    town_data['population']=town_data['population'].astype('int')
+    town_data['population']=town_data['population'].astype('float')
     town_data['median_income']=town_data['median_income'].astype('float')
-    town_data['num_eateries']=town_data['num_eateries'].astype('int')
+    town_data['num_eateries']=town_data['num_eateries'].astype('float')
 
     town_data.drop_duplicates(inplace=True)
-    town_data.reset_index(drop=False,inplace=True)
+    town_data.reset_index(drop=True,inplace=True)
+
+
+        
+    #list of columns with missing values
+    cols_with_missing_vals = ['population', 'unemployment_rate', 'median_income', 
+                            'median_age', 'cost_of_living_index', 'median_download_speed', 
+                            'median_upload_speed', 'median_latency', 'walk_score', 'bike_score',
+                            'num_eateries','num_coworking_space']
+    states_names = list(state_dict.values())
+
+    # Impute missing values with median value of each state
+    for col in cols_with_missing_vals:
+        median_col_val_per_state = town_data.groupby('state_x')[col].median()
+        town_data.loc[town_data[col].isnull(), col] = town_data.loc[town_data[col].isnull(), 'state_x'].map(median_col_val_per_state)
+
+    #fill missing value in Laie, Hawaii with national median value
+    for col in cols_with_missing_vals:
+        town_data[col]=town_data[col].fillna(town_data[col].median())
+        
+    #change data type of columns to meet database requirement
+    cols=['population','walk_score', 'bike_score','num_eateries','num_coworking_space']
+    for col in cols:
+        town_data[col]=town_data[col].astype('int')
 
     #split data back into individual datasets
     town_internet=town_data[['median_download_speed','median_upload_speed', 'median_latency', 'college_towns']]
@@ -112,7 +141,6 @@ def transform_custom(data_frames, *args, **kwargs):
 
 
     return [town_internet,town_places,town_walk_scores,town_work_spaces]
-
 
 @test
 def test_output(output, *args) -> None:
