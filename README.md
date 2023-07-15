@@ -1,4 +1,4 @@
-# College Towns Data ETL | Data Engineering Project
+### Description
 This project focuses on ranking the best college towns for remote workers. By leveraging AWS services(S3, EC2,RDS and Quicksight), utilising ETL (Extract, Transform, Load) using Mage-AI data pipeline, we integrate and analyze data from various sources to provide valuable insights. The goal is to empower remote workers in selecting the most suitable college towns based on criteria such as internet speed, median income, coworking spaces, cost of living, and active mobility.
 
 ### Architecture:
