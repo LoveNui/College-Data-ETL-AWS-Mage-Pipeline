@@ -51,6 +51,9 @@ This project focuses on ranking the best college towns for remote workers. By le
 ## Data Integration and Workflow:
 Data was collected from various sources, such as Wikipedia, Speedtest, Bestplaces, Walkscore, and CityFeet, using Python with BeautifulSoup and Selenium frameworks for web scraping. The collected data is stored in AWS S3 buckets. Mage-AI data pipeline was used for ETL, the data was cleaned and prepared during transformation phase before loading,ensuring data integrity and consistency. The transformed data is then loaded into a PostgreSQL database on AWS RDS, enabling efficient storage and retrieval. 
 
+## Mage pipeline
+![image](https://github.com/vaadewoyin/College-Towns-Data-ETL-AWS-Mage-Pipeline/blob/main/mage-pipeline-tree.png)
+
 ## Key Insights From Analysis
 After loading the data to postgresql database, the following insights were obtained from the analysis done in the database:
 - The college town with the highest number of coworking spaces is Austin, Texas, with 31 coworking spaces.
@@ -75,7 +78,16 @@ After loading the data to postgresql database, the following insights were obtai
 
 ### Ranking Method
 Ranking Methodology:
-To rank the best college towns for remote workers, we employ a weighted sum model. We assign appropriate weights to each criterion , based on the perceived importance of these criteria to remote workers.Factors such as the number of coworking spaces per capita, unemployment rate, active mobility score, and more are carefully evaluated and assigned weights accordingly.This approach ensures that the model reflects the relative significance of each criterion, allowing for a more accurate and informed decision-making process when selecting a college town for remote work.
+To rank the best college towns for remote workers, we employ a weighted sum model. We assign appropriate weights to each criterion , based on the perceived importance of these criteria to remote workers.The weights used for each attributes:- Unemployment rate: 10%, Cost of living index: 20%, Number of eateries per capita: 10%, Number of coworking spaces per capita: 10%, Median income per capita: 15%, Speed score: 20%, Active Mobility Score: 15% .These Factors are carefully evaluated and assigned weights accordingly.This approach ensures that the model reflects the relative significance of each criterion, allowing for a more accurate and informed decision-making process when selecting a college town for remote work. The top 5 college towns according to the ranking model is shown below:
+
+| Rank | College Town              | Unemployment Rate | Cost of Living Index | Eateries per Capita | Coworking Spaces per Capita | Median Income per Capita | Internet Speed Score | Active Mobility Score | Ranking Score |
+|------|---------------------------|-------------------|----------------------|--------------------|----------------------------|-------------------------|---------------------|----------------------|---------------|
+| 1    | Montreat, North Carolina  | 4.3               | 121.7                | 0.865889           | 0.005831                   | 178.571429              | 123.5050            | 31.05                | 0.018865      |
+| 2    | Lower Merion Township, PA | 7.9               | 77.8                 | 0.253401           | 0.003401                   | 72.988095               | 104.9530            | 57.80                | 0.008128      |
+| 3    | Misenheimer, North Carolina | 4.1               | 76.7                 | 0.423077           | 0.002849                   | 49.857550               | 123.5050            | 31.05                | 0.008089      |
+| 4    | St. Leo, Florida          | 5.0               | 116.7                | 0.285826           | 0.001566                   | 72.435395               | 120.6205            | 39.15                | 0.007175      |
+| 5    | Due West, South Carolina  | 5.4               | 75.2                 | 0.384972           | 0.001855                   | 44.179035               | 112.6820            | 32.15                | 0.006906      |
+
 
 ### Tableau Dashboard
 The interactive dashboard below can be accessed @ [my-tableau-profile](https://public.tableau.com/views/collegetownsdashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
